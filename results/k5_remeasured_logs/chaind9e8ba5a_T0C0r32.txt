@@ -1,0 +1,14 @@
+RNG_test using PractRand version 0.94
+RNG = RNG_stdin64, seed = unknown
+test set = core, folding = extra
+
+rng=RNG_stdin64, seed=unknown
+length= 1 kilobyte (2^10 bytes), time= 0.1 seconds
+  Test Name                         Raw       Processed     Evaluation
+  DC6-9x1Bytes-1                    R=+182.7  p =  2.8e-51    FAIL !!!!      
+  FPF-14+6/16:all                   R= -56.5  p~= 1-6e-27     FAIL !!        
+  mod3n(5):(0,9-6)                  R= +43.5  p =  2.2e-15    FAIL !         
+  mod3n(5):(1,9-6)                  R= +12.5  p =  5.3e-5   mildly suspicious
+  mod3n(5):(2,9-6)                  R= +12.6  p =  5.1e-5   mildly suspicious
+  ...and 1 test result(s) without anomalies
+

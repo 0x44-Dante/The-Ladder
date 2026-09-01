@@ -1,0 +1,44 @@
+RNG_test using PractRand version 0.94
+RNG = RNG_stdin64, seed = unknown
+test set = core, folding = extra
+
+rng=RNG_stdin64, seed=unknown
+length= 1 kilobyte (2^10 bytes), time= 0.2 seconds
+  Test Name                         Raw       Processed     Evaluation
+  mod3n(5):(1,9-6)                  R= +24.0  p =  7.9e-9    VERY SUSPICIOUS 
+  ...and 5 test result(s) without anomalies
+
+rng=RNG_stdin64, seed=unknown
+length= 2 kilobytes (2^11 bytes), time= 0.3 seconds
+  Test Name                         Raw       Processed     Evaluation
+  mod3n(5):(1,9-6)                  R= +24.0  p =  7.9e-9    VERY SUSPICIOUS 
+  ...and 7 test result(s) without anomalies
+
+rng=RNG_stdin64, seed=unknown
+length= 4 kilobytes (2^12 bytes), time= 0.3 seconds
+  Test Name                         Raw       Processed     Evaluation
+  mod3n(5):(1,9-6)                  R= +24.0  p =  7.9e-9   very suspicious  
+  [Low4/16]mod3n(5):(0,9-6)         R= +28.6  p =  2.2e-10   VERY SUSPICIOUS 
+  [Low8/32]mod3n(5):(0,9-6)         R= +30.2  p =  6.3e-11   VERY SUSPICIOUS 
+  ...and 21 test result(s) without anomalies
+
+rng=RNG_stdin64, seed=unknown
+length= 8 kilobytes (2^13 bytes), time= 0.5 seconds
+  Test Name                         Raw       Processed     Evaluation
+  FPF-14+6/16:(0,14-9)              R=  -5.1  p =1-1.1e-6   unusual          
+  FPF-14+6/16:cross                 R=  -1.7  p =1-5.3e-4   unusual          
+  mod3n(5):(1,9-6)                  R= +24.0  p =  7.9e-9   very suspicious  
+  [Low1/8]FPF-14+6/16:all           R=+240.2  p~=   1e-137    FAIL !!!!!     
+  [Low4/16]FPF-14+6/16:cross        R=  -1.4  p~=1-4.9e-4   unusual          
+  [Low4/16]mod3n(5):(0,9-6)         R= +28.6  p =  2.2e-10   VERY SUSPICIOUS 
+  [Low4/32]FPF-14+6/16:all          R=+234.0  p~=   9e-134    FAIL !!!!!     
+  [Low4/32]mod3n(5):(0,9-6)         R= +25.1  p =  3.3e-9   very suspicious  
+  [Low8/32]FPF-14+6/16:cross        R=  -1.4  p~=1-4.9e-4   unusual          
+  [Low8/32]mod3n(5):(0,9-6)         R= +30.2  p =  6.3e-11   VERY SUSPICIOUS 
+  [Low8/64]DC6-9x1Bytes-1           R= +59.2  p =  3.1e-17    FAIL !         
+  [Low8/64]FPF-14+6/16:all          R=+234.0  p~=   9e-134    FAIL !!!!!     
+  [Low8/64]mod3n(5):(0,9-6)         R=+468.3  p =  2.7e-157   FAIL !!!!!     
+  [Low8/64]mod3n(5):(1,9-6)         R=+214.9  p =  1.3e-72    FAIL !!!!      
+  [Low8/64]mod3n(5):(2,9-6)         R= +59.7  p =  8.9e-21    FAIL !!        
+  ...and 29 test result(s) without anomalies
+

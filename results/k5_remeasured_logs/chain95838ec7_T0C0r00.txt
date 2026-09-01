@@ -1,0 +1,45 @@
+RNG_test using PractRand version 0.94
+RNG = RNG_stdin64, seed = unknown
+test set = core, folding = extra
+
+rng=RNG_stdin64, seed=unknown
+length= 1 kilobyte (2^10 bytes), time= 0.1 seconds
+  no anomalies in 6 test result(s)
+
+rng=RNG_stdin64, seed=unknown
+length= 2 kilobytes (2^11 bytes), time= 0.2 seconds
+  no anomalies in 8 test result(s)
+
+rng=RNG_stdin64, seed=unknown
+length= 4 kilobytes (2^12 bytes), time= 0.3 seconds
+  no anomalies in 24 test result(s)
+
+rng=RNG_stdin64, seed=unknown
+length= 8 kilobytes (2^13 bytes), time= 0.5 seconds
+  no anomalies in 47 test result(s)
+
+rng=RNG_stdin64, seed=unknown
+length= 16 kilobytes (2^14 bytes), time= 1.0 seconds
+  Test Name                         Raw       Processed     Evaluation
+  DC6-9x1Bytes-1                    R=  +6.9  p =  1.5e-3   unusual          
+  [Low4/64]DC6-9x1Bytes-1           R= +10.7  p =  7.5e-4   unusual          
+  ...and 72 test result(s) without anomalies
+
+rng=RNG_stdin64, seed=unknown
+length= 32 kilobytes (2^15 bytes), time= 1.7 seconds
+  Test Name                         Raw       Processed     Evaluation
+  DC6-9x1Bytes-1                    R=  +8.1  p =  3.6e-4   unusual          
+  Gap-16:A                          R=  +8.7  p =  2.1e-6   suspicious       
+  FPF-14+6/16:all                   R= +11.5  p =  1.8e-7   very suspicious  
+  FPF-14+6/16:cross                 R=  +5.7  p =  1.7e-4   unusual          
+  [Low4/16]DC6-9x1Bytes-1           R=  +7.2  p =  1.7e-3   unusual          
+  [Low4/32]Gap-16:A                 R= +14.7  p =  6.3e-13    FAIL           
+  [Low4/32]Gap-16:B                 R= +16.3  p =  9.8e-14    FAIL           
+  [Low4/64]DC6-9x1Bytes-1           R= +27.9  p =  1.0e-9    VERY SUSPICIOUS 
+  [Low8/32]Gap-16:A                 R=  +8.7  p =  1.0e-5   mildly suspicious
+  [Low8/32]Gap-16:B                 R=  +9.5  p =  6.8e-6   suspicious       
+  [Low8/64]BCFN(2+0,13-9,T)         R= +31.9  p =  1.9e-8   very suspicious  
+  [Low8/64]Gap-16:A                 R= +48.8  p =  4.7e-44    FAIL !!!       
+  [Low8/64]Gap-16:B                 R= +51.2  p =  2.2e-44    FAIL !!!       
+  ...and 86 test result(s) without anomalies
+

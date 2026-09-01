@@ -1,0 +1,82 @@
+DEPTH TEST  (full: 64 streams x 16GB per candidate)
+  done: anchor_chain522e8dd6_T0C0r00  ->  FAIL at 2^19
+  done: anchor_nasam_T1C0r16  ->  clean to 2^28
+  done: anchor_nasam_T1C0r00  ->  clean to 2^28
+  done: anchor_nasam_T0C0r00  ->  clean to 2^28
+  done: anchor_nasam_T0C0r32  ->  clean to 2^28
+unknown mixer: ladder_no_such_mixer
+  judge_ladder_no_such_mixer_T0C0r00 NOT MEASURED (no PractRand output)  (0 s)
+  WATCHDOG: judge_nasam_T0C0r00 killed after 3 s -- recorded ABORTED
+  WATCHDOG: wd_stalltest_T0C0r00 stalled (no output in 8 s) -- recorded ABORTED
+  wd_nasam_T0C0r00           clean to 2^14  (1 s)
+Anchor ok: mix13 falls, nasam holds the gauntlets, the court can decline, the stall detector bites and the margin holds.
+1 candidates.
+
+== lu9_mfx9  chain=6:9e3779b97f4a7c15,8:781f94b96e8edb3b,8:b853d68343f7525b  (cost 9, xor-const + mulfold x2 -- the depth stage four documents claimed and no file records) ==
+  done: chainbf66a4b7_T0C0r28  ->  clean to 2^34
+  done: chainbf66a4b7_T0C0r00  ->  clean to 2^34
+  done: chainbf66a4b7_T0C0r16  ->  clean to 2^34  (1x suspicious)
+  done: chainbf66a4b7_T0C0r20  ->  clean to 2^34  (1x suspicious)
+  done: chainbf66a4b7_T0C0r04  ->  clean to 2^34
+  done: chainbf66a4b7_T0C0r08  ->  clean to 2^34
+  done: chainbf66a4b7_T0C0r12  ->  clean to 2^34
+  done: chainbf66a4b7_T0C0r24  ->  clean to 2^34
+  done: chainbf66a4b7_T0C0r32  ->  clean to 2^34
+  done: chainbf66a4b7_T0C0r36  ->  clean to 2^34
+  done: chainbf66a4b7_T0C0r48  ->  clean to 2^34
+  done: chainbf66a4b7_T0C0r40  ->  clean to 2^34  (1x suspicious)
+  done: chainbf66a4b7_T0C0r44  ->  clean to 2^34
+  done: chainbf66a4b7_T0C0r52  ->  clean to 2^34
+  done: chainbf66a4b7_T0C0r60  ->  clean to 2^34
+  done: chainbf66a4b7_T0C0r56  ->  clean to 2^34
+  done: chainbf66a4b7_T1C0r00  ->  clean to 2^34
+  done: chainbf66a4b7_T1C0r04  ->  clean to 2^34
+  done: chainbf66a4b7_T1C0r08  ->  clean to 2^34
+  done: chainbf66a4b7_T1C0r12  ->  clean to 2^34
+  done: chainbf66a4b7_T1C0r16  ->  clean to 2^34
+  done: chainbf66a4b7_T1C0r20  ->  clean to 2^34  (1x suspicious)
+  done: chainbf66a4b7_T1C0r24  ->  clean to 2^34
+  done: chainbf66a4b7_T1C0r28  ->  clean to 2^34  (1x suspicious)
+  done: chainbf66a4b7_T1C0r32  ->  clean to 2^34
+  done: chainbf66a4b7_T1C0r36  ->  clean to 2^34
+  done: chainbf66a4b7_T1C0r48  ->  clean to 2^34  (1x suspicious)
+  done: chainbf66a4b7_T1C0r40  ->  clean to 2^34
+  done: chainbf66a4b7_T1C0r44  ->  clean to 2^34
+  done: chainbf66a4b7_T1C0r52  ->  clean to 2^34
+  done: chainbf66a4b7_T1C0r56  ->  clean to 2^34
+  done: chainbf66a4b7_T1C0r60  ->  clean to 2^34
+  done: chainbf66a4b7_T0C1r00  ->  clean to 2^34
+  done: chainbf66a4b7_T0C1r04  ->  clean to 2^34
+  done: chainbf66a4b7_T0C1r08  ->  clean to 2^34
+  done: chainbf66a4b7_T0C1r12  ->  clean to 2^34
+  done: chainbf66a4b7_T0C1r16  ->  clean to 2^34  (2x suspicious)
+  done: chainbf66a4b7_T0C1r20  ->  clean to 2^34
+  done: chainbf66a4b7_T0C1r24  ->  clean to 2^34
+  done: chainbf66a4b7_T0C1r28  ->  clean to 2^34
+  done: chainbf66a4b7_T0C1r32  ->  clean to 2^34
+  done: chainbf66a4b7_T0C1r36  ->  clean to 2^34
+  done: chainbf66a4b7_T0C1r40  ->  clean to 2^34
+  done: chainbf66a4b7_T0C1r48  ->  clean to 2^34
+  done: chainbf66a4b7_T0C1r52  ->  clean to 2^34
+  done: chainbf66a4b7_T0C1r44  ->  clean to 2^34
+  done: chainbf66a4b7_T0C1r60  ->  clean to 2^34
+  done: chainbf66a4b7_T0C1r56  ->  clean to 2^34
+  done: chainbf66a4b7_T1C1r00  ->  clean to 2^34
+  done: chainbf66a4b7_T1C1r04  ->  clean to 2^34
+  done: chainbf66a4b7_T1C1r08  ->  clean to 2^34
+  done: chainbf66a4b7_T1C1r16  ->  clean to 2^34
+  done: chainbf66a4b7_T1C1r20  ->  clean to 2^34
+  done: chainbf66a4b7_T1C1r12  ->  clean to 2^34
+  done: chainbf66a4b7_T1C1r24  ->  clean to 2^34
+  done: chainbf66a4b7_T1C1r28  ->  clean to 2^34
+  done: chainbf66a4b7_T1C1r32  ->  clean to 2^34
+  done: chainbf66a4b7_T1C1r36  ->  clean to 2^34
+  done: chainbf66a4b7_T1C1r52  ->  clean to 2^34
+  done: chainbf66a4b7_T1C1r40  ->  clean to 2^34
+  done: chainbf66a4b7_T1C1r44  ->  clean to 2^34
+  done: chainbf66a4b7_T1C1r48  ->  clean to 2^34
+  done: chainbf66a4b7_T1C1r60  ->  clean to 2^34
+  done: chainbf66a4b7_T1C1r56  ->  clean to 2^34  (2x suspicious)
+-> PASSED: 64/64 clean, 0 FAIL, 0 ABORTED (2342 s)
+
+DONE after 40 min -> [path redacted before publication; it named the output file under the rig's own results folder]

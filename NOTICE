@@ -1,0 +1,31 @@
+Third parties, and what belongs to whom.
+
+This file used to sit at the bottom of LICENSE. It was moved out because
+GitHub's license detection reads a file with anything appended to the MIT
+text as "Other", and the licence here is plain MIT.
+
+PractRand
+    Chris Doty-Humphrey. The judge in every measurement in this
+    repository, and NOT included here: it is downloaded and built from
+    source, and it is subject to its own licence. Version 0.94, built
+    with -std=gnu++14 and the return patch documented in
+    rrc/PRACTRAND_FINDING.md.
+
+The RRC test scheme
+    Pelle Evensen. Rotate, reverse and complement disguises for counter
+    streams. The scheme this entire rig is built on. Both external
+    calibration weights are his published measurements: mix13's failure
+    range and NASAM's pass at RRC-64-42.
+
+Reference mixers and constants
+    mix13 is Stafford's, fmix64 is Appleby's, moremur and NASAM are
+    Evensen's, the wyhash pattern and the wyrand step are Wang Yi's.
+    Where a constant comes from someone else's mixer, README.md says so
+    at the place it is used.
+
+The cost-axis comparison
+    Martin Leitner-Ankerl's mixer benchmark
+    (github.com/martinus/better-faster-stronger-mixer) is the prior art
+    for measuring mixers against a cost axis. The figures attributed to
+    him in costlimit/ were counted from his published tables and never
+    re-measured here; literature/LITERATURE.md records that.

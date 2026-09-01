@@ -1,0 +1,40 @@
+RNG_test using PractRand version 0.94
+RNG = RNG_stdin64, seed = unknown
+test set = core, folding = extra
+
+rng=RNG_stdin64, seed=unknown
+length= 1 kilobyte (2^10 bytes), time= 0.1 seconds
+  no anomalies in 6 test result(s)
+
+rng=RNG_stdin64, seed=unknown
+length= 2 kilobytes (2^11 bytes), time= 0.2 seconds
+  no anomalies in 8 test result(s)
+
+rng=RNG_stdin64, seed=unknown
+length= 4 kilobytes (2^12 bytes), time= 0.3 seconds
+  Test Name                         Raw       Processed     Evaluation
+  [Low8/32]mod3n(5):(0,9-6)         R= +15.0  p =  7.9e-6   mildly suspicious
+  ...and 23 test result(s) without anomalies
+
+rng=RNG_stdin64, seed=unknown
+length= 8 kilobytes (2^13 bytes), time= 0.6 seconds
+  Test Name                         Raw       Processed     Evaluation
+  [Low8/32]DC6-9x1Bytes-1           R=  +7.8  p =  3.2e-3   unusual          
+  [Low8/32]mod3n(5):(0,9-6)         R= +15.0  p =  7.9e-6   mildly suspicious
+  ...and 45 test result(s) without anomalies
+
+rng=RNG_stdin64, seed=unknown
+length= 16 kilobytes (2^14 bytes), time= 1.0 seconds
+  Test Name                         Raw       Processed     Evaluation
+  [Low1/8]DC6-9x1Bytes-1            R=  +7.8  p =  3.3e-3   unusual          
+  [Low1/16]DC6-9x1Bytes-1           R= +12.4  p =  2.5e-4   mildly suspicious
+  [Low4/16]Gap-16:A                 R=  +7.1  p =  4.9e-6   suspicious       
+  [Low4/16]Gap-16:B                 R=  +6.9  p =  1.5e-5   mildly suspicious
+  [Low4/32]DC6-9x1Bytes-1           R= +18.0  p =  1.6e-6   very suspicious  
+  [Low8/32]BCFN(2+0,13-9,T)         R= +21.2  p =  5.8e-6   suspicious       
+  [Low8/32]DC6-9x1Bytes-1           R= +18.5  p =  1.3e-7   very suspicious  
+  [Low8/32]Gap-16:A                 R= +56.7  p =  3.2e-51    FAIL !!!!      
+  [Low8/32]Gap-16:B                 R= +60.8  p =  7.5e-53    FAIL !!!!      
+  [Low8/32]mod3n(5):(0,9-6)         R= +15.0  p =  7.9e-6   mildly suspicious
+  ...and 64 test result(s) without anomalies
+

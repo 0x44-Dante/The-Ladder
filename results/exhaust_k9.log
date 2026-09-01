@@ -1,0 +1,1293 @@
+
+============================================================
+  ERSCHOEPFUNG 1   19.08.2026 19:37:01,04
+============================================================
+  fertig: kette8c9da979_T0C0r00  ->  FAIL bei 2^19
+  fertig: kette52ee9e2c_T1C0r16  ->  sauber bis 2^28
+  fertig: kette52ee9e2c_T1C0r00  ->  sauber bis 2^28
+  fertig: kette52ee9e2c_T0C0r00  ->  sauber bis 2^28
+  fertig: kette52ee9e2c_T0C0r32  ->  sauber bis 2^28
+Anker ok: mix13 faellt, mfx9 haelt die 256-MB-Henker.
+ERSCHOEPFUNG K9  (30980 Ketten gesamt, 1258 erledigt, 29721 vor S1, 1 vor Smoke)
+  fertig: kette52f94eb2_T0C0r00  ->  sauber bis 2^31
+  fertig: kette52f94eb2_T0C0r08  ->  sauber bis 2^31
+  fertig: kette52f94eb2_T0C0r24  ->  sauber bis 2^31
+  fertig: kette52f94eb2_T0C0r40  ->  sauber bis 2^31  (4x suspicious)
+  fertig: kette52f94eb2_T0C0r48  ->  sauber bis 2^31
+  fertig: kette52f94eb2_T0C0r16  ->  sauber bis 2^31
+  fertig: kette52f94eb2_T0C0r32  ->  FAIL bei 2^31
+  fertig: kette52f94eb2_T0C0r56  ->  sauber bis 2^31
+  fertig: kette52f94eb2_T1C0r00  ->  sauber bis 2^31  (2x suspicious)
+  fertig: kette52f94eb2_T1C0r16  ->  sauber bis 2^31
+  fertig: kette52f94eb2_T1C0r24  ->  sauber bis 2^31  (8x suspicious)
+  fertig: kette52f94eb2_T1C0r08  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette52f94eb2_T0C1r00  ->  sauber bis 2^31
+  fertig: kette52f94eb2_T1C0r32  ->  sauber bis 2^31
+  fertig: kette52f94eb2_T1C0r40  ->  sauber bis 2^31
+  fertig: kette52f94eb2_T1C0r48  ->  sauber bis 2^31
+  fertig: kette52f94eb2_T1C0r56  ->  sauber bis 2^31
+  fertig: kette52f94eb2_T0C1r08  ->  sauber bis 2^31
+  fertig: kette52f94eb2_T0C1r16  ->  sauber bis 2^31
+  fertig: kette52f94eb2_T0C1r24  ->  sauber bis 2^31
+  fertig: kette52f94eb2_T0C1r32  ->  sauber bis 2^31
+  fertig: kette52f94eb2_T0C1r40  ->  sauber bis 2^31
+  fertig: kette52f94eb2_T0C1r48  ->  sauber bis 2^31
+  fertig: kette52f94eb2_T0C1r56  ->  sauber bis 2^31
+  fertig: kette52f94eb2_T1C1r00  ->  sauber bis 2^31
+  fertig: kette52f94eb2_T1C1r24  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette52f94eb2_T1C1r08  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette52f94eb2_T1C1r16  ->  sauber bis 2^31
+  fertig: kette52f94eb2_T1C1r32  ->  sauber bis 2^31
+  fertig: kette52f94eb2_T1C1r40  ->  sauber bis 2^31
+  fertig: kette52f94eb2_T1C1r48  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette52f94eb2_T1C1r56  ->  sauber bis 2^31
+  Smoke A/bswap/c4ceb9fe1a85ec53/c4ceb9fe1a85ec53: 31/32 (first_fail 2^31)
+  fertig: kettef35ce657_T0C0r00  ->  FAIL bei 2^26
+  fertig: kette7549cf3a_T1C0r00  ->  FAIL bei 2^27
+  fertig: kette7549cf3a_T1C0r16  ->  sauber bis 2^28  (3x suspicious)
+  fertig: kette7549cf3a_T0C0r00  ->  sauber bis 2^28
+  fertig: kette7549cf3a_T0C0r32  ->  sauber bis 2^28
+  fertig: ketteecc7e251_T1C0r16  ->  sauber bis 2^28
+  fertig: ketteecc7e251_T1C0r00  ->  sauber bis 2^28
+  fertig: ketteecc7e251_T0C0r00  ->  sauber bis 2^28
+  fertig: ketteecc7e251_T0C0r32  ->  sauber bis 2^28
+  fertig: kettef35ce657_T1C0r16  ->  sauber bis 2^28
+  fertig: kettef35ce657_T1C0r00  ->  sauber bis 2^28
+  fertig: kettef35ce657_T0C0r32  ->  FAIL bei 2^28
+  fertig: ketted855971c_T1C0r16  ->  sauber bis 2^28
+  fertig: ketted855971c_T1C0r00  ->  sauber bis 2^28  (1x suspicious)
+  fertig: ketted855971c_T0C0r00  ->  sauber bis 2^28
+  fertig: ketted855971c_T0C0r32  ->  sauber bis 2^28
+  fertig: kettee4265d99_T1C0r16  ->  sauber bis 2^28
+  fertig: kettee4265d99_T1C0r00  ->  sauber bis 2^28
+  fertig: kettee4265d99_T0C0r00  ->  sauber bis 2^28
+  fertig: kettee4265d99_T0C0r32  ->  sauber bis 2^28
+  fertig: kette55ff2276_T1C0r16  ->  sauber bis 2^28
+  fertig: kette55ff2276_T1C0r00  ->  sauber bis 2^28
+  fertig: kette55ff2276_T0C0r00  ->  sauber bis 2^28
+  fertig: kette55ff2276_T0C0r32  ->  sauber bis 2^28
+  fertig: kettedc26c837_T1C0r16  ->  sauber bis 2^28
+  fertig: kettedc26c837_T1C0r00  ->  sauber bis 2^28  (1x suspicious)
+  fertig: kettedc26c837_T0C0r00  ->  sauber bis 2^28
+  fertig: kettedc26c837_T0C0r32  ->  sauber bis 2^28
+  fertig: kette4c90b6db_T1C0r16  ->  sauber bis 2^28
+  fertig: kette4c90b6db_T1C0r00  ->  sauber bis 2^28
+  fertig: kette4c90b6db_T0C0r00  ->  sauber bis 2^28
+  fertig: kette4c90b6db_T0C0r32  ->  sauber bis 2^28
+  fertig: kette1a6b4082_T1C0r16  ->  sauber bis 2^28
+  fertig: kette1a6b4082_T1C0r00  ->  sauber bis 2^28
+  fertig: kette1a6b4082_T0C0r00  ->  sauber bis 2^28
+  fertig: kette1a6b4082_T0C0r32  ->  sauber bis 2^28
+  fertig: kette6213c883_T1C0r16  ->  sauber bis 2^28
+  fertig: kette6213c883_T1C0r00  ->  sauber bis 2^28
+  fertig: kette6213c883_T0C0r00  ->  sauber bis 2^28
+  fertig: kette6213c883_T0C0r32  ->  sauber bis 2^28
+  fertig: kette3fe60464_T1C0r16  ->  sauber bis 2^28
+  fertig: kette3fe60464_T1C0r00  ->  sauber bis 2^28  (2x suspicious)
+  fertig: kette3fe60464_T0C0r00  ->  sauber bis 2^28
+  fertig: kette3fe60464_T0C0r32  ->  sauber bis 2^28
+  fertig: ketted87c3bcb_T1C0r16  ->  sauber bis 2^28
+  fertig: ketted87c3bcb_T1C0r00  ->  sauber bis 2^28  (1x suspicious)
+  fertig: ketted87c3bcb_T0C0r00  ->  sauber bis 2^28
+  fertig: ketted87c3bcb_T0C0r32  ->  sauber bis 2^28
+  fertig: kette5de96acd_T1C0r00  ->  FAIL bei 2^23
+  fertig: kette5de96acd_T1C0r16  ->  sauber bis 2^28  (1x suspicious)
+  fertig: kette5de96acd_T0C0r00  ->  FAIL bei 2^28
+  fertig: kette5de96acd_T0C0r32  ->  FAIL bei 2^28
+  fertig: kettec7869e42_T1C0r16  ->  sauber bis 2^28
+  fertig: kettec7869e42_T1C0r00  ->  sauber bis 2^28
+  fertig: kettec7869e42_T0C0r00  ->  sauber bis 2^28
+  fertig: kettec7869e42_T0C0r32  ->  sauber bis 2^28
+  fertig: kettec1439861_T1C0r16  ->  FAIL bei 2^28
+  fertig: kettec1439861_T1C0r00  ->  sauber bis 2^28
+  fertig: kettec1439861_T0C0r00  ->  sauber bis 2^28
+  fertig: kettec1439861_T0C0r32  ->  sauber bis 2^28  (1x suspicious)
+  fertig: kettefddd0134_T1C0r16  ->  sauber bis 2^28  (1x suspicious)
+  fertig: kettefddd0134_T1C0r00  ->  sauber bis 2^28
+  fertig: kette058c829e_T0C0r32  ->  FAIL bei 2^27
+  fertig: kettefddd0134_T0C0r00  ->  sauber bis 2^28
+  fertig: kettefddd0134_T0C0r32  ->  sauber bis 2^28  (1x suspicious)
+  fertig: kette058c829e_T1C0r16  ->  sauber bis 2^28  (1x suspicious)
+  fertig: kette058c829e_T1C0r00  ->  sauber bis 2^28
+  fertig: kette058c829e_T0C0r00  ->  sauber bis 2^28  (2x suspicious)
+  fertig: kette1e9b3726_T1C0r16  ->  sauber bis 2^28
+  fertig: kette1e9b3726_T1C0r00  ->  sauber bis 2^28
+  fertig: kette1e9b3726_T0C0r00  ->  sauber bis 2^28
+  fertig: kette1e9b3726_T0C0r32  ->  sauber bis 2^28
+  fertig: ketteb4336dc6_T1C0r16  ->  sauber bis 2^28  (5x suspicious)
+  fertig: ketteb4336dc6_T1C0r00  ->  sauber bis 2^28
+  fertig: kette3351e3d6_T1C0r00  ->  FAIL bei 2^26
+  fertig: ketteb4336dc6_T0C0r00  ->  sauber bis 2^28
+  fertig: ketteb4336dc6_T0C0r32  ->  sauber bis 2^28
+  fertig: kette02e4655c_T1C0r16  ->  sauber bis 2^28
+  fertig: kette02e4655c_T1C0r00  ->  sauber bis 2^28
+  fertig: kette02e4655c_T0C0r00  ->  sauber bis 2^28  (1x suspicious)
+  fertig: kette02e4655c_T0C0r32  ->  sauber bis 2^28
+  fertig: kette3351e3d6_T1C0r16  ->  sauber bis 2^28  (1x suspicious)
+  fertig: kette3351e3d6_T0C0r00  ->  sauber bis 2^28  (1x suspicious)
+  fertig: kette3351e3d6_T0C0r32  ->  sauber bis 2^28
+  fertig: kette74d9c6f0_T1C0r16  ->  sauber bis 2^28
+  fertig: kette74d9c6f0_T1C0r00  ->  sauber bis 2^28  (1x suspicious)
+  fertig: kette74d9c6f0_T0C0r00  ->  sauber bis 2^28
+  fertig: kette74d9c6f0_T0C0r32  ->  sauber bis 2^28
+  fertig: kettec6b93397_T1C0r16  ->  sauber bis 2^28
+  fertig: kettec6b93397_T1C0r00  ->  sauber bis 2^28
+  fertig: kettec6b93397_T0C0r00  ->  sauber bis 2^28
+  fertig: kettec6b93397_T0C0r32  ->  sauber bis 2^28
+  fertig: kette7291ea8f_T1C0r16  ->  sauber bis 2^28
+  fertig: kette7291ea8f_T1C0r00  ->  sauber bis 2^28  (1x suspicious)
+  fertig: kette7291ea8f_T0C0r00  ->  sauber bis 2^28
+  fertig: kette7291ea8f_T0C0r32  ->  sauber bis 2^28
+  fertig: kettefa15332c_T1C0r16  ->  sauber bis 2^28  (2x suspicious)
+  fertig: kettefa15332c_T1C0r00  ->  sauber bis 2^28
+  fertig: kettefa15332c_T0C0r00  ->  sauber bis 2^28
+  fertig: kettefa15332c_T0C0r32  ->  sauber bis 2^28
+  fertig: ketteecc7e251_T0C0r00  ->  sauber bis 2^31  (6x suspicious)
+  fertig: ketteecc7e251_T0C0r16  ->  sauber bis 2^31
+  fertig: ketteecc7e251_T0C0r08  ->  sauber bis 2^31
+  fertig: ketteecc7e251_T0C0r24  ->  sauber bis 2^31
+  fertig: ketteecc7e251_T0C0r32  ->  FAIL bei 2^31
+  fertig: ketteecc7e251_T0C0r40  ->  sauber bis 2^31
+  fertig: ketteecc7e251_T0C0r48  ->  sauber bis 2^31  (2x suspicious)
+  fertig: ketteecc7e251_T0C0r56  ->  sauber bis 2^31  (2x suspicious)
+  fertig: ketteecc7e251_T1C0r00  ->  FAIL bei 2^31
+  fertig: ketteecc7e251_T1C0r08  ->  sauber bis 2^31
+  fertig: ketteecc7e251_T1C0r16  ->  sauber bis 2^31
+  fertig: ketteecc7e251_T1C0r24  ->  sauber bis 2^31
+  fertig: ketteecc7e251_T1C0r32  ->  FAIL bei 2^27
+  fertig: ketteecc7e251_T1C0r40  ->  sauber bis 2^31
+  fertig: ketteecc7e251_T1C0r48  ->  sauber bis 2^31  (1x suspicious)
+  fertig: ketteecc7e251_T0C1r00  ->  sauber bis 2^31
+  fertig: ketteecc7e251_T0C1r08  ->  sauber bis 2^31  (1x suspicious)
+  fertig: ketteecc7e251_T0C1r16  ->  sauber bis 2^31
+  fertig: ketteecc7e251_T0C1r24  ->  sauber bis 2^31
+  fertig: ketteecc7e251_T0C1r32  ->  sauber bis 2^31
+  fertig: ketteecc7e251_T0C1r40  ->  sauber bis 2^31
+  fertig: ketteecc7e251_T0C1r48  ->  sauber bis 2^31
+  fertig: ketteecc7e251_T0C1r56  ->  sauber bis 2^31
+  fertig: ketteecc7e251_T1C0r56  ->  sauber bis 2^31
+  fertig: ketteecc7e251_T1C1r00  ->  sauber bis 2^31
+  fertig: ketteecc7e251_T1C1r08  ->  sauber bis 2^31
+  fertig: ketteecc7e251_T1C1r16  ->  sauber bis 2^31
+  fertig: ketteecc7e251_T1C1r32  ->  sauber bis 2^31
+  fertig: ketteecc7e251_T1C1r24  ->  sauber bis 2^31
+  fertig: ketteecc7e251_T1C1r40  ->  sauber bis 2^31
+  fertig: ketteecc7e251_T1C1r48  ->  sauber bis 2^31
+  fertig: ketteecc7e251_T1C1r56  ->  sauber bis 2^31  (1x suspicious)
+  Smoke A/bswap/c4ceb9fe1a85ec53/9fb21c651e98df25: 29/32 (first_fail 2^27)
+  fertig: ketted855971c_T0C0r08  ->  sauber bis 2^31
+  fertig: ketted855971c_T0C0r32  ->  sauber bis 2^31  (3x suspicious)
+  fertig: ketted855971c_T0C0r00  ->  sauber bis 2^31
+  fertig: ketted855971c_T0C0r16  ->  sauber bis 2^31
+  fertig: ketted855971c_T0C0r24  ->  sauber bis 2^31
+  fertig: ketted855971c_T0C0r40  ->  sauber bis 2^31
+  fertig: ketted855971c_T0C0r48  ->  sauber bis 2^31
+  fertig: ketted855971c_T0C0r56  ->  sauber bis 2^31
+  fertig: ketted855971c_T1C0r00  ->  sauber bis 2^31  (1x suspicious)
+  fertig: ketted855971c_T1C0r08  ->  sauber bis 2^31
+  fertig: ketted855971c_T1C0r16  ->  sauber bis 2^31
+  fertig: ketted855971c_T1C0r24  ->  sauber bis 2^31
+  fertig: ketted855971c_T1C0r32  ->  sauber bis 2^31
+  fertig: ketted855971c_T1C0r40  ->  sauber bis 2^31
+  fertig: ketted855971c_T1C0r56  ->  sauber bis 2^31
+  fertig: ketted855971c_T0C1r00  ->  sauber bis 2^31
+  fertig: ketted855971c_T0C1r08  ->  sauber bis 2^31  (1x suspicious)
+  fertig: ketted855971c_T0C1r16  ->  sauber bis 2^31
+  fertig: ketted855971c_T0C1r24  ->  sauber bis 2^31
+  fertig: ketted855971c_T0C1r32  ->  sauber bis 2^31
+  fertig: ketted855971c_T0C1r40  ->  sauber bis 2^31  (2x suspicious)
+  fertig: ketted855971c_T0C1r48  ->  sauber bis 2^31
+  fertig: ketted855971c_T1C0r48  ->  sauber bis 2^31
+  fertig: ketted855971c_T0C1r56  ->  sauber bis 2^31
+  fertig: ketted855971c_T1C1r00  ->  sauber bis 2^31
+  fertig: ketted855971c_T1C1r08  ->  sauber bis 2^31
+  fertig: ketted855971c_T1C1r32  ->  sauber bis 2^31  (1x suspicious)
+  fertig: ketted855971c_T1C1r16  ->  sauber bis 2^31
+  fertig: ketted855971c_T1C1r24  ->  sauber bis 2^31
+  fertig: ketted855971c_T1C1r40  ->  sauber bis 2^31
+  fertig: ketted855971c_T1C1r48  ->  sauber bis 2^31
+  fertig: ketted855971c_T1C1r56  ->  sauber bis 2^31
+
+*** NOVEL K9 -- volle Smoke! A X=bswap c1=c4ceb9fe1a85ec53 c2=781f94b96e8edb3b  kette=8:c4ceb9fe1a85ec53,11:0,8:781f94b96e8edb3b ***
+
+  fertig: kettee4265d99_T0C0r48  ->  FAIL bei 2^23
+  fertig: kettee4265d99_T1C0r24  ->  FAIL bei 2^27
+  fertig: kettee4265d99_T1C0r16  ->  FAIL bei 2^30
+  fertig: kettee4265d99_T0C0r08  ->  sauber bis 2^31
+  fertig: kettee4265d99_T0C0r00  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kettee4265d99_T0C0r16  ->  sauber bis 2^31
+  fertig: kettee4265d99_T0C0r24  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kettee4265d99_T0C0r32  ->  sauber bis 2^31  (2x suspicious)
+  fertig: kettee4265d99_T0C0r40  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kettee4265d99_T0C0r56  ->  FAIL bei 2^31
+  fertig: kettee4265d99_T1C0r00  ->  sauber bis 2^31
+  fertig: kettee4265d99_T1C0r08  ->  sauber bis 2^31
+  fertig: kettee4265d99_T1C0r32  ->  sauber bis 2^31
+  fertig: kettee4265d99_T1C0r40  ->  sauber bis 2^31
+  fertig: kettee4265d99_T1C0r48  ->  sauber bis 2^31
+  fertig: kettee4265d99_T1C0r56  ->  sauber bis 2^31
+  fertig: kettee4265d99_T0C1r00  ->  sauber bis 2^31
+  fertig: kettee4265d99_T0C1r08  ->  sauber bis 2^31
+  fertig: kettee4265d99_T0C1r16  ->  sauber bis 2^31
+  fertig: kettee4265d99_T0C1r24  ->  sauber bis 2^31
+  fertig: kettee4265d99_T0C1r32  ->  sauber bis 2^31
+  fertig: kettee4265d99_T0C1r40  ->  sauber bis 2^31
+  fertig: kettee4265d99_T0C1r48  ->  sauber bis 2^31
+  fertig: kettee4265d99_T0C1r56  ->  sauber bis 2^31
+  fertig: kettee4265d99_T1C1r00  ->  sauber bis 2^31
+  fertig: kettee4265d99_T1C1r08  ->  sauber bis 2^31
+  fertig: kettee4265d99_T1C1r16  ->  sauber bis 2^31
+  fertig: kettee4265d99_T1C1r24  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kettee4265d99_T1C1r32  ->  sauber bis 2^31
+  fertig: kettee4265d99_T1C1r48  ->  sauber bis 2^31
+  fertig: kettee4265d99_T1C1r56  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kettee4265d99_T1C1r40  ->  sauber bis 2^31
+  Smoke A/bswap/c4ceb9fe1a85ec53/b853d68343f7525b: 28/32 (first_fail 2^23)
+  fertig: kette55ff2276_T0C0r40  ->  FAIL bei 2^26
+  fertig: kette55ff2276_T1C0r32  ->  FAIL bei 2^26
+  fertig: kette55ff2276_T0C0r56  ->  FAIL bei 2^30
+  fertig: kette55ff2276_T0C0r00  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette55ff2276_T0C0r08  ->  sauber bis 2^31
+  fertig: kette55ff2276_T0C0r16  ->  sauber bis 2^31
+  fertig: kette55ff2276_T0C0r24  ->  sauber bis 2^31
+  fertig: kette55ff2276_T0C0r32  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette55ff2276_T0C0r48  ->  sauber bis 2^31
+  fertig: kette55ff2276_T1C0r00  ->  sauber bis 2^31
+  fertig: kette55ff2276_T1C0r08  ->  sauber bis 2^31
+  fertig: kette55ff2276_T1C0r16  ->  sauber bis 2^31
+  fertig: kette55ff2276_T1C0r24  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette55ff2276_T1C0r40  ->  sauber bis 2^31
+  fertig: kette55ff2276_T1C0r48  ->  sauber bis 2^31
+  fertig: kette55ff2276_T0C1r08  ->  sauber bis 2^31
+  fertig: kette55ff2276_T0C1r16  ->  sauber bis 2^31
+  fertig: kette55ff2276_T0C1r24  ->  sauber bis 2^31
+  fertig: kette55ff2276_T0C1r32  ->  sauber bis 2^31
+  fertig: kette55ff2276_T1C0r56  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette55ff2276_T0C1r00  ->  sauber bis 2^31
+  fertig: kette55ff2276_T0C1r40  ->  sauber bis 2^31
+  fertig: kette55ff2276_T0C1r48  ->  sauber bis 2^31  (2x suspicious)
+  fertig: kette55ff2276_T0C1r56  ->  sauber bis 2^31
+  fertig: kette55ff2276_T1C1r00  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette55ff2276_T1C1r08  ->  sauber bis 2^31
+  fertig: kette55ff2276_T1C1r16  ->  sauber bis 2^31
+  fertig: kette55ff2276_T1C1r40  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette55ff2276_T1C1r24  ->  sauber bis 2^31
+  fertig: kette55ff2276_T1C1r32  ->  sauber bis 2^31
+  fertig: kette55ff2276_T1C1r48  ->  sauber bis 2^31
+  fertig: kette55ff2276_T1C1r56  ->  sauber bis 2^31
+  Smoke A/bswap/c4ceb9fe1a85ec53/9e3779b97f4a7c15: 29/32 (first_fail 2^26)
+  fertig: kettedc26c837_T0C0r00  ->  sauber bis 2^31
+  fertig: kettedc26c837_T0C0r24  ->  sauber bis 2^31
+  fertig: kettedc26c837_T0C0r32  ->  FAIL bei 2^31
+  fertig: kettedc26c837_T0C0r40  ->  sauber bis 2^31
+  fertig: kettedc26c837_T0C0r08  ->  sauber bis 2^31
+  fertig: kettedc26c837_T0C0r16  ->  sauber bis 2^31
+  fertig: kettedc26c837_T0C0r48  ->  sauber bis 2^31
+  fertig: kettedc26c837_T0C0r56  ->  sauber bis 2^31
+  fertig: kettedc26c837_T1C0r00  ->  FAIL bei 2^31
+  fertig: kettedc26c837_T1C0r16  ->  sauber bis 2^31
+  fertig: kettedc26c837_T1C0r08  ->  sauber bis 2^31
+  fertig: kettedc26c837_T1C0r24  ->  sauber bis 2^31
+  fertig: kettedc26c837_T1C0r32  ->  sauber bis 2^31
+  fertig: kettedc26c837_T1C0r40  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kettedc26c837_T1C0r48  ->  sauber bis 2^31
+  fertig: kettedc26c837_T0C1r00  ->  sauber bis 2^31
+  fertig: kettedc26c837_T0C1r24  ->  sauber bis 2^31
+  fertig: kettedc26c837_T0C1r40  ->  sauber bis 2^31
+  fertig: kettedc26c837_T1C0r56  ->  sauber bis 2^31
+  fertig: kettedc26c837_T0C1r08  ->  sauber bis 2^31
+  fertig: kettedc26c837_T0C1r16  ->  sauber bis 2^31
+  fertig: kettedc26c837_T0C1r32  ->  sauber bis 2^31
+  fertig: kettedc26c837_T0C1r48  ->  sauber bis 2^31
+  fertig: kettedc26c837_T0C1r56  ->  sauber bis 2^31
+  fertig: kettedc26c837_T1C1r00  ->  sauber bis 2^31
+  fertig: kettedc26c837_T1C1r08  ->  sauber bis 2^31
+  fertig: kettedc26c837_T1C1r16  ->  sauber bis 2^31
+  fertig: kettedc26c837_T1C1r24  ->  sauber bis 2^31
+  fertig: kettedc26c837_T1C1r32  ->  sauber bis 2^31
+  fertig: kettedc26c837_T1C1r40  ->  sauber bis 2^31
+  fertig: kettedc26c837_T1C1r56  ->  sauber bis 2^31
+  fertig: kettedc26c837_T1C1r48  ->  sauber bis 2^31
+  Smoke A/bswap/d6e8feb86659fd93/bf58476d1ce4e5b9: 30/32 (first_fail 2^31)
+  fertig: kette4c90b6db_T0C0r56  ->  FAIL bei 2^30
+  fertig: kette4c90b6db_T0C0r00  ->  sauber bis 2^31
+  fertig: kette4c90b6db_T0C0r16  ->  sauber bis 2^31
+  fertig: kette4c90b6db_T0C0r32  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette4c90b6db_T0C0r40  ->  sauber bis 2^31  (2x suspicious)
+  fertig: kette4c90b6db_T0C0r48  ->  sauber bis 2^31
+  fertig: kette4c90b6db_T0C0r08  ->  sauber bis 2^31
+  fertig: kette4c90b6db_T0C0r24  ->  sauber bis 2^31
+  fertig: kette4c90b6db_T1C0r00  ->  sauber bis 2^31  (2x suspicious)
+  fertig: kette4c90b6db_T1C0r08  ->  sauber bis 2^31
+  fertig: kette4c90b6db_T1C0r16  ->  sauber bis 2^31
+  fertig: kette4c90b6db_T1C0r24  ->  sauber bis 2^31  (2x suspicious)
+  fertig: kette4c90b6db_T1C0r32  ->  sauber bis 2^31
+  fertig: kette4c90b6db_T0C1r00  ->  sauber bis 2^31
+  fertig: kette4c90b6db_T1C0r40  ->  sauber bis 2^31
+  fertig: kette4c90b6db_T0C1r08  ->  sauber bis 2^31
+  fertig: kette4c90b6db_T1C0r48  ->  sauber bis 2^31
+  fertig: kette4c90b6db_T1C0r56  ->  sauber bis 2^31
+  fertig: kette4c90b6db_T0C1r16  ->  sauber bis 2^31
+  fertig: kette4c90b6db_T0C1r24  ->  sauber bis 2^31
+  fertig: kette4c90b6db_T0C1r32  ->  sauber bis 2^31
+  fertig: kette4c90b6db_T0C1r40  ->  sauber bis 2^31
+  fertig: kette4c90b6db_T0C1r48  ->  sauber bis 2^31
+  fertig: kette4c90b6db_T0C1r56  ->  sauber bis 2^31
+  fertig: kette4c90b6db_T1C1r00  ->  sauber bis 2^31
+  fertig: kette4c90b6db_T1C1r08  ->  sauber bis 2^31
+  fertig: kette4c90b6db_T1C1r16  ->  sauber bis 2^31
+  fertig: kette4c90b6db_T1C1r24  ->  sauber bis 2^31
+  fertig: kette4c90b6db_T1C1r32  ->  sauber bis 2^31
+  fertig: kette4c90b6db_T1C1r40  ->  sauber bis 2^31
+  fertig: kette4c90b6db_T1C1r48  ->  sauber bis 2^31
+  fertig: kette4c90b6db_T1C1r56  ->  sauber bis 2^31  (1x suspicious)
+  Smoke A/bswap/d6e8feb86659fd93/94d049bb133111eb: 31/32 (first_fail 2^30)
+  fertig: kette1a6b4082_T0C0r00  ->  sauber bis 2^31
+  fertig: kette1a6b4082_T0C0r32  ->  sauber bis 2^31
+  fertig: kette1a6b4082_T0C0r40  ->  sauber bis 2^31
+  fertig: kette1a6b4082_T0C0r56  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette1a6b4082_T0C0r08  ->  sauber bis 2^31
+  fertig: kette1a6b4082_T0C0r16  ->  sauber bis 2^31
+  fertig: kette1a6b4082_T0C0r24  ->  sauber bis 2^31
+  fertig: kette1a6b4082_T0C0r48  ->  sauber bis 2^31
+  fertig: kette1a6b4082_T1C0r00  ->  sauber bis 2^31
+  fertig: kette1a6b4082_T1C0r16  ->  sauber bis 2^31
+  fertig: kette1a6b4082_T1C0r24  ->  sauber bis 2^31
+  fertig: kette1a6b4082_T1C0r08  ->  sauber bis 2^31
+  fertig: kette1a6b4082_T1C0r32  ->  sauber bis 2^31
+  fertig: kette1a6b4082_T1C0r40  ->  sauber bis 2^31
+  fertig: kette1a6b4082_T1C0r48  ->  sauber bis 2^31
+  fertig: kette1a6b4082_T1C0r56  ->  sauber bis 2^31
+  fertig: kette1a6b4082_T0C1r00  ->  sauber bis 2^31
+  fertig: kette1a6b4082_T0C1r08  ->  sauber bis 2^31
+  fertig: kette1a6b4082_T0C1r16  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette1a6b4082_T0C1r32  ->  sauber bis 2^31
+  fertig: kette1a6b4082_T0C1r40  ->  sauber bis 2^31
+  fertig: kette1a6b4082_T0C1r56  ->  sauber bis 2^31
+  fertig: kette1a6b4082_T0C1r24  ->  sauber bis 2^31
+  fertig: kette1a6b4082_T0C1r48  ->  sauber bis 2^31
+  fertig: kette1a6b4082_T1C1r00  ->  sauber bis 2^31
+  fertig: kette1a6b4082_T1C1r08  ->  sauber bis 2^31
+  fertig: kette1a6b4082_T1C1r24  ->  sauber bis 2^31
+  fertig: kette1a6b4082_T1C1r16  ->  sauber bis 2^31
+  fertig: kette1a6b4082_T1C1r32  ->  sauber bis 2^31
+  fertig: kette1a6b4082_T1C1r40  ->  sauber bis 2^31
+  fertig: kette1a6b4082_T1C1r48  ->  sauber bis 2^31
+  fertig: kette1a6b4082_T1C1r56  ->  sauber bis 2^31
+
+*** NOVEL K9 -- volle Smoke! A X=bswap c1=d6e8feb86659fd93 c2=3c79ac492ba7b653  kette=8:d6e8feb86659fd93,11:0,8:3c79ac492ba7b653 ***
+
+  fertig: kette6213c883_T0C0r00  ->  sauber bis 2^31
+  fertig: kette6213c883_T0C0r08  ->  sauber bis 2^31
+  fertig: kette6213c883_T0C0r56  ->  sauber bis 2^31
+  fertig: kette6213c883_T0C0r16  ->  sauber bis 2^31
+  fertig: kette6213c883_T0C0r24  ->  sauber bis 2^31  (3x suspicious)
+  fertig: kette6213c883_T0C0r32  ->  sauber bis 2^31  (2x suspicious)
+  fertig: kette6213c883_T0C0r40  ->  sauber bis 2^31  (2x suspicious)
+  fertig: kette6213c883_T0C0r48  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette6213c883_T1C0r08  ->  sauber bis 2^31
+  fertig: kette6213c883_T1C0r16  ->  sauber bis 2^31
+  fertig: kette6213c883_T1C0r00  ->  sauber bis 2^31
+  fertig: kette6213c883_T1C0r24  ->  sauber bis 2^31
+  fertig: kette6213c883_T1C0r32  ->  sauber bis 2^31
+  fertig: kette6213c883_T1C0r40  ->  sauber bis 2^31
+  fertig: kette6213c883_T1C0r48  ->  sauber bis 2^31
+  fertig: kette6213c883_T0C1r00  ->  sauber bis 2^31
+  fertig: kette6213c883_T0C1r08  ->  sauber bis 2^31
+  fertig: kette6213c883_T0C1r16  ->  sauber bis 2^31
+  fertig: kette6213c883_T0C1r24  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette6213c883_T0C1r40  ->  sauber bis 2^31  (3x suspicious)
+  fertig: kette6213c883_T1C0r56  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette6213c883_T0C1r32  ->  sauber bis 2^31
+  fertig: kette6213c883_T0C1r48  ->  sauber bis 2^31
+  fertig: kette6213c883_T0C1r56  ->  sauber bis 2^31  (2x suspicious)
+  fertig: kette6213c883_T1C1r00  ->  sauber bis 2^31
+  fertig: kette6213c883_T1C1r08  ->  sauber bis 2^31
+  fertig: kette6213c883_T1C1r16  ->  sauber bis 2^31
+  fertig: kette6213c883_T1C1r24  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette6213c883_T1C1r32  ->  sauber bis 2^31
+  fertig: kette6213c883_T1C1r40  ->  sauber bis 2^31
+  fertig: kette6213c883_T1C1r48  ->  sauber bis 2^31  (2x suspicious)
+  fertig: kette6213c883_T1C1r56  ->  sauber bis 2^31
+
+*** NOVEL K9 -- volle Smoke! A X=bswap c1=d6e8feb86659fd93 c2=1c69b3f74ac4ae35  kette=8:d6e8feb86659fd93,11:0,8:1c69b3f74ac4ae35 ***
+
+  fertig: kette3fe60464_T1C0r08  ->  FAIL bei 2^29
+  fertig: kette3fe60464_T1C0r00  ->  FAIL bei 2^30
+  fertig: kette3fe60464_T0C0r00  ->  sauber bis 2^31
+  fertig: kette3fe60464_T0C0r08  ->  sauber bis 2^31
+  fertig: kette3fe60464_T0C0r16  ->  sauber bis 2^31
+  fertig: kette3fe60464_T0C0r24  ->  sauber bis 2^31
+  fertig: kette3fe60464_T0C0r48  ->  sauber bis 2^31
+  fertig: kette3fe60464_T0C0r32  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette3fe60464_T0C0r40  ->  FAIL bei 2^31
+  fertig: kette3fe60464_T0C0r56  ->  sauber bis 2^31
+  fertig: kette3fe60464_T1C0r16  ->  sauber bis 2^31
+  fertig: kette3fe60464_T1C0r24  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette3fe60464_T1C0r32  ->  sauber bis 2^31
+  fertig: kette3fe60464_T1C0r40  ->  sauber bis 2^31
+  fertig: kette3fe60464_T0C1r00  ->  sauber bis 2^31
+  fertig: kette3fe60464_T0C1r08  ->  sauber bis 2^31
+  fertig: kette3fe60464_T0C1r16  ->  sauber bis 2^31
+  fertig: kette3fe60464_T1C0r48  ->  sauber bis 2^31
+  fertig: kette3fe60464_T1C0r56  ->  sauber bis 2^31
+  fertig: kette3fe60464_T0C1r24  ->  sauber bis 2^31
+  fertig: kette3fe60464_T0C1r40  ->  sauber bis 2^31
+  fertig: kette3fe60464_T0C1r32  ->  sauber bis 2^31
+  fertig: kette3fe60464_T0C1r48  ->  sauber bis 2^31
+  fertig: kette3fe60464_T0C1r56  ->  sauber bis 2^31
+  fertig: kette3fe60464_T1C1r00  ->  sauber bis 2^31
+  fertig: kette3fe60464_T1C1r08  ->  sauber bis 2^31
+  fertig: kette3fe60464_T1C1r16  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette3fe60464_T1C1r24  ->  sauber bis 2^31
+  fertig: kette3fe60464_T1C1r32  ->  sauber bis 2^31
+  fertig: kette3fe60464_T1C1r40  ->  sauber bis 2^31
+  fertig: kette3fe60464_T1C1r48  ->  sauber bis 2^31
+  fertig: kette3fe60464_T1C1r56  ->  sauber bis 2^31
+  Smoke A/bswap/d6e8feb86659fd93/9e6c63d0676a9a99: 29/32 (first_fail 2^29)
+  fertig: ketted87c3bcb_T0C0r24  ->  sauber bis 2^31  (1x suspicious)
+  fertig: ketted87c3bcb_T0C0r00  ->  sauber bis 2^31  (1x suspicious)
+  fertig: ketted87c3bcb_T0C0r08  ->  sauber bis 2^31
+  fertig: ketted87c3bcb_T0C0r16  ->  sauber bis 2^31
+  fertig: ketted87c3bcb_T0C0r32  ->  sauber bis 2^31  (4x suspicious)
+  fertig: ketted87c3bcb_T0C0r40  ->  FAIL bei 2^31
+  fertig: ketted87c3bcb_T0C0r48  ->  sauber bis 2^31
+  fertig: ketted87c3bcb_T0C0r56  ->  sauber bis 2^31
+  fertig: ketted87c3bcb_T1C0r00  ->  sauber bis 2^31  (2x suspicious)
+  fertig: ketted87c3bcb_T1C0r08  ->  sauber bis 2^31  (1x suspicious)
+  fertig: ketted87c3bcb_T1C0r24  ->  sauber bis 2^31
+  fertig: ketted87c3bcb_T1C0r16  ->  sauber bis 2^31
+  fertig: ketted87c3bcb_T1C0r32  ->  sauber bis 2^31
+  fertig: ketted87c3bcb_T1C0r56  ->  sauber bis 2^31
+  fertig: ketted87c3bcb_T0C1r00  ->  sauber bis 2^31
+  fertig: ketted87c3bcb_T0C1r08  ->  sauber bis 2^31
+  fertig: ketted87c3bcb_T0C1r16  ->  sauber bis 2^31
+  fertig: ketted87c3bcb_T0C1r32  ->  sauber bis 2^31
+  fertig: ketted87c3bcb_T0C1r40  ->  sauber bis 2^31
+  fertig: ketted87c3bcb_T0C1r48  ->  sauber bis 2^31
+  fertig: ketted87c3bcb_T0C1r56  ->  sauber bis 2^31
+  fertig: ketted87c3bcb_T1C0r40  ->  sauber bis 2^31
+  fertig: ketted87c3bcb_T1C0r48  ->  sauber bis 2^31
+  fertig: ketted87c3bcb_T0C1r24  ->  sauber bis 2^31
+  fertig: ketted87c3bcb_T1C1r00  ->  sauber bis 2^31
+  fertig: ketted87c3bcb_T1C1r08  ->  sauber bis 2^31
+  fertig: ketted87c3bcb_T1C1r24  ->  sauber bis 2^31
+  fertig: ketted87c3bcb_T1C1r32  ->  sauber bis 2^31
+  fertig: ketted87c3bcb_T1C1r40  ->  sauber bis 2^31
+  fertig: ketted87c3bcb_T1C1r16  ->  sauber bis 2^31
+  fertig: ketted87c3bcb_T1C1r48  ->  sauber bis 2^31
+  fertig: ketted87c3bcb_T1C1r56  ->  sauber bis 2^31
+  Smoke A/bswap/d6e8feb86659fd93/9e6d62d06f6a9a9b: 31/32 (first_fail 2^31)
+  fertig: kettec7869e42_T0C0r40  ->  FAIL bei 2^29
+  fertig: kettec7869e42_T0C0r08  ->  sauber bis 2^31
+  fertig: kettec7869e42_T0C0r00  ->  sauber bis 2^31  (2x suspicious)
+  fertig: kettec7869e42_T0C0r16  ->  sauber bis 2^31
+  fertig: kettec7869e42_T0C0r24  ->  sauber bis 2^31
+  fertig: kettec7869e42_T0C0r32  ->  FAIL bei 2^31
+  fertig: kettec7869e42_T0C0r48  ->  sauber bis 2^31
+  fertig: kettec7869e42_T0C0r56  ->  sauber bis 2^31
+  fertig: kettec7869e42_T1C0r00  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kettec7869e42_T1C0r08  ->  sauber bis 2^31
+  fertig: kettec7869e42_T1C0r16  ->  sauber bis 2^31
+  fertig: kettec7869e42_T1C0r24  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kettec7869e42_T1C0r32  ->  FAIL bei 2^29
+  fertig: kettec7869e42_T1C0r40  ->  sauber bis 2^31
+  fertig: kettec7869e42_T0C1r00  ->  sauber bis 2^31
+  fertig: kettec7869e42_T0C1r08  ->  sauber bis 2^31
+  fertig: kettec7869e42_T0C1r16  ->  sauber bis 2^31
+  fertig: kettec7869e42_T0C1r24  ->  sauber bis 2^31
+  fertig: kettec7869e42_T0C1r32  ->  sauber bis 2^31
+  fertig: kettec7869e42_T1C0r48  ->  sauber bis 2^31
+  fertig: kettec7869e42_T1C0r56  ->  sauber bis 2^31
+  fertig: kettec7869e42_T0C1r40  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kettec7869e42_T0C1r48  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kettec7869e42_T0C1r56  ->  sauber bis 2^31
+  fertig: kettec7869e42_T1C1r00  ->  sauber bis 2^31
+  fertig: kettec7869e42_T1C1r08  ->  sauber bis 2^31
+  fertig: kettec7869e42_T1C1r16  ->  sauber bis 2^31
+  fertig: kettec7869e42_T1C1r24  ->  sauber bis 2^31
+  fertig: kettec7869e42_T1C1r40  ->  sauber bis 2^31
+  fertig: kettec7869e42_T1C1r48  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kettec7869e42_T1C1r32  ->  sauber bis 2^31
+  fertig: kettec7869e42_T1C1r56  ->  sauber bis 2^31
+  Smoke A/bswap/d6e8feb86659fd93/c4ceb9fe1a85ec53: 29/32 (first_fail 2^29)
+  fertig: kettefddd0134_T0C0r16  ->  sauber bis 2^31
+  fertig: kettefddd0134_T0C0r32  ->  sauber bis 2^31  (6x suspicious)
+  fertig: kettefddd0134_T0C0r48  ->  sauber bis 2^31
+  fertig: kettefddd0134_T0C0r00  ->  sauber bis 2^31  (4x suspicious)
+  fertig: kettefddd0134_T0C0r08  ->  sauber bis 2^31
+  fertig: kettefddd0134_T0C0r24  ->  sauber bis 2^31
+  fertig: kettefddd0134_T0C0r40  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kettefddd0134_T0C0r56  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kettefddd0134_T1C0r00  ->  FAIL bei 2^31
+  fertig: kettefddd0134_T1C0r16  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kettefddd0134_T1C0r24  ->  sauber bis 2^31
+  fertig: kettefddd0134_T1C0r08  ->  sauber bis 2^31
+  fertig: kettefddd0134_T1C0r32  ->  sauber bis 2^31
+  fertig: kettefddd0134_T1C0r40  ->  sauber bis 2^31
+  fertig: kettefddd0134_T1C0r48  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kettefddd0134_T0C1r00  ->  sauber bis 2^31
+  fertig: kettefddd0134_T0C1r08  ->  sauber bis 2^31
+  fertig: kettefddd0134_T0C1r16  ->  sauber bis 2^31
+  fertig: kettefddd0134_T0C1r24  ->  sauber bis 2^31
+  fertig: kettefddd0134_T0C1r32  ->  sauber bis 2^31
+  fertig: kettefddd0134_T0C1r40  ->  sauber bis 2^31
+  fertig: kettefddd0134_T0C1r48  ->  sauber bis 2^31
+  fertig: kettefddd0134_T1C0r56  ->  sauber bis 2^31
+  fertig: kettefddd0134_T0C1r56  ->  sauber bis 2^31
+  fertig: kettefddd0134_T1C1r00  ->  sauber bis 2^31
+  fertig: kettefddd0134_T1C1r08  ->  sauber bis 2^31
+  fertig: kettefddd0134_T1C1r16  ->  sauber bis 2^31
+  fertig: kettefddd0134_T1C1r32  ->  sauber bis 2^31
+  fertig: kettefddd0134_T1C1r40  ->  sauber bis 2^31
+  fertig: kettefddd0134_T1C1r48  ->  sauber bis 2^31
+  fertig: kettefddd0134_T1C1r56  ->  sauber bis 2^31
+  fertig: kettefddd0134_T1C1r24  ->  sauber bis 2^31
+  Smoke A/bswap/d6e8feb86659fd93/9fb21c651e98df25: 31/32 (first_fail 2^31)
+  fertig: kette1e9b3726_T1C0r24  ->  FAIL bei 2^28
+  fertig: kette1e9b3726_T0C0r08  ->  sauber bis 2^31
+  fertig: kette1e9b3726_T0C0r00  ->  sauber bis 2^31
+  fertig: kette1e9b3726_T0C0r16  ->  sauber bis 2^31
+  fertig: kette1e9b3726_T0C0r24  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette1e9b3726_T0C0r32  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette1e9b3726_T0C0r40  ->  sauber bis 2^31
+  fertig: kette1e9b3726_T0C0r48  ->  FAIL bei 2^31
+  fertig: kette1e9b3726_T0C0r56  ->  sauber bis 2^31
+  fertig: kette1e9b3726_T1C0r00  ->  sauber bis 2^31
+  fertig: kette1e9b3726_T1C0r08  ->  sauber bis 2^31
+  fertig: kette1e9b3726_T1C0r16  ->  sauber bis 2^31
+  fertig: kette1e9b3726_T1C0r32  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette1e9b3726_T1C0r40  ->  sauber bis 2^31
+  fertig: kette1e9b3726_T0C1r08  ->  sauber bis 2^31
+  fertig: kette1e9b3726_T0C1r40  ->  sauber bis 2^31
+  fertig: kette1e9b3726_T1C0r56  ->  sauber bis 2^31
+  fertig: kette1e9b3726_T0C1r00  ->  sauber bis 2^31
+  fertig: kette1e9b3726_T0C1r16  ->  sauber bis 2^31
+  fertig: kette1e9b3726_T0C1r24  ->  sauber bis 2^31
+  fertig: kette1e9b3726_T0C1r32  ->  sauber bis 2^31
+  fertig: kette1e9b3726_T0C1r48  ->  sauber bis 2^31
+  fertig: kette1e9b3726_T0C1r56  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette1e9b3726_T1C0r48  ->  sauber bis 2^31
+  fertig: kette1e9b3726_T1C1r00  ->  sauber bis 2^31
+  fertig: kette1e9b3726_T1C1r08  ->  sauber bis 2^31
+  fertig: kette1e9b3726_T1C1r16  ->  sauber bis 2^31
+  fertig: kette1e9b3726_T1C1r24  ->  sauber bis 2^31
+  fertig: kette1e9b3726_T1C1r32  ->  sauber bis 2^31
+  fertig: kette1e9b3726_T1C1r40  ->  sauber bis 2^31
+  fertig: kette1e9b3726_T1C1r48  ->  sauber bis 2^31
+  fertig: kette1e9b3726_T1C1r56  ->  sauber bis 2^31
+  Smoke A/bswap/d6e8feb86659fd93/781f94b96e8edb3b: 30/32 (first_fail 2^28)
+  fertig: ketteb4336dc6_T0C0r40  ->  FAIL bei 2^19
+  fertig: ketteb4336dc6_T0C0r48  ->  FAIL bei 2^22
+  fertig: ketteb4336dc6_T1C0r24  ->  FAIL bei 2^22
+  fertig: ketteb4336dc6_T1C0r08  ->  FAIL bei 2^28
+  fertig: ketteb4336dc6_T0C0r32  ->  FAIL bei 2^29
+  fertig: ketteb4336dc6_T0C0r56  ->  FAIL bei 2^29
+  fertig: ketteb4336dc6_T1C0r16  ->  FAIL bei 2^30
+  fertig: ketteb4336dc6_T0C0r00  ->  sauber bis 2^31  (2x suspicious)
+  fertig: ketteb4336dc6_T0C0r08  ->  sauber bis 2^31
+  fertig: ketteb4336dc6_T0C0r16  ->  sauber bis 2^31
+  fertig: ketteb4336dc6_T0C0r24  ->  sauber bis 2^31
+  fertig: ketteb4336dc6_T1C0r00  ->  sauber bis 2^31
+  fertig: ketteb4336dc6_T1C0r32  ->  sauber bis 2^31  (2x suspicious)
+  fertig: ketteb4336dc6_T1C0r40  ->  sauber bis 2^31
+  fertig: ketteb4336dc6_T1C0r48  ->  sauber bis 2^31
+  fertig: ketteb4336dc6_T1C0r56  ->  sauber bis 2^31
+  fertig: ketteb4336dc6_T0C1r00  ->  sauber bis 2^31
+  fertig: ketteb4336dc6_T0C1r08  ->  sauber bis 2^31
+  fertig: ketteb4336dc6_T0C1r16  ->  sauber bis 2^31  (1x suspicious)
+  fertig: ketteb4336dc6_T0C1r24  ->  sauber bis 2^31
+  fertig: ketteb4336dc6_T0C1r32  ->  sauber bis 2^31  (1x suspicious)
+  fertig: ketteb4336dc6_T0C1r40  ->  sauber bis 2^31  (1x suspicious)
+  fertig: ketteb4336dc6_T0C1r48  ->  sauber bis 2^31
+  fertig: ketteb4336dc6_T0C1r56  ->  sauber bis 2^31  (2x suspicious)
+  fertig: ketteb4336dc6_T1C1r00  ->  sauber bis 2^31
+  fertig: ketteb4336dc6_T1C1r08  ->  sauber bis 2^31
+  fertig: ketteb4336dc6_T1C1r16  ->  sauber bis 2^31
+  fertig: ketteb4336dc6_T1C1r24  ->  sauber bis 2^31
+  fertig: ketteb4336dc6_T1C1r40  ->  sauber bis 2^31
+  fertig: ketteb4336dc6_T1C1r32  ->  sauber bis 2^31
+  fertig: ketteb4336dc6_T1C1r48  ->  sauber bis 2^31
+  fertig: ketteb4336dc6_T1C1r56  ->  sauber bis 2^31
+  Smoke A/bswap/d6e8feb86659fd93/b853d68343f7525b: 25/32 (first_fail 2^19)
+  fertig: kette02e4655c_T0C0r40  ->  FAIL bei 2^22
+  fertig: kette02e4655c_T0C0r56  ->  FAIL bei 2^25
+  fertig: kette02e4655c_T1C0r32  ->  FAIL bei 2^27
+  fertig: kette02e4655c_T0C0r00  ->  FAIL bei 2^30
+  fertig: kette02e4655c_T0C0r08  ->  sauber bis 2^31
+  fertig: kette02e4655c_T0C0r16  ->  sauber bis 2^31
+  fertig: kette02e4655c_T0C0r24  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette02e4655c_T0C0r32  ->  sauber bis 2^31  (2x suspicious)
+  fertig: kette02e4655c_T0C0r48  ->  sauber bis 2^31  (3x suspicious)
+  fertig: kette02e4655c_T1C0r16  ->  sauber bis 2^31
+  fertig: kette02e4655c_T1C0r00  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette02e4655c_T1C0r08  ->  sauber bis 2^31
+  fertig: kette02e4655c_T1C0r24  ->  sauber bis 2^31  (2x suspicious)
+  fertig: kette02e4655c_T1C0r40  ->  sauber bis 2^31
+  fertig: kette02e4655c_T1C0r48  ->  sauber bis 2^31
+  fertig: kette02e4655c_T1C0r56  ->  sauber bis 2^31
+  fertig: kette02e4655c_T0C1r00  ->  sauber bis 2^31
+  fertig: kette02e4655c_T0C1r08  ->  sauber bis 2^31
+  fertig: kette02e4655c_T0C1r16  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette02e4655c_T0C1r24  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette02e4655c_T0C1r32  ->  sauber bis 2^31
+  fertig: kette02e4655c_T0C1r40  ->  sauber bis 2^31
+  fertig: kette02e4655c_T0C1r48  ->  sauber bis 2^31
+  fertig: kette02e4655c_T0C1r56  ->  sauber bis 2^31
+  fertig: kette02e4655c_T1C1r00  ->  sauber bis 2^31
+  fertig: kette02e4655c_T1C1r08  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette02e4655c_T1C1r16  ->  sauber bis 2^31
+  fertig: kette02e4655c_T1C1r24  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette02e4655c_T1C1r32  ->  sauber bis 2^31
+  fertig: kette02e4655c_T1C1r40  ->  sauber bis 2^31
+  fertig: kette02e4655c_T1C1r48  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette02e4655c_T1C1r56  ->  sauber bis 2^31
+  Smoke A/bswap/d6e8feb86659fd93/9e3779b97f4a7c15: 28/32 (first_fail 2^22)
+  fertig: kette74d9c6f0_T0C0r00  ->  sauber bis 2^31
+  fertig: kette74d9c6f0_T0C0r16  ->  sauber bis 2^31
+  fertig: kette74d9c6f0_T0C0r32  ->  sauber bis 2^31  (2x suspicious)
+  fertig: kette74d9c6f0_T0C0r40  ->  sauber bis 2^31  (3x suspicious)
+  fertig: kette74d9c6f0_T0C0r48  ->  sauber bis 2^31
+  fertig: kette74d9c6f0_T0C0r56  ->  sauber bis 2^31  (4x suspicious)
+  fertig: kette74d9c6f0_T0C0r08  ->  sauber bis 2^31
+  fertig: kette74d9c6f0_T0C0r24  ->  sauber bis 2^31
+  fertig: kette74d9c6f0_T1C0r08  ->  sauber bis 2^31
+  fertig: kette74d9c6f0_T1C0r24  ->  sauber bis 2^31
+  fertig: kette74d9c6f0_T1C0r00  ->  sauber bis 2^31  (2x suspicious)
+  fertig: kette74d9c6f0_T1C0r16  ->  sauber bis 2^31
+  fertig: kette74d9c6f0_T0C1r00  ->  sauber bis 2^31
+  fertig: kette74d9c6f0_T0C1r08  ->  sauber bis 2^31
+  fertig: kette74d9c6f0_T1C0r32  ->  sauber bis 2^31
+  fertig: kette74d9c6f0_T1C0r40  ->  sauber bis 2^31
+  fertig: kette74d9c6f0_T1C0r48  ->  sauber bis 2^31
+  fertig: kette74d9c6f0_T1C0r56  ->  sauber bis 2^31
+  fertig: kette74d9c6f0_T0C1r16  ->  sauber bis 2^31
+  fertig: kette74d9c6f0_T0C1r24  ->  sauber bis 2^31
+  fertig: kette74d9c6f0_T0C1r32  ->  sauber bis 2^31
+  fertig: kette74d9c6f0_T0C1r40  ->  sauber bis 2^31
+  fertig: kette74d9c6f0_T0C1r48  ->  sauber bis 2^31
+  fertig: kette74d9c6f0_T0C1r56  ->  sauber bis 2^31
+  fertig: kette74d9c6f0_T1C1r00  ->  sauber bis 2^31
+  fertig: kette74d9c6f0_T1C1r08  ->  sauber bis 2^31
+  fertig: kette74d9c6f0_T1C1r24  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette74d9c6f0_T1C1r16  ->  sauber bis 2^31
+  fertig: kette74d9c6f0_T1C1r32  ->  sauber bis 2^31
+  fertig: kette74d9c6f0_T1C1r40  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette74d9c6f0_T1C1r48  ->  sauber bis 2^31
+  fertig: kette74d9c6f0_T1C1r56  ->  sauber bis 2^31
+
+*** NOVEL K9 -- volle Smoke! A X=bswap c1=9fb21c651e98df25 c2=94d049bb133111eb  kette=8:9fb21c651e98df25,11:0,8:94d049bb133111eb ***
+
+  fertig: kettec6b93397_T0C0r00  ->  sauber bis 2^31
+  fertig: kettec6b93397_T0C0r08  ->  sauber bis 2^31
+  fertig: kettec6b93397_T0C0r24  ->  sauber bis 2^31
+  fertig: kettec6b93397_T0C0r48  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kettec6b93397_T0C0r16  ->  sauber bis 2^31
+  fertig: kettec6b93397_T0C0r32  ->  sauber bis 2^31  (3x suspicious)
+  fertig: kettec6b93397_T0C0r40  ->  sauber bis 2^31
+  fertig: kettec6b93397_T0C0r56  ->  sauber bis 2^31
+  fertig: kettec6b93397_T1C0r00  ->  sauber bis 2^31
+  fertig: kettec6b93397_T1C0r08  ->  sauber bis 2^31
+  fertig: kettec6b93397_T1C0r16  ->  sauber bis 2^31
+  fertig: kettec6b93397_T1C0r24  ->  sauber bis 2^31  (2x suspicious)
+  fertig: kettec6b93397_T1C0r32  ->  sauber bis 2^31
+  fertig: kettec6b93397_T1C0r40  ->  sauber bis 2^31
+  fertig: kettec6b93397_T1C0r48  ->  sauber bis 2^31
+  fertig: kettec6b93397_T1C0r56  ->  sauber bis 2^31
+  fertig: kettec6b93397_T0C1r00  ->  sauber bis 2^31
+  fertig: kettec6b93397_T0C1r08  ->  sauber bis 2^31
+  fertig: kettec6b93397_T0C1r16  ->  sauber bis 2^31
+  fertig: kettec6b93397_T0C1r24  ->  sauber bis 2^31
+  fertig: kettec6b93397_T0C1r32  ->  sauber bis 2^31
+  fertig: kettec6b93397_T0C1r40  ->  sauber bis 2^31
+  fertig: kettec6b93397_T0C1r48  ->  sauber bis 2^31
+  fertig: kettec6b93397_T0C1r56  ->  sauber bis 2^31
+  fertig: kettec6b93397_T1C1r00  ->  sauber bis 2^31
+  fertig: kettec6b93397_T1C1r08  ->  sauber bis 2^31
+  fertig: kettec6b93397_T1C1r16  ->  sauber bis 2^31
+  fertig: kettec6b93397_T1C1r24  ->  sauber bis 2^31  (2x suspicious)
+  fertig: kettec6b93397_T1C1r40  ->  sauber bis 2^31
+  fertig: kettec6b93397_T1C1r32  ->  sauber bis 2^31
+  fertig: kettec6b93397_T1C1r48  ->  sauber bis 2^31
+  fertig: kettec6b93397_T1C1r56  ->  sauber bis 2^31
+
+*** NOVEL K9 -- volle Smoke! A X=bswap c1=9fb21c651e98df25 c2=3c79ac492ba7b653  kette=8:9fb21c651e98df25,11:0,8:3c79ac492ba7b653 ***
+
+  fertig: kette7291ea8f_T1C0r00  ->  FAIL bei 2^30
+  fertig: kette7291ea8f_T0C0r00  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette7291ea8f_T0C0r16  ->  sauber bis 2^31
+  fertig: kette7291ea8f_T0C0r24  ->  sauber bis 2^31
+  fertig: kette7291ea8f_T0C0r32  ->  sauber bis 2^31  (5x suspicious)
+  fertig: kette7291ea8f_T0C0r40  ->  sauber bis 2^31  (2x suspicious)
+  fertig: kette7291ea8f_T0C0r56  ->  sauber bis 2^31
+  fertig: kette7291ea8f_T0C0r08  ->  sauber bis 2^31
+  fertig: kette7291ea8f_T0C0r48  ->  sauber bis 2^31
+  fertig: kette7291ea8f_T1C0r08  ->  sauber bis 2^31
+  fertig: kette7291ea8f_T1C0r16  ->  sauber bis 2^31
+  fertig: kette7291ea8f_T1C0r24  ->  sauber bis 2^31
+  fertig: kette7291ea8f_T1C0r32  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette7291ea8f_T1C0r40  ->  sauber bis 2^31
+  fertig: kette7291ea8f_T0C1r08  ->  sauber bis 2^31
+  fertig: kette7291ea8f_T0C1r16  ->  sauber bis 2^31
+  fertig: kette7291ea8f_T1C0r48  ->  sauber bis 2^31
+  fertig: kette7291ea8f_T1C0r56  ->  sauber bis 2^31
+  fertig: kette7291ea8f_T0C1r00  ->  sauber bis 2^31
+  fertig: kette7291ea8f_T0C1r24  ->  sauber bis 2^31
+  fertig: kette7291ea8f_T0C1r32  ->  sauber bis 2^31
+  fertig: kette7291ea8f_T0C1r40  ->  sauber bis 2^31
+  fertig: kette7291ea8f_T0C1r48  ->  sauber bis 2^31
+  fertig: kette7291ea8f_T0C1r56  ->  sauber bis 2^31
+  fertig: kette7291ea8f_T1C1r00  ->  sauber bis 2^31
+  fertig: kette7291ea8f_T1C1r08  ->  sauber bis 2^31
+  fertig: kette7291ea8f_T1C1r24  ->  sauber bis 2^31
+  fertig: kette7291ea8f_T1C1r16  ->  sauber bis 2^31
+  fertig: kette7291ea8f_T1C1r32  ->  sauber bis 2^31
+  fertig: kette7291ea8f_T1C1r40  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette7291ea8f_T1C1r48  ->  sauber bis 2^31
+  fertig: kette7291ea8f_T1C1r56  ->  sauber bis 2^31
+  Smoke A/bswap/9fb21c651e98df25/1c69b3f74ac4ae35: 31/32 (first_fail 2^30)
+  fertig: kettefa15332c_T1C0r24  ->  FAIL bei 2^30
+  fertig: kettefa15332c_T0C0r00  ->  sauber bis 2^31
+  fertig: kettefa15332c_T0C0r08  ->  sauber bis 2^31
+  fertig: kettefa15332c_T0C0r16  ->  sauber bis 2^31
+  fertig: kettefa15332c_T0C0r24  ->  sauber bis 2^31
+  fertig: kettefa15332c_T0C0r32  ->  sauber bis 2^31  (4x suspicious)
+  fertig: kettefa15332c_T0C0r40  ->  sauber bis 2^31
+  fertig: kettefa15332c_T0C0r48  ->  sauber bis 2^31  (2x suspicious)
+  fertig: kettefa15332c_T0C0r56  ->  sauber bis 2^31  (4x suspicious)
+  fertig: kettefa15332c_T1C0r00  ->  sauber bis 2^31  (3x suspicious)
+  fertig: kettefa15332c_T1C0r08  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kettefa15332c_T1C0r16  ->  sauber bis 2^31  (3x suspicious)
+  fertig: kettefa15332c_T1C0r32  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kettefa15332c_T1C0r40  ->  sauber bis 2^31
+  fertig: kettefa15332c_T0C1r08  ->  sauber bis 2^31
+  fertig: kettefa15332c_T0C1r00  ->  sauber bis 2^31
+  fertig: kettefa15332c_T0C1r16  ->  sauber bis 2^31
+  fertig: kettefa15332c_T0C1r24  ->  sauber bis 2^31
+  fertig: kettefa15332c_T0C1r32  ->  sauber bis 2^31
+  fertig: kettefa15332c_T0C1r40  ->  sauber bis 2^31
+  fertig: kettefa15332c_T1C0r48  ->  sauber bis 2^31
+  fertig: kettefa15332c_T1C0r56  ->  sauber bis 2^31
+  fertig: kettefa15332c_T0C1r48  ->  sauber bis 2^31
+  fertig: kettefa15332c_T0C1r56  ->  sauber bis 2^31
+  fertig: kettefa15332c_T1C1r00  ->  sauber bis 2^31
+  fertig: kettefa15332c_T1C1r16  ->  sauber bis 2^31
+  fertig: kettefa15332c_T1C1r08  ->  sauber bis 2^31
+  fertig: kettefa15332c_T1C1r32  ->  sauber bis 2^31
+  fertig: kettefa15332c_T1C1r24  ->  sauber bis 2^31
+  fertig: kettefa15332c_T1C1r40  ->  sauber bis 2^31
+  fertig: kettefa15332c_T1C1r48  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kettefa15332c_T1C1r56  ->  sauber bis 2^31
+  Smoke A/bswap/9fb21c651e98df25/9e6c63d0676a9a99: 31/32 (first_fail 2^30)
+  S1 25/29721  erledigt 1284/30980  Smokes 78  Passer 19  (4253 s)
+  fertig: kette57150273_T1C0r00  ->  FAIL bei 2^23
+  fertig: ketteebd0e684_T0C0r32  ->  sauber bis 2^28  (1x suspicious)
+  fertig: ketteebd0e684_T1C0r16  ->  sauber bis 2^28  (3x suspicious)
+  fertig: ketteebd0e684_T1C0r00  ->  sauber bis 2^28
+  fertig: ketteebd0e684_T0C0r00  ->  sauber bis 2^28
+  fertig: kette57150273_T1C0r16  ->  FAIL bei 2^28
+  fertig: kette57150273_T0C0r00  ->  FAIL bei 2^28
+  fertig: kette57150273_T0C0r32  ->  sauber bis 2^28
+  fertig: kette075388f1_T1C0r16  ->  sauber bis 2^28  (1x suspicious)
+  fertig: kette075388f1_T1C0r00  ->  sauber bis 2^28
+  fertig: kette075388f1_T0C0r00  ->  sauber bis 2^28
+  fertig: kette075388f1_T0C0r32  ->  sauber bis 2^28
+  fertig: kettebb9ace93_T1C0r16  ->  FAIL bei 2^27
+  fertig: kettec7e79585_T1C0r00  ->  FAIL bei 2^24
+  fertig: kette5b442a5e_T0C0r00  ->  FAIL bei 2^27
+  fertig: kettebb9ace93_T1C0r00  ->  sauber bis 2^28
+  fertig: kettebb9ace93_T0C0r00  ->  sauber bis 2^28
+  fertig: kettec7e79585_T0C0r00  ->  sauber bis 2^28  (1x suspicious)
+  fertig: kette5b442a5e_T1C0r16  ->  sauber bis 2^28  (2x suspicious)
+  fertig: kettebb9ace93_T0C0r32  ->  sauber bis 2^28
+  fertig: kettec7e79585_T0C0r32  ->  sauber bis 2^28
+  fertig: kette5b442a5e_T0C0r32  ->  sauber bis 2^28
+  fertig: kettec7e79585_T1C0r16  ->  sauber bis 2^28
+  fertig: kette5b442a5e_T1C0r00  ->  sauber bis 2^28
+  fertig: ketteb8f128ac_T1C0r16  ->  sauber bis 2^28
+  fertig: ketteb8f128ac_T1C0r00  ->  sauber bis 2^28  (1x suspicious)
+  fertig: ketteb8f128ac_T0C0r00  ->  sauber bis 2^28
+  fertig: kette17cef72b_T1C0r16  ->  FAIL bei 2^27
+  fertig: ketteb8f128ac_T0C0r32  ->  sauber bis 2^28
+  fertig: kette17cef72b_T1C0r00  ->  sauber bis 2^28
+  fertig: kette17cef72b_T0C0r00  ->  sauber bis 2^28
+  fertig: kette17cef72b_T0C0r32  ->  sauber bis 2^28
+  fertig: kette5f6abfc8_T1C0r16  ->  FAIL bei 2^28
+  fertig: kette5f6abfc8_T1C0r00  ->  sauber bis 2^28
+  fertig: kette5f6abfc8_T0C0r00  ->  sauber bis 2^28
+  fertig: kette5f6abfc8_T0C0r32  ->  sauber bis 2^28
+  fertig: kette640c9e74_T1C0r16  ->  sauber bis 2^28
+  fertig: kette640c9e74_T1C0r00  ->  sauber bis 2^28  (1x suspicious)
+  fertig: kette640c9e74_T0C0r00  ->  FAIL bei 2^26
+  fertig: kette640c9e74_T0C0r32  ->  sauber bis 2^28  (1x suspicious)
+  fertig: kette7c08b25a_T0C0r00  ->  sauber bis 2^28
+  fertig: kette7c08b25a_T1C0r16  ->  sauber bis 2^28
+  fertig: kette7c08b25a_T1C0r00  ->  sauber bis 2^28  (1x suspicious)
+  fertig: kette7c08b25a_T0C0r32  ->  sauber bis 2^28
+  fertig: kette857235bc_T1C0r16  ->  sauber bis 2^28
+  fertig: kette857235bc_T1C0r00  ->  sauber bis 2^28
+  fertig: kette857235bc_T0C0r00  ->  sauber bis 2^28
+  fertig: kette857235bc_T0C0r32  ->  sauber bis 2^28
+  fertig: kette52a90ae6_T1C0r16  ->  sauber bis 2^28
+  fertig: kette52a90ae6_T1C0r00  ->  sauber bis 2^28
+  fertig: kette52a90ae6_T0C0r00  ->  sauber bis 2^28
+  fertig: kette52a90ae6_T0C0r32  ->  sauber bis 2^28
+  fertig: kette40e1954c_T1C0r16  ->  sauber bis 2^28  (1x suspicious)
+  fertig: kette40e1954c_T1C0r00  ->  sauber bis 2^28
+  fertig: kette40e1954c_T0C0r00  ->  sauber bis 2^28  (2x suspicious)
+  fertig: kette40e1954c_T0C0r32  ->  sauber bis 2^28  (2x suspicious)
+  fertig: kette240cd1d6_T1C0r00  ->  sauber bis 2^28
+  fertig: kette240cd1d6_T0C0r00  ->  sauber bis 2^28
+  fertig: kette240cd1d6_T0C0r32  ->  sauber bis 2^28
+  fertig: kette240cd1d6_T1C0r16  ->  sauber bis 2^28  (1x suspicious)
+  fertig: kette97084a44_T1C0r16  ->  sauber bis 2^28
+  fertig: kette97084a44_T1C0r00  ->  FAIL bei 2^27
+  fertig: kette97084a44_T0C0r32  ->  FAIL bei 2^25
+  fertig: kette97084a44_T0C0r00  ->  sauber bis 2^28  (2x suspicious)
+  fertig: kette5c820b3b_T1C0r16  ->  sauber bis 2^28
+  fertig: kette5c820b3b_T1C0r00  ->  sauber bis 2^28
+  fertig: kette5c820b3b_T0C0r00  ->  sauber bis 2^28
+  fertig: kette5c820b3b_T0C0r32  ->  FAIL bei 2^28
+  fertig: kettef4ba318b_T1C0r16  ->  sauber bis 2^28
+  fertig: kettef4ba318b_T1C0r00  ->  sauber bis 2^28  (2x suspicious)
+  fertig: kettef4ba318b_T0C0r00  ->  FAIL bei 2^28
+  fertig: kettef4ba318b_T0C0r32  ->  sauber bis 2^28  (1x suspicious)
+  fertig: kette34a4aad7_T0C0r00  ->  FAIL bei 2^26
+  fertig: kette34a4aad7_T1C0r00  ->  FAIL bei 2^27
+  fertig: kette34a4aad7_T1C0r16  ->  sauber bis 2^28
+  fertig: kette34a4aad7_T0C0r32  ->  sauber bis 2^28  (3x suspicious)
+  fertig: kette72538386_T0C0r00  ->  FAIL bei 2^27
+  fertig: kette72538386_T1C0r16  ->  sauber bis 2^28
+  fertig: kette72538386_T1C0r00  ->  sauber bis 2^28
+  fertig: kette72538386_T0C0r32  ->  sauber bis 2^28  (4x suspicious)
+  fertig: kette96ac53af_T1C0r16  ->  sauber bis 2^28
+  fertig: kette96ac53af_T1C0r00  ->  sauber bis 2^28
+  fertig: kette96ac53af_T0C0r00  ->  sauber bis 2^28  (3x suspicious)
+  fertig: kette96ac53af_T0C0r32  ->  sauber bis 2^28  (5x suspicious)
+  fertig: kette151ab9a4_T1C0r16  ->  sauber bis 2^28  (3x suspicious)
+  fertig: kette151ab9a4_T1C0r00  ->  sauber bis 2^28  (6x suspicious)
+  fertig: kette151ab9a4_T0C0r00  ->  sauber bis 2^28  (1x suspicious)
+  fertig: kette151ab9a4_T0C0r32  ->  sauber bis 2^28
+  fertig: kettecbcc1560_T1C0r16  ->  sauber bis 2^28  (3x suspicious)
+  fertig: kette68202db1_T1C0r00  ->  FAIL bei 2^24
+  fertig: kettecbcc1560_T1C0r00  ->  sauber bis 2^28  (4x suspicious)
+  fertig: kettecbcc1560_T0C0r00  ->  sauber bis 2^28
+  fertig: kettecbcc1560_T0C0r32  ->  sauber bis 2^28
+  fertig: ketteebbd09d3_T0C0r00  ->  sauber bis 2^28
+  fertig: ketteebbd09d3_T1C0r16  ->  sauber bis 2^28
+  fertig: ketteebbd09d3_T1C0r00  ->  sauber bis 2^28
+  fertig: ketteebbd09d3_T0C0r32  ->  sauber bis 2^28
+  fertig: kette68202db1_T1C0r16  ->  sauber bis 2^28
+  fertig: kette68202db1_T0C0r00  ->  sauber bis 2^28
+  fertig: kette68202db1_T0C0r32  ->  sauber bis 2^28
+  fertig: ketteebd0e684_T0C0r00  ->  sauber bis 2^31  (2x suspicious)
+  fertig: ketteebd0e684_T0C0r24  ->  sauber bis 2^31
+  fertig: ketteebd0e684_T0C0r40  ->  sauber bis 2^31  (1x suspicious)
+  fertig: ketteebd0e684_T0C0r48  ->  sauber bis 2^31
+  fertig: ketteebd0e684_T0C0r08  ->  sauber bis 2^31
+  fertig: ketteebd0e684_T0C0r16  ->  sauber bis 2^31
+  fertig: ketteebd0e684_T0C0r32  ->  sauber bis 2^31  (7x suspicious)
+  fertig: ketteebd0e684_T0C0r56  ->  sauber bis 2^31  (2x suspicious)
+  fertig: ketteebd0e684_T1C0r00  ->  sauber bis 2^31
+  fertig: ketteebd0e684_T1C0r08  ->  sauber bis 2^31  (1x suspicious)
+  fertig: ketteebd0e684_T1C0r16  ->  sauber bis 2^31  (3x suspicious)
+  fertig: ketteebd0e684_T1C0r24  ->  sauber bis 2^31  (1x suspicious)
+  fertig: ketteebd0e684_T1C0r32  ->  sauber bis 2^31
+  fertig: ketteebd0e684_T1C0r40  ->  sauber bis 2^31
+  fertig: ketteebd0e684_T1C0r56  ->  sauber bis 2^31
+  fertig: ketteebd0e684_T1C0r48  ->  sauber bis 2^31
+  fertig: ketteebd0e684_T0C1r08  ->  sauber bis 2^31  (2x suspicious)
+  fertig: ketteebd0e684_T0C1r24  ->  sauber bis 2^31
+  fertig: ketteebd0e684_T0C1r32  ->  sauber bis 2^31  (1x suspicious)
+  fertig: ketteebd0e684_T0C1r48  ->  sauber bis 2^31
+  fertig: ketteebd0e684_T0C1r00  ->  sauber bis 2^31  (1x suspicious)
+  fertig: ketteebd0e684_T0C1r16  ->  sauber bis 2^31  (1x suspicious)
+  fertig: ketteebd0e684_T0C1r40  ->  sauber bis 2^31
+  fertig: ketteebd0e684_T0C1r56  ->  sauber bis 2^31
+  fertig: ketteebd0e684_T1C1r16  ->  sauber bis 2^31  (1x suspicious)
+  fertig: ketteebd0e684_T1C1r00  ->  sauber bis 2^31
+  fertig: ketteebd0e684_T1C1r08  ->  sauber bis 2^31
+  fertig: ketteebd0e684_T1C1r24  ->  sauber bis 2^31
+  fertig: ketteebd0e684_T1C1r32  ->  sauber bis 2^31
+  fertig: ketteebd0e684_T1C1r40  ->  sauber bis 2^31
+  fertig: ketteebd0e684_T1C1r48  ->  sauber bis 2^31
+  fertig: ketteebd0e684_T1C1r56  ->  sauber bis 2^31  (1x suspicious)
+
+*** NOVEL K9 -- volle Smoke! A X=bswap c1=9fb21c651e98df25 c2=9e6d62d06f6a9a9b  kette=8:9fb21c651e98df25,11:0,8:9e6d62d06f6a9a9b ***
+
+  fertig: kette075388f1_T0C0r00  ->  sauber bis 2^31
+  fertig: kette075388f1_T0C0r16  ->  sauber bis 2^31
+  fertig: kette075388f1_T0C0r24  ->  sauber bis 2^31
+  fertig: kette075388f1_T0C0r32  ->  sauber bis 2^31  (3x suspicious)
+  fertig: kette075388f1_T0C0r40  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette075388f1_T0C0r56  ->  sauber bis 2^31  (2x suspicious)
+  fertig: kette075388f1_T0C0r08  ->  sauber bis 2^31
+  fertig: kette075388f1_T0C0r48  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette075388f1_T1C0r00  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette075388f1_T1C0r08  ->  sauber bis 2^31
+  fertig: kette075388f1_T1C0r16  ->  sauber bis 2^31  (3x suspicious)
+  fertig: kette075388f1_T1C0r24  ->  sauber bis 2^31
+  fertig: kette075388f1_T1C0r40  ->  sauber bis 2^31
+  fertig: kette075388f1_T0C1r00  ->  sauber bis 2^31
+  fertig: kette075388f1_T0C1r08  ->  sauber bis 2^31
+  fertig: kette075388f1_T1C0r32  ->  sauber bis 2^31
+  fertig: kette075388f1_T1C0r48  ->  sauber bis 2^31
+  fertig: kette075388f1_T1C0r56  ->  sauber bis 2^31
+  fertig: kette075388f1_T0C1r24  ->  sauber bis 2^31
+  fertig: kette075388f1_T0C1r32  ->  sauber bis 2^31
+  fertig: kette075388f1_T0C1r40  ->  sauber bis 2^31
+  fertig: kette075388f1_T0C1r48  ->  sauber bis 2^31
+  fertig: kette075388f1_T0C1r56  ->  sauber bis 2^31
+  fertig: kette075388f1_T0C1r16  ->  sauber bis 2^31
+  fertig: kette075388f1_T1C1r00  ->  sauber bis 2^31
+  fertig: kette075388f1_T1C1r08  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette075388f1_T1C1r16  ->  sauber bis 2^31
+  fertig: kette075388f1_T1C1r24  ->  sauber bis 2^31  (2x suspicious)
+  fertig: kette075388f1_T1C1r32  ->  sauber bis 2^31
+  fertig: kette075388f1_T1C1r40  ->  sauber bis 2^31
+  fertig: kette075388f1_T1C1r48  ->  sauber bis 2^31
+  fertig: kette075388f1_T1C1r56  ->  sauber bis 2^31
+
+*** NOVEL K9 -- volle Smoke! A X=bswap c1=9fb21c651e98df25 c2=c4ceb9fe1a85ec53  kette=8:9fb21c651e98df25,11:0,8:c4ceb9fe1a85ec53 ***
+
+  fertig: ketteb8f128ac_T0C0r00  ->  sauber bis 2^31
+  fertig: ketteb8f128ac_T0C0r08  ->  sauber bis 2^31
+  fertig: ketteb8f128ac_T0C0r16  ->  sauber bis 2^31
+  fertig: ketteb8f128ac_T0C0r32  ->  sauber bis 2^31  (1x suspicious)
+  fertig: ketteb8f128ac_T0C0r40  ->  sauber bis 2^31
+  fertig: ketteb8f128ac_T0C0r48  ->  sauber bis 2^31  (1x suspicious)
+  fertig: ketteb8f128ac_T0C0r56  ->  sauber bis 2^31  (2x suspicious)
+  fertig: ketteb8f128ac_T0C0r24  ->  sauber bis 2^31
+  fertig: ketteb8f128ac_T1C0r00  ->  sauber bis 2^31  (4x suspicious)
+  fertig: ketteb8f128ac_T1C0r08  ->  sauber bis 2^31
+  fertig: ketteb8f128ac_T1C0r16  ->  sauber bis 2^31
+  fertig: ketteb8f128ac_T1C0r24  ->  sauber bis 2^31
+  fertig: ketteb8f128ac_T0C1r00  ->  sauber bis 2^31  (1x suspicious)
+  fertig: ketteb8f128ac_T0C1r08  ->  sauber bis 2^31
+  fertig: ketteb8f128ac_T0C1r16  ->  sauber bis 2^31
+  fertig: ketteb8f128ac_T1C0r32  ->  sauber bis 2^31
+  fertig: ketteb8f128ac_T1C0r40  ->  sauber bis 2^31
+  fertig: ketteb8f128ac_T1C0r48  ->  sauber bis 2^31
+  fertig: ketteb8f128ac_T1C0r56  ->  sauber bis 2^31
+  fertig: ketteb8f128ac_T0C1r32  ->  sauber bis 2^31
+  fertig: ketteb8f128ac_T0C1r40  ->  sauber bis 2^31
+  fertig: ketteb8f128ac_T0C1r48  ->  sauber bis 2^31
+  fertig: ketteb8f128ac_T0C1r56  ->  sauber bis 2^31
+  fertig: ketteb8f128ac_T0C1r24  ->  sauber bis 2^31
+  fertig: ketteb8f128ac_T1C1r00  ->  sauber bis 2^31
+  fertig: ketteb8f128ac_T1C1r08  ->  sauber bis 2^31
+  fertig: ketteb8f128ac_T1C1r16  ->  sauber bis 2^31
+  fertig: ketteb8f128ac_T1C1r24  ->  sauber bis 2^31
+  fertig: ketteb8f128ac_T1C1r32  ->  sauber bis 2^31
+  fertig: ketteb8f128ac_T1C1r40  ->  sauber bis 2^31  (1x suspicious)
+  fertig: ketteb8f128ac_T1C1r56  ->  sauber bis 2^31
+  fertig: ketteb8f128ac_T1C1r48  ->  sauber bis 2^31
+
+*** NOVEL K9 -- volle Smoke! A X=bswap c1=9fb21c651e98df25 c2=781f94b96e8edb3b  kette=8:9fb21c651e98df25,11:0,8:781f94b96e8edb3b ***
+
+  fertig: kette7c08b25a_T0C0r00  ->  sauber bis 2^31
+  fertig: kette7c08b25a_T0C0r08  ->  sauber bis 2^31
+  fertig: kette7c08b25a_T0C0r16  ->  sauber bis 2^31
+  fertig: kette7c08b25a_T0C0r24  ->  sauber bis 2^31
+  fertig: kette7c08b25a_T0C0r32  ->  sauber bis 2^31  (5x suspicious)
+  fertig: kette7c08b25a_T0C0r40  ->  sauber bis 2^31
+  fertig: kette7c08b25a_T0C0r48  ->  sauber bis 2^31  (2x suspicious)
+  fertig: kette7c08b25a_T0C0r56  ->  sauber bis 2^31  (7x suspicious)
+  fertig: kette7c08b25a_T1C0r00  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette7c08b25a_T1C0r08  ->  sauber bis 2^31
+  fertig: kette7c08b25a_T1C0r16  ->  sauber bis 2^31
+  fertig: kette7c08b25a_T1C0r24  ->  sauber bis 2^31
+  fertig: kette7c08b25a_T0C1r00  ->  sauber bis 2^31
+  fertig: kette7c08b25a_T0C1r08  ->  sauber bis 2^31
+  fertig: kette7c08b25a_T0C1r16  ->  sauber bis 2^31
+  fertig: kette7c08b25a_T1C0r32  ->  sauber bis 2^31
+  fertig: kette7c08b25a_T1C0r40  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette7c08b25a_T1C0r48  ->  sauber bis 2^31
+  fertig: kette7c08b25a_T1C0r56  ->  sauber bis 2^31
+  fertig: kette7c08b25a_T0C1r24  ->  sauber bis 2^31
+  fertig: kette7c08b25a_T0C1r32  ->  sauber bis 2^31
+  fertig: kette7c08b25a_T0C1r40  ->  sauber bis 2^31  (2x suspicious)
+  fertig: kette7c08b25a_T0C1r48  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette7c08b25a_T0C1r56  ->  sauber bis 2^31
+  fertig: kette7c08b25a_T1C1r00  ->  sauber bis 2^31
+  fertig: kette7c08b25a_T1C1r08  ->  sauber bis 2^31
+  fertig: kette7c08b25a_T1C1r16  ->  sauber bis 2^31
+  fertig: kette7c08b25a_T1C1r24  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette7c08b25a_T1C1r32  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette7c08b25a_T1C1r40  ->  sauber bis 2^31
+  fertig: kette7c08b25a_T1C1r48  ->  sauber bis 2^31
+  fertig: kette7c08b25a_T1C1r56  ->  sauber bis 2^31
+
+*** NOVEL K9 -- volle Smoke! A X=bswap c1=a24baed4963ee407 c2=94d049bb133111eb  kette=8:a24baed4963ee407,11:0,8:94d049bb133111eb ***
+
+  fertig: kette857235bc_T0C0r56  ->  FAIL bei 2^28
+  fertig: kette857235bc_T0C0r00  ->  sauber bis 2^31  (2x suspicious)
+  fertig: kette857235bc_T0C0r08  ->  sauber bis 2^31
+  fertig: kette857235bc_T0C0r16  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette857235bc_T0C0r24  ->  sauber bis 2^31
+  fertig: kette857235bc_T0C0r32  ->  sauber bis 2^31  (4x suspicious)
+  fertig: kette857235bc_T0C0r40  ->  sauber bis 2^31  (2x suspicious)
+  fertig: kette857235bc_T0C0r48  ->  sauber bis 2^31  (5x suspicious)
+  fertig: kette857235bc_T1C0r00  ->  sauber bis 2^31
+  fertig: kette857235bc_T1C0r16  ->  sauber bis 2^31
+  fertig: kette857235bc_T1C0r08  ->  sauber bis 2^31
+  fertig: kette857235bc_T1C0r24  ->  sauber bis 2^31
+  fertig: kette857235bc_T1C0r32  ->  sauber bis 2^31
+  fertig: kette857235bc_T1C0r40  ->  sauber bis 2^31
+  fertig: kette857235bc_T0C1r00  ->  sauber bis 2^31
+  fertig: kette857235bc_T0C1r08  ->  sauber bis 2^31
+  fertig: kette857235bc_T0C1r16  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette857235bc_T0C1r24  ->  sauber bis 2^31
+  fertig: kette857235bc_T0C1r32  ->  sauber bis 2^31
+  fertig: kette857235bc_T0C1r40  ->  sauber bis 2^31
+  fertig: kette857235bc_T0C1r56  ->  sauber bis 2^31
+  fertig: kette857235bc_T1C0r48  ->  sauber bis 2^31
+  fertig: kette857235bc_T1C0r56  ->  sauber bis 2^31
+  fertig: kette857235bc_T0C1r48  ->  sauber bis 2^31
+  fertig: kette857235bc_T1C1r00  ->  sauber bis 2^31
+  fertig: kette857235bc_T1C1r32  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette857235bc_T1C1r08  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette857235bc_T1C1r16  ->  sauber bis 2^31
+  fertig: kette857235bc_T1C1r24  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette857235bc_T1C1r40  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette857235bc_T1C1r48  ->  sauber bis 2^31
+  fertig: kette857235bc_T1C1r56  ->  sauber bis 2^31
+  Smoke A/bswap/a24baed4963ee407/3c79ac492ba7b653: 31/32 (first_fail 2^28)
+  fertig: kette52a90ae6_T0C0r40  ->  FAIL bei 2^29
+  fertig: kette52a90ae6_T0C0r00  ->  sauber bis 2^31  (2x suspicious)
+  fertig: kette52a90ae6_T0C0r08  ->  sauber bis 2^31
+  fertig: kette52a90ae6_T0C0r16  ->  sauber bis 2^31
+  fertig: kette52a90ae6_T0C0r24  ->  sauber bis 2^31
+  fertig: kette52a90ae6_T0C0r32  ->  sauber bis 2^31  (6x suspicious)
+  fertig: kette52a90ae6_T0C0r48  ->  sauber bis 2^31
+  fertig: kette52a90ae6_T0C0r56  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette52a90ae6_T1C0r00  ->  sauber bis 2^31
+  fertig: kette52a90ae6_T1C0r08  ->  sauber bis 2^31
+  fertig: kette52a90ae6_T1C0r16  ->  sauber bis 2^31
+  fertig: kette52a90ae6_T1C0r24  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette52a90ae6_T1C0r32  ->  sauber bis 2^31
+  fertig: kette52a90ae6_T1C0r48  ->  sauber bis 2^31
+  fertig: kette52a90ae6_T0C1r00  ->  sauber bis 2^31
+  fertig: kette52a90ae6_T0C1r08  ->  sauber bis 2^31
+  fertig: kette52a90ae6_T0C1r16  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette52a90ae6_T0C1r24  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette52a90ae6_T1C0r40  ->  sauber bis 2^31
+  fertig: kette52a90ae6_T1C0r56  ->  sauber bis 2^31
+  fertig: kette52a90ae6_T0C1r32  ->  sauber bis 2^31
+  fertig: kette52a90ae6_T0C1r40  ->  sauber bis 2^31
+  fertig: kette52a90ae6_T0C1r48  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette52a90ae6_T0C1r56  ->  sauber bis 2^31
+  fertig: kette52a90ae6_T1C1r00  ->  sauber bis 2^31
+  fertig: kette52a90ae6_T1C1r08  ->  sauber bis 2^31
+  fertig: kette52a90ae6_T1C1r16  ->  sauber bis 2^31
+  fertig: kette52a90ae6_T1C1r32  ->  sauber bis 2^31
+  fertig: kette52a90ae6_T1C1r40  ->  sauber bis 2^31
+  fertig: kette52a90ae6_T1C1r24  ->  sauber bis 2^31
+  fertig: kette52a90ae6_T1C1r48  ->  sauber bis 2^31
+  fertig: kette52a90ae6_T1C1r56  ->  sauber bis 2^31
+  Smoke A/bswap/a24baed4963ee407/1c69b3f74ac4ae35: 31/32 (first_fail 2^29)
+  fertig: kette40e1954c_T0C0r00  ->  sauber bis 2^31  (4x suspicious)
+  fertig: kette40e1954c_T0C0r16  ->  sauber bis 2^31
+  fertig: kette40e1954c_T0C0r24  ->  sauber bis 2^31
+  fertig: kette40e1954c_T0C0r32  ->  FAIL bei 2^31
+  fertig: kette40e1954c_T0C0r48  ->  FAIL bei 2^31
+  fertig: kette40e1954c_T0C0r56  ->  sauber bis 2^31  (4x suspicious)
+  fertig: kette40e1954c_T0C0r08  ->  sauber bis 2^31
+  fertig: kette40e1954c_T0C0r40  ->  sauber bis 2^31  (2x suspicious)
+  fertig: kette40e1954c_T1C0r00  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette40e1954c_T1C0r08  ->  sauber bis 2^31
+  fertig: kette40e1954c_T1C0r16  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette40e1954c_T1C0r24  ->  sauber bis 2^31
+  fertig: kette40e1954c_T0C1r00  ->  sauber bis 2^31
+  fertig: kette40e1954c_T0C1r08  ->  sauber bis 2^31
+  fertig: kette40e1954c_T1C0r32  ->  sauber bis 2^31
+  fertig: kette40e1954c_T1C0r40  ->  sauber bis 2^31
+  fertig: kette40e1954c_T1C0r48  ->  sauber bis 2^31
+  fertig: kette40e1954c_T1C0r56  ->  sauber bis 2^31
+  fertig: kette40e1954c_T0C1r16  ->  sauber bis 2^31
+  fertig: kette40e1954c_T0C1r40  ->  sauber bis 2^31
+  fertig: kette40e1954c_T0C1r48  ->  sauber bis 2^31
+  fertig: kette40e1954c_T0C1r24  ->  sauber bis 2^31
+  fertig: kette40e1954c_T0C1r32  ->  sauber bis 2^31
+  fertig: kette40e1954c_T0C1r56  ->  sauber bis 2^31
+  fertig: kette40e1954c_T1C1r00  ->  sauber bis 2^31
+  fertig: kette40e1954c_T1C1r08  ->  sauber bis 2^31
+  fertig: kette40e1954c_T1C1r56  ->  sauber bis 2^31
+  fertig: kette40e1954c_T1C1r16  ->  sauber bis 2^31
+  fertig: kette40e1954c_T1C1r24  ->  sauber bis 2^31
+  fertig: kette40e1954c_T1C1r32  ->  sauber bis 2^31
+  fertig: kette40e1954c_T1C1r40  ->  sauber bis 2^31
+  fertig: kette40e1954c_T1C1r48  ->  sauber bis 2^31
+  Smoke A/bswap/a24baed4963ee407/9e6c63d0676a9a99: 30/32 (first_fail 2^31)
+  fertig: kette240cd1d6_T0C0r08  ->  sauber bis 2^31
+  fertig: kette240cd1d6_T0C0r24  ->  sauber bis 2^31
+  fertig: kette240cd1d6_T0C0r32  ->  FAIL bei 2^31
+  fertig: kette240cd1d6_T0C0r00  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette240cd1d6_T0C0r16  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette240cd1d6_T0C0r40  ->  sauber bis 2^31  (5x suspicious)
+  fertig: kette240cd1d6_T0C0r48  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette240cd1d6_T0C0r56  ->  sauber bis 2^31  (4x suspicious)
+  fertig: kette240cd1d6_T1C0r00  ->  sauber bis 2^31  (2x suspicious)
+  fertig: kette240cd1d6_T1C0r08  ->  sauber bis 2^31
+  fertig: kette240cd1d6_T1C0r16  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette240cd1d6_T1C0r24  ->  sauber bis 2^31  (6x suspicious)
+  fertig: kette240cd1d6_T1C0r32  ->  sauber bis 2^31
+  fertig: kette240cd1d6_T1C0r40  ->  sauber bis 2^31
+  fertig: kette240cd1d6_T1C0r48  ->  sauber bis 2^31
+  fertig: kette240cd1d6_T0C1r16  ->  sauber bis 2^31
+  fertig: kette240cd1d6_T1C0r56  ->  sauber bis 2^31
+  fertig: kette240cd1d6_T0C1r00  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette240cd1d6_T0C1r08  ->  sauber bis 2^31
+  fertig: kette240cd1d6_T0C1r24  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette240cd1d6_T0C1r32  ->  sauber bis 2^31
+  fertig: kette240cd1d6_T0C1r40  ->  sauber bis 2^31
+  fertig: kette240cd1d6_T0C1r48  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette240cd1d6_T0C1r56  ->  sauber bis 2^31
+  fertig: kette240cd1d6_T1C1r00  ->  sauber bis 2^31
+  fertig: kette240cd1d6_T1C1r08  ->  sauber bis 2^31
+  fertig: kette240cd1d6_T1C1r16  ->  sauber bis 2^31
+  fertig: kette240cd1d6_T1C1r24  ->  sauber bis 2^31
+  fertig: kette240cd1d6_T1C1r32  ->  sauber bis 2^31
+  fertig: kette240cd1d6_T1C1r40  ->  sauber bis 2^31
+  fertig: kette240cd1d6_T1C1r48  ->  sauber bis 2^31
+  fertig: kette240cd1d6_T1C1r56  ->  sauber bis 2^31  (1x suspicious)
+  Smoke A/bswap/a24baed4963ee407/9e6d62d06f6a9a9b: 31/32 (first_fail 2^31)
+  fertig: kette96ac53af_T0C0r48  ->  FAIL bei 2^20
+  fertig: kette96ac53af_T1C0r24  ->  FAIL bei 2^22
+  fertig: kette96ac53af_T0C0r32  ->  FAIL bei 2^29
+  fertig: kette96ac53af_T0C0r56  ->  FAIL bei 2^29
+  fertig: kette96ac53af_T1C0r32  ->  FAIL bei 2^28
+  fertig: kette96ac53af_T0C0r00  ->  sauber bis 2^31  (8x suspicious)
+  fertig: kette96ac53af_T0C0r08  ->  sauber bis 2^31
+  fertig: kette96ac53af_T0C0r16  ->  sauber bis 2^31
+  fertig: kette96ac53af_T0C0r24  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette96ac53af_T0C0r40  ->  sauber bis 2^31  (9x suspicious)
+  fertig: kette96ac53af_T1C0r00  ->  sauber bis 2^31
+  fertig: kette96ac53af_T1C0r08  ->  FAIL bei 2^31
+  fertig: kette96ac53af_T1C0r16  ->  sauber bis 2^31  (4x suspicious)
+  fertig: kette96ac53af_T1C0r40  ->  sauber bis 2^31
+  fertig: kette96ac53af_T1C0r48  ->  sauber bis 2^31
+  fertig: kette96ac53af_T1C0r56  ->  sauber bis 2^31
+  fertig: kette96ac53af_T0C1r00  ->  sauber bis 2^31
+  fertig: kette96ac53af_T0C1r16  ->  sauber bis 2^31
+  fertig: kette96ac53af_T0C1r24  ->  sauber bis 2^31
+  fertig: kette96ac53af_T0C1r32  ->  sauber bis 2^31
+  fertig: kette96ac53af_T0C1r40  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette96ac53af_T0C1r48  ->  sauber bis 2^31
+  fertig: kette96ac53af_T0C1r08  ->  sauber bis 2^31
+  fertig: kette96ac53af_T0C1r56  ->  sauber bis 2^31
+  fertig: kette96ac53af_T1C1r00  ->  sauber bis 2^31
+  fertig: kette96ac53af_T1C1r08  ->  sauber bis 2^31
+  fertig: kette96ac53af_T1C1r16  ->  sauber bis 2^31
+  fertig: kette96ac53af_T1C1r24  ->  sauber bis 2^31
+  fertig: kette96ac53af_T1C1r32  ->  sauber bis 2^31
+  fertig: kette96ac53af_T1C1r40  ->  sauber bis 2^31
+  fertig: kette96ac53af_T1C1r48  ->  sauber bis 2^31
+  fertig: kette96ac53af_T1C1r56  ->  sauber bis 2^31
+  Smoke A/bswap/a24baed4963ee407/b853d68343f7525b: 26/32 (first_fail 2^20)
+  fertig: kette151ab9a4_T0C0r56  ->  FAIL bei 2^26
+  fertig: kette151ab9a4_T0C0r40  ->  FAIL bei 2^27
+  fertig: kette151ab9a4_T1C0r00  ->  FAIL bei 2^29
+  fertig: kette151ab9a4_T1C0r16  ->  FAIL bei 2^29
+  fertig: kette151ab9a4_T1C0r32  ->  FAIL bei 2^25
+  fertig: kette151ab9a4_T0C0r00  ->  FAIL bei 2^30
+  fertig: kette151ab9a4_T0C0r48  ->  FAIL bei 2^30
+  fertig: kette151ab9a4_T0C0r08  ->  sauber bis 2^31
+  fertig: kette151ab9a4_T0C0r16  ->  sauber bis 2^31
+  fertig: kette151ab9a4_T0C0r24  ->  sauber bis 2^31
+  fertig: kette151ab9a4_T0C0r32  ->  FAIL bei 2^31
+  fertig: kette151ab9a4_T1C0r08  ->  sauber bis 2^31
+  fertig: kette151ab9a4_T1C0r24  ->  FAIL bei 2^31
+  fertig: kette151ab9a4_T1C0r40  ->  sauber bis 2^31
+  fertig: kette151ab9a4_T1C0r48  ->  sauber bis 2^31
+  fertig: kette151ab9a4_T1C0r56  ->  sauber bis 2^31
+  fertig: kette151ab9a4_T0C1r00  ->  sauber bis 2^31
+  fertig: kette151ab9a4_T0C1r08  ->  sauber bis 2^31
+  fertig: kette151ab9a4_T0C1r16  ->  sauber bis 2^31
+  fertig: kette151ab9a4_T1C1r00  ->  FAIL bei 2^30
+  fertig: kette151ab9a4_T0C1r48  ->  sauber bis 2^31
+  fertig: kette151ab9a4_T0C1r24  ->  sauber bis 2^31
+  fertig: kette151ab9a4_T0C1r32  ->  sauber bis 2^31  (2x suspicious)
+  fertig: kette151ab9a4_T0C1r40  ->  sauber bis 2^31
+  fertig: kette151ab9a4_T0C1r56  ->  sauber bis 2^31
+  fertig: kette151ab9a4_T1C1r08  ->  sauber bis 2^31
+  fertig: kette151ab9a4_T1C1r16  ->  sauber bis 2^31
+  fertig: kette151ab9a4_T1C1r24  ->  sauber bis 2^31
+  fertig: kette151ab9a4_T1C1r32  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kette151ab9a4_T1C1r40  ->  sauber bis 2^31
+  fertig: kette151ab9a4_T1C1r48  ->  sauber bis 2^31
+  fertig: kette151ab9a4_T1C1r56  ->  sauber bis 2^31
+  Smoke A/bswap/a24baed4963ee407/9e3779b97f4a7c15: 22/32 (first_fail 2^25)
+  fertig: kettecbcc1560_T1C0r24  ->  FAIL bei 2^25
+  fertig: kettecbcc1560_T0C0r08  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kettecbcc1560_T0C0r24  ->  sauber bis 2^31  (1x suspicious)
+  fertig: kettecbcc1560_T0C0r40  ->  sauber bis 2^31  (2x suspicious)
+  fertig: kettecbcc1560_T0C0r48  ->  sauber bis 2^31  (2x suspicious)
+  fertig: kettecbcc1560_T0C0r00  ->  sauber bis 2^31  (5x suspicious)
+  fertig: kettecbcc1560_T0C0r16  ->  sauber bis 2^31
+  fertig: kettecbcc1560_T0C0r32  ->  FAIL bei 2^31
+  fertig: kettecbcc1560_T0C0r56  ->  sauber bis 2^31  (4x suspicious)
+  fertig: kettecbcc1560_T1C0r00  ->  sauber bis 2^31  (9x suspicious)
+  fertig: kettecbcc1560_T1C0r08  ->  sauber bis 2^31  (4x suspicious)
+  fertig: kettecbcc1560_T1C0r16  ->  sauber bis 2^31  (3x suspicious)
+  fertig: kettecbcc1560_T1C0r32  ->  sauber bis 2^31  (6x suspicious)
+  fertig: kettecbcc1560_T1C0r40  ->  sauber bis 2^31
+  fertig: kettecbcc1560_T0C1r00  ->  sauber bis 2^31
+  fertig: kettecbcc1560_T1C0r48  ->  sauber bis 2^31
+  fertig: kettecbcc1560_T1C0r56  ->  sauber bis 2^31
+  fertig: kettecbcc1560_T0C1r08  ->  sauber bis 2^31
+  fertig: kettecbcc1560_T0C1r16  ->  sauber bis 2^31
+  fertig: kettecbcc1560_T0C1r24  ->  sauber bis 2^31
+  fertig: kettecbcc1560_T0C1r32  ->  sauber bis 2^31
+  fertig: kettecbcc1560_T0C1r40  ->  sauber bis 2^31
+  fertig: kettecbcc1560_T0C1r48  ->  sauber bis 2^31
+  fertig: kettecbcc1560_T0C1r56  ->  sauber bis 2^31
+  fertig: kettecbcc1560_T1C1r00  ->  sauber bis 2^31
+  fertig: kettecbcc1560_T1C1r08  ->  sauber bis 2^31
+  fertig: kettecbcc1560_T1C1r16  ->  sauber bis 2^31
+  fertig: kettecbcc1560_T1C1r24  ->  sauber bis 2^31
+  fertig: kettecbcc1560_T1C1r32  ->  sauber bis 2^31
+  fertig: kettecbcc1560_T1C1r40  ->  sauber bis 2^31
+  fertig: kettecbcc1560_T1C1r48  ->  sauber bis 2^31
+  fertig: kettecbcc1560_T1C1r56  ->  sauber bis 2^31
+  Smoke A/bswap/781f94b96e8edb3b/bf58476d1ce4e5b9: 30/32 (first_fail 2^25)
+  fertig: ketteebbd09d3_T0C0r00  ->  sauber bis 2^31  (2x suspicious)
+  fertig: ketteebbd09d3_T0C0r08  ->  sauber bis 2^31
+  fertig: ketteebbd09d3_T0C0r32  ->  sauber bis 2^31  (6x suspicious)
+  fertig: ketteebbd09d3_T0C0r40  ->  sauber bis 2^31  (2x suspicious)
+  fertig: ketteebbd09d3_T0C0r48  ->  sauber bis 2^31  (3x suspicious)
+  fertig: ketteebbd09d3_T0C0r56  ->  sauber bis 2^31  (4x suspicious)
+  fertig: ketteebbd09d3_T0C0r16  ->  sauber bis 2^31
+  fertig: ketteebbd09d3_T0C0r24  ->  sauber bis 2^31  (1x suspicious)
+  fertig: ketteebbd09d3_T1C0r00  ->  FAIL bei 2^31
+  fertig: ketteebbd09d3_T1C0r08  ->  sauber bis 2^31
+  fertig: ketteebbd09d3_T1C0r16  ->  sauber bis 2^31  (1x suspicious)
+  fertig: ketteebbd09d3_T1C0r24  ->  sauber bis 2^31  (1x suspicious)
+  fertig: ketteebbd09d3_T1C0r32  ->  FAIL bei 2^29
+  fertig: ketteebbd09d3_T1C0r40  ->  sauber bis 2^31
+  fertig: ketteebbd09d3_T1C0r56  ->  sauber bis 2^31
+  fertig: ketteebbd09d3_T0C1r00  ->  sauber bis 2^31
+  fertig: ketteebbd09d3_T0C1r08  ->  sauber bis 2^31
+  fertig: ketteebbd09d3_T1C0r48  ->  sauber bis 2^31
+  fertig: ketteebbd09d3_T0C1r16  ->  sauber bis 2^31  (2x suspicious)
+  fertig: ketteebbd09d3_T0C1r24  ->  sauber bis 2^31
+  fertig: ketteebbd09d3_T0C1r32  ->  sauber bis 2^31
+  fertig: ketteebbd09d3_T0C1r40  ->  sauber bis 2^31
+  fertig: ketteebbd09d3_T0C1r48  ->  sauber bis 2^31
+  fertig: ketteebbd09d3_T0C1r56  ->  sauber bis 2^31
+  fertig: ketteebbd09d3_T1C1r00  ->  sauber bis 2^31
+  fertig: ketteebbd09d3_T1C1r08  ->  sauber bis 2^31
+  fertig: ketteebbd09d3_T1C1r16  ->  sauber bis 2^31
+  fertig: ketteebbd09d3_T1C1r24  ->  sauber bis 2^31
+  fertig: ketteebbd09d3_T1C1r32  ->  sauber bis 2^31  (2x suspicious)
+  fertig: ketteebbd09d3_T1C1r40  ->  sauber bis 2^31
+  fertig: ketteebbd09d3_T1C1r48  ->  sauber bis 2^31  (1x suspicious)
+  fertig: ketteebbd09d3_T1C1r56  ->  sauber bis 2^31
+  Smoke A/bswap/781f94b96e8edb3b/94d049bb133111eb: 30/32 (first_fail 2^29)
+  S1 50/29721  erledigt 1309/30980  Smokes 90  Passer 23  (6931 s)
+SMOKE-KAPPE gerissen (90 > 80) -- anhalten und Lage ansehen.
+
+=== ERSCHOEPFUNG REGULAER BEENDET ===
+rc=2 KAPPE  2026-08-19 21:32:31
+rc=2  2026-08-19 21:32:31
+Ergebnis: erschoepfung_k9_ergebnis.json

@@ -1,0 +1,103 @@
+
+============================================================
+  DIPLOM meer10  Versuch 1   26.08.2026 21:50:43,87
+============================================================
+  fertig: kette8c9da979_T0C0r00  ->  FAIL bei 2^19
+  fertig: meer10_T1C0r16  ->  sauber bis 2^28
+  fertig: meer10_T1C0r00  ->  sauber bis 2^28
+  fertig: meer10_T0C0r00  ->  sauber bis 2^28
+  fertig: meer10_T0C0r32  ->  sauber bis 2^28
+Anker ok: mix13 faellt, meer10 haelt die Henker.
+DIPLOM RRC-64-40  meer10: 256 Stroeme x 1TB, 180 schon verbucht, 76 offen, parallel 10.
+  [181/256] meer10_T0C1r23: sauber bis 2^40  (4.9 h)
+  [182/256] meer10_T1C1r23: sauber bis 2^40  (4.9 h)
+  [183/256] meer10_T0C1r22: sauber bis 2^40  (5.0 h)
+  [184/256] meer10_T0C1r25: sauber bis 2^40  (5.0 h)
+  [185/256] meer10_T0C1r21: sauber bis 2^40  (5.0 h)
+  [186/256] meer10_T1C1r21: sauber bis 2^40  (5.0 h)
+  [187/256] meer10_T0C1r26: sauber bis 2^40  (1x suspicious)  (5.0 h)
+  [188/256] meer10_T1C1r25: sauber bis 2^40  (5.0 h)
+  [189/256] meer10_T1C1r26: sauber bis 2^40  (5.0 h)
+  [190/256] meer10_T1C1r22: sauber bis 2^40  (5.0 h)
+  [191/256] meer10_T0C1r27: sauber bis 2^40  (9.8 h)
+  [192/256] meer10_T1C1r27: sauber bis 2^40  (9.8 h)
+  [193/256] meer10_T0C1r29: sauber bis 2^40  (9.8 h)
+  [194/256] meer10_T0C1r28: sauber bis 2^40  (9.9 h)
+  [195/256] meer10_T1C1r28: sauber bis 2^40  (9.9 h)
+  [196/256] meer10_T1C1r30: sauber bis 2^40  (9.9 h)
+  [197/256] meer10_T0C1r31: sauber bis 2^40  (9.9 h)
+  [198/256] meer10_T0C1r30: sauber bis 2^40  (9.9 h)
+  [199/256] meer10_T1C1r29: sauber bis 2^40  (9.9 h)
+  [200/256] meer10_T1C1r31: sauber bis 2^40  (10.0 h)
+  [201/256] meer10_T0C1r33: sauber bis 2^40  (1x suspicious)  (14.9 h)
+  [202/256] meer10_T1C1r33: sauber bis 2^40  (14.9 h)
+  [203/256] meer10_T0C1r34: sauber bis 2^40  (14.9 h)
+  [204/256] meer10_T0C1r35: sauber bis 2^40  (15.0 h)
+  [205/256] meer10_T1C1r34: sauber bis 2^40  (1x suspicious)  (15.0 h)
+  [206/256] meer10_T0C1r36: sauber bis 2^40  (15.0 h)
+  [207/256] meer10_T0C1r37: sauber bis 2^40  (15.0 h)
+  [208/256] meer10_T1C1r35: sauber bis 2^40  (1x suspicious)  (15.0 h)
+  [209/256] meer10_T1C1r36: sauber bis 2^40  (15.1 h)
+  [210/256] meer10_T1C1r37: sauber bis 2^40  (15.1 h)
+  [211/256] meer10_T0C1r38: sauber bis 2^40  (20.0 h)
+  [212/256] meer10_T0C1r41: sauber bis 2^40  (20.0 h)
+  [213/256] meer10_T1C1r38: sauber bis 2^40  (1x suspicious)  (20.0 h)
+  [214/256] meer10_T0C1r39: sauber bis 2^40  (20.0 h)
+  [215/256] meer10_T1C1r39: sauber bis 2^40  (20.0 h)
+  [216/256] meer10_T0C1r42: sauber bis 2^40  (2x suspicious)  (20.1 h)
+  [217/256] meer10_T1C1r41: sauber bis 2^40  (20.1 h)
+  [218/256] meer10_T0C1r43: sauber bis 2^40  (20.1 h)
+  [219/256] meer10_T1C1r42: sauber bis 2^40  (20.2 h)
+  [220/256] meer10_T1C1r43: sauber bis 2^40  (20.2 h)
+  [221/256] meer10_T0C1r44: sauber bis 2^40  (25.0 h)
+  [222/256] meer10_T0C1r45: sauber bis 2^40  (25.0 h)
+  [223/256] meer10_T1C1r44: sauber bis 2^40  (25.1 h)
+  [224/256] meer10_T1C1r46: sauber bis 2^40  (25.1 h)
+  [225/256] meer10_T1C1r45: sauber bis 2^40  (25.1 h)
+  [226/256] meer10_T0C1r46: sauber bis 2^40  (25.1 h)
+  [227/256] meer10_T0C1r47: sauber bis 2^40  (25.2 h)
+  [228/256] meer10_T1C1r47: sauber bis 2^40  (25.2 h)
+  [229/256] meer10_T0C1r49: sauber bis 2^40  (25.2 h)
+  [230/256] meer10_T1C1r49: sauber bis 2^40  (25.2 h)
+  [231/256] meer10_T0C1r50: sauber bis 2^40  (30.0 h)
+  [232/256] meer10_T0C1r51: sauber bis 2^40  (30.0 h)
+  [233/256] meer10_T1C1r50: sauber bis 2^40  (30.1 h)
+  [234/256] meer10_T0C1r52: sauber bis 2^40  (30.1 h)
+  [235/256] meer10_T1C1r51: sauber bis 2^40  (30.1 h)
+  [236/256] meer10_T0C1r53: sauber bis 2^40  (30.1 h)
+  [237/256] meer10_T1C1r52: sauber bis 2^40  (30.1 h)
+  [238/256] meer10_T0C1r54: sauber bis 2^40  (30.2 h)
+  [239/256] meer10_T1C1r53: sauber bis 2^40  (30.2 h)
+  [240/256] meer10_T1C1r54: sauber bis 2^40  (30.2 h)
+  [241/256] meer10_T0C1r55: sauber bis 2^40  (35.0 h)
+  [242/256] meer10_T1C1r55: sauber bis 2^40  (35.1 h)
+  [243/256] meer10_T0C1r57: sauber bis 2^40  (35.1 h)
+  [244/256] meer10_T0C1r58: sauber bis 2^40  (35.1 h)
+  [245/256] meer10_T1C1r57: sauber bis 2^40  (1x suspicious)  (35.2 h)
+  [246/256] meer10_T0C1r59: sauber bis 2^40  (35.2 h)
+  [247/256] meer10_T1C1r58: sauber bis 2^40  (1x suspicious)  (35.2 h)
+  [248/256] meer10_T0C1r60: sauber bis 2^40  (35.2 h)
+  [249/256] meer10_T1C1r59: sauber bis 2^40  (35.2 h)
+  [250/256] meer10_T1C1r60: sauber bis 2^40  (35.3 h)
+  [251/256] meer10_T1C1r61: sauber bis 2^40  (39.3 h)
+  [252/256] meer10_T0C1r61: sauber bis 2^40  (39.3 h)
+  [253/256] meer10_T0C1r62: sauber bis 2^40  (39.3 h)
+  [254/256] meer10_T1C1r62: sauber bis 2^40  (39.4 h)
+  [255/256] meer10_T0C1r63: sauber bis 2^40  (39.4 h)
+  [256/256] meer10_T1C1r63: sauber bis 2^40  (39.5 h)
+
+DIPLOM meer10: BESTANDEN  (256/256 verbucht, 0 FAIL, 34x suspicious)
+
+=== DIPLOM ABGESCHLOSSEN ===
+BESTANDEN  2026-08-28 13:18:21
+{
+ "kandidat": "meer10",
+ "mixer": "meer10",
+ "protokoll": "256 Stroeme x 1TB, -tf 2",
+ "urteil": "BESTANDEN",
+ "verbucht": 256,
+ "fails": {},
+ "suspicious_gesamt": 34,
+ "stunden": 39.5,
+ "stand": "2026-08-28 13:18:21"
+}

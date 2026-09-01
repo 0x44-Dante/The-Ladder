@@ -1,0 +1,39 @@
+RNG_test using PractRand version 0.94
+RNG = RNG_stdin64, seed = unknown
+test set = core, folding = extra
+
+rng=RNG_stdin64, seed=unknown
+length= 1 kilobyte (2^10 bytes), time= 0.2 seconds
+  no anomalies in 6 test result(s)
+
+rng=RNG_stdin64, seed=unknown
+length= 2 kilobytes (2^11 bytes), time= 0.3 seconds
+  no anomalies in 8 test result(s)
+
+rng=RNG_stdin64, seed=unknown
+length= 4 kilobytes (2^12 bytes), time= 0.5 seconds
+  no anomalies in 24 test result(s)
+
+rng=RNG_stdin64, seed=unknown
+length= 8 kilobytes (2^13 bytes), time= 0.8 seconds
+  no anomalies in 47 test result(s)
+
+rng=RNG_stdin64, seed=unknown
+length= 16 kilobytes (2^14 bytes), time= 1.4 seconds
+  Test Name                         Raw       Processed     Evaluation
+  FPF-14+6/16:all                   R=  -6.4  p =1-4.5e-4   unusual          
+  [Low4/64]DC6-9x1Bytes-1           R= +14.0  p =  8.9e-5   mildly suspicious
+  ...and 72 test result(s) without anomalies
+
+rng=RNG_stdin64, seed=unknown
+length= 32 kilobytes (2^15 bytes), time= 2.1 seconds
+  Test Name                         Raw       Processed     Evaluation
+  FPF-14+6/16:all                   R=  -6.7  p =1-1.3e-4   unusual          
+  [Low1/32]DC6-9x1Bytes-1           R= +42.1  p =  1.6e-12    FAIL           
+  [Low4/32]Gap-16:A                 R= +14.2  p =  1.7e-12    FAIL           
+  [Low4/32]Gap-16:B                 R= +14.0  p =  9.3e-12    FAIL           
+  [Low4/64]DC6-9x1Bytes-1           R= +26.8  p =  2.3e-9    VERY SUSPICIOUS 
+  [Low8/64]Gap-16:A                 R= +14.2  p =  1.6e-12    FAIL           
+  [Low8/64]Gap-16:B                 R= +15.2  p =  8.8e-13    FAIL           
+  ...and 92 test result(s) without anomalies
+

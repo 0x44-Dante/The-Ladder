@@ -1,0 +1,69 @@
+RNG_test using PractRand version 0.94
+RNG = RNG_stdin64, seed = unknown
+test set = core, folding = extra
+
+rng=RNG_stdin64, seed=unknown
+length= 1 kilobyte (2^10 bytes), time= 0.2 seconds
+  no anomalies in 6 test result(s)
+
+rng=RNG_stdin64, seed=unknown
+length= 2 kilobytes (2^11 bytes), time= 0.3 seconds
+  no anomalies in 8 test result(s)
+
+rng=RNG_stdin64, seed=unknown
+length= 4 kilobytes (2^12 bytes), time= 0.4 seconds
+  Test Name                         Raw       Processed     Evaluation
+  [Low8/32]mod3n(5):(0,9-6)         R= +16.3  p =  2.9e-6   suspicious       
+  ...and 23 test result(s) without anomalies
+
+rng=RNG_stdin64, seed=unknown
+length= 8 kilobytes (2^13 bytes), time= 0.6 seconds
+  Test Name                         Raw       Processed     Evaluation
+  [Low4/32]DC6-9x1Bytes-1           R=  +8.1  p =  3.7e-3   unusual          
+  [Low8/32]DC6-9x1Bytes-1           R= +10.3  p =  5.1e-4   mildly suspicious
+  [Low8/32]mod3n(5):(0,9-6)         R= +16.3  p =  2.9e-6   mildly suspicious
+  ...and 44 test result(s) without anomalies
+
+rng=RNG_stdin64, seed=unknown
+length= 16 kilobytes (2^14 bytes), time= 1.2 seconds
+  Test Name                         Raw       Processed     Evaluation
+  [Low1/16]DC6-9x1Bytes-1           R= +16.0  p =  2.5e-5   suspicious       
+  [Low4/32]DC6-9x1Bytes-1           R= +22.3  p =  6.6e-8   very suspicious  
+  [Low4/64]DC6-9x1Bytes-1           R= +19.2  p =  3.3e-6   very suspicious  
+  [Low8/32]BCFN(2+0,13-9,T)         R= +17.9  p =  3.4e-5   mildly suspicious
+  [Low8/32]DC6-9x1Bytes-1           R= +16.5  p =  7.5e-7   very suspicious  
+  [Low8/32]Gap-16:A                 R=  -4.8  p =1-1.6e-7   very suspicious  
+  [Low8/32]Gap-16:B                 R=  -4.4  p =1-2.6e-6   suspicious       
+  [Low8/32]mod3n(5):(0,9-6)         R= +16.3  p =  2.9e-6   mildly suspicious
+  ...and 66 test result(s) without anomalies
+
+rng=RNG_stdin64, seed=unknown
+length= 32 kilobytes (2^15 bytes), time= 2.2 seconds
+  Test Name                         Raw       Processed     Evaluation
+  FPF-14+6/16:(0,14-8)              R=  -5.7  p =1-2.4e-6   unusual          
+  FPF-14+6/16:all                   R=  -6.5  p =1-1.7e-4   unusual          
+  [Low1/8]DC6-9x1Bytes-1            R=  +8.4  p =  1.0e-3   unusual          
+  [Low1/8]Gap-16:A                  R= +61.5  p =  1.3e-55    FAIL !!!!      
+  [Low1/8]Gap-16:B                  R= +63.0  p =  9.1e-55    FAIL !!!!      
+  [Low1/16]DC6-9x1Bytes-1           R= +38.9  p =  2.9e-13    FAIL           
+  [Low1/32]DC6-9x1Bytes-1           R= +74.4  p =  2.0e-21    FAIL !!        
+  [Low1/32]FPF-14+6/16:(0,14-11)    R= +57.3  p =  2.5e-25    FAIL !!        
+  [Low1/32]FPF-14+6/16:all          R= +81.8  p~=   3e-42     FAIL !!!       
+  [Low4/16]BCFN(2+0,13-9,T)         R= +13.1  p =  4.7e-4   unusual          
+  [Low4/16]Gap-16:A                 R= +11.0  p =  1.8e-7   very suspicious  
+  [Low4/16]Gap-16:B                 R= +11.9  p =  1.5e-7   very suspicious  
+  [Low4/32]BCFN(2+0,13-9,T)         R= +50.0  p =  1.1e-12    FAIL           
+  [Low4/32]DC6-9x1Bytes-1           R= +39.0  p =  1.7e-15    FAIL !         
+  [Low4/32]Gap-16:A                 R=+117.7  p =  7.4e-107   FAIL !!!!!     
+  [Low4/32]Gap-16:B                 R=+118.1  p =  4.0e-103   FAIL !!!!!     
+  [Low4/64]DC6-9x1Bytes-1           R= +30.1  p =  2.0e-10   VERY SUSPICIOUS 
+  [Low8/32]BCFN(2+0,13-9,T)         R= +35.3  p =  3.1e-9    VERY SUSPICIOUS 
+  [Low8/32]DC6-9x1Bytes-1           R= +34.5  p =  4.0e-15    FAIL !         
+  [Low8/32]Gap-16:A                 R= +33.4  p =  1.2e-24    FAIL !!        
+  [Low8/32]Gap-16:B                 R= +39.9  p =  7.4e-26    FAIL !!        
+  [Low8/32]mod3n(5):(0,9-6)         R= +16.3  p =  2.9e-6   mildly suspicious
+  [Low8/64]BCFN(2+0,13-9,T)         R= +22.7  p =  2.6e-6   suspicious       
+  [Low8/64]Gap-16:A                 R= +10.8  p =  2.3e-9    VERY SUSPICIOUS 
+  [Low8/64]Gap-16:B                 R= +11.3  p =  2.3e-9    VERY SUSPICIOUS 
+  ...and 74 test result(s) without anomalies
+

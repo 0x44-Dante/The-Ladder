@@ -1,0 +1,65 @@
+RNG_test using PractRand version 0.94
+RNG = RNG_stdin64, seed = unknown
+test set = core, folding = extra
+
+rng=RNG_stdin64, seed=unknown
+length= 1 kilobyte (2^10 bytes), time= 0.2 seconds
+  Test Name                         Raw       Processed     Evaluation
+  DC6-9x1Bytes-1                    R=  +4.6  p = 0.038     unusual          
+  ...and 5 test result(s) without anomalies
+
+rng=RNG_stdin64, seed=unknown
+length= 2 kilobytes (2^11 bytes), time= 0.3 seconds
+  Test Name                         Raw       Processed     Evaluation
+  FPF-14+6/16:cross                 R= +15.6  p~=  9.1e-10   VERY SUSPICIOUS 
+  ...and 7 test result(s) without anomalies
+
+rng=RNG_stdin64, seed=unknown
+length= 4 kilobytes (2^12 bytes), time= 0.4 seconds
+  no anomalies in 24 test result(s)
+
+rng=RNG_stdin64, seed=unknown
+length= 8 kilobytes (2^13 bytes), time= 0.6 seconds
+  Test Name                         Raw       Processed     Evaluation
+  [Low4/16]FPF-14+6/16:cross        R=  -1.4  p~=1-5.2e-4   unusual          
+  [Low8/32]DC6-9x1Bytes-1           R=  +9.3  p =  1.0e-3   unusual          
+  [Low8/32]FPF-14+6/16:cross        R=  -1.4  p~=1-5.2e-4   unusual          
+  ...and 44 test result(s) without anomalies
+
+rng=RNG_stdin64, seed=unknown
+length= 16 kilobytes (2^14 bytes), time= 1.2 seconds
+  Test Name                         Raw       Processed     Evaluation
+  [Low1/16]DC6-9x1Bytes-1           R=  +9.5  p =  1.5e-3   unusual          
+  [Low4/16]Gap-16:A                 R=  +4.9  p =  6.0e-4   unusual          
+  [Low4/16]Gap-16:B                 R=  +5.4  p =  3.2e-4   unusual          
+  [Low4/32]DC6-9x1Bytes-1           R=  +9.4  p =  9.9e-4   unusual          
+  [Low4/64]DC6-9x1Bytes-1           R= +19.1  p =  3.5e-6   very suspicious  
+  [Low8/32]Gap-16:A                 R=  +5.9  p =  7.0e-5   mildly suspicious
+  [Low8/32]Gap-16:B                 R=  +6.7  p =  2.3e-5   mildly suspicious
+  ...and 67 test result(s) without anomalies
+
+rng=RNG_stdin64, seed=unknown
+length= 32 kilobytes (2^15 bytes), time= 2.0 seconds
+  Test Name                         Raw       Processed     Evaluation
+  Gap-16:A                          R=  +7.0  p =  5.8e-5   mildly suspicious
+  [Low1/8]BCFN(2+0,13-9,T)          R= +54.5  p =  1.0e-13    FAIL           
+  [Low1/16]DC6-9x1Bytes-1           R= +27.5  p =  1.3e-9    VERY SUSPICIOUS 
+  [Low1/32]DC6-9x1Bytes-1           R= +91.9  p =  3.0e-26    FAIL !!        
+  [Low1/32]FPF-14+6/16:(0,14-11)    R= +39.0  p =  1.6e-17    FAIL !         
+  [Low1/32]FPF-14+6/16:all          R= +51.7  p~=   4e-24     FAIL !!        
+  [Low4/16]BCFN(2+0,13-9,T)         R= +17.6  p =  4.0e-5   mildly suspicious
+  [Low4/16]Gap-16:A                 R=  +9.9  p =  1.2e-6   suspicious       
+  [Low4/16]Gap-16:B                 R=  +9.0  p =  1.3e-5   mildly suspicious
+  [Low4/16]FPF-14+6/16:all          R= +10.7  p =  2.0e-5   mildly suspicious
+  [Low4/32]BCFN(2+0,13-9,T)         R= +36.2  p =  1.8e-9    VERY SUSPICIOUS 
+  [Low4/32]DC6-9x1Bytes-1           R= +22.1  p =  5.2e-9    VERY SUSPICIOUS 
+  [Low4/32]Gap-16:A                 R= +46.6  p =  4.8e-42    FAIL !!!       
+  [Low4/32]Gap-16:B                 R= +45.0  p =  6.2e-39    FAIL !!!       
+  [Low4/64]DC6-9x1Bytes-1           R= +34.8  p =  6.2e-12    FAIL           
+  [Low8/32]Gap-16:A                 R= +14.0  p =  9.8e-10   VERY SUSPICIOUS 
+  [Low8/32]Gap-16:B                 R= +11.9  p =  1.8e-7   very suspicious  
+  [Low8/64]DC6-9x1Bytes-1           R= +10.2  p =  2.0e-4   mildly suspicious
+  [Low8/64]Gap-16:A                 R= +20.0  p =  9.9e-18    FAIL !         
+  [Low8/64]Gap-16:B                 R= +20.9  p =  8.7e-18    FAIL !         
+  ...and 79 test result(s) without anomalies
+

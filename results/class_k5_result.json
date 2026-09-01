@@ -1,0 +1,40 @@
+{
+ "K": 5,
+ "skelette": 58,
+ "ketten_geplant": 20,
+ "skelette_vollstaendig": 35,
+ "skelette_stichprobe": 23,
+ "shift_raster": [
+  5,
+  8,
+  11,
+  14,
+  17,
+  20,
+  23,
+  26,
+  27,
+  29,
+  30,
+  31,
+  32,
+  33,
+  35,
+  38,
+  41,
+  44,
+  47,
+  50,
+  53,
+  56,
+  59
+ ],
+ "beleg_cap": 400,
+ "bewertet": 20,
+ "stufen": {
+  "vorgate_tot": 20
+ },
+ "passer": [],
+ "stunden": 0.01,
+ "stand": "2026-08-21 02:33:03"
+}

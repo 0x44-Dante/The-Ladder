@@ -1,0 +1,31 @@
+{
+ "was": "Nachmessung der K5-Ketten, deren Stromlogs verloren waren",
+ "anlass": "Beim Nachzaehlen fehlten 3.251 Stromlogs gegenueber der Erwartung. Betroffen waren ausschliesslich Ketten der Planpositionen 0..5.936 -- der Bestand, der schon bewertet war, bevor die Kampagne am 30.08. neu aufgesetzt wurde. Oberhalb Position 5.977 fehlte kein einziges Log.",
+ "betroffen": {
+  "vorgate_ketten_ohne_log": 2939,
+  "henker_ketten_ohne_log": 78,
+  "henker_stroeme_ohne_log": 312,
+  "ketten_gesamt": 3017,
+  "anteil_der_klasse": "3.3 %"
+ },
+ "nachmessung": {
+  "datum": "2026-08-30",
+  "vorgate": {
+   "gemessen": 2939,
+   "urteil_gleich": 2939,
+   "abweichend": 0,
+   "unmessbar": 0,
+   "minuten": 6.6
+  },
+  "henker": {
+   "gemessen": 78,
+   "urteil_gleich": 78,
+   "abweichend": 0,
+   "ohne_urteil": 0,
+   "minuten": 1.6
+  }
+ },
+ "ergebnis": "Alle 3.017 Urteile bestaetigt, keine einzige Abweichung. Die Eintraege in class_k5_complete_evals.jsonl bleiben unveraendert -- sie waren richtig, ihnen fehlte nur der Beleg.",
+ "wichtig": "Die neuen Stromlogs liegen in einem eigenen Ordner (results/k5_nachmessung), nicht im Kampagnenordner. Sie stammen vom 30.08. und nicht aus dem urspruenglichen Lauf; sie werden nicht so abgelegt, als haetten sie immer dort gelegen.",
+ "stand": "2026-08-30 17:20:58"
+}

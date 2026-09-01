@@ -1,0 +1,30 @@
+[
+ {
+  "name": "meer10",
+  "chain": "chain=8:5846dfed2f0e1d49,10:706,8:781f94b96e8edb3b"
+ },
+ {
+  "name": "meer11_xor",
+  "chain": "chain=6:9e3779b97f4a7c15,8:5846dfed2f0e1d49,10:706,8:781f94b96e8edb3b"
+ },
+ {
+  "name": "fold3_xsh",
+  "chain": "chain=8:781f94b96e8edb3b,10:706,8:b853d68343f7525b,10:5f3,8:bf58476d1ce4e5b9"
+ },
+ {
+  "name": "meer12_end",
+  "chain": "chain=8:5846dfed2f0e1d49,10:706,8:781f94b96e8edb3b,10:5f3"
+ },
+ {
+  "name": "nas_meer13",
+  "chain": "chain=9:66f,8:5846dfed2f0e1d49,10:706,8:781f94b96e8edb3b"
+ },
+ {
+  "name": "mixfold14",
+  "chain": "chain=9:66f,1:9e6c63d0676a9a99,10:5f3,8:781f94b96e8edb3b"
+ },
+ {
+  "name": "nasam",
+  "chain": "nasam"
+ }
+]

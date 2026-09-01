@@ -1,0 +1,1807 @@
+TIEFE PRUEFUNG  (voll: 64 Stroeme x 16GB je Kandidat)
+  fertig: mix13_T0C0r00  ->  FAIL bei 2^19
+Anker ok: mix13 -> FAIL bei 2^19
+23 Kandidaten.
+
+== k9_bswap_bf5847_94d049  kette=8:bf58476d1ce4e5b9,11:0,8:94d049bb133111eb  (K9 Hash-Klasse, mf(0xbf58476d1ce4e5b9) bswap mf(0x94d049bb133111eb), Erschoepfung 19.08.) ==
+  fertig: kettee5f89084_T0C0r28  ->  FAIL bei 2^31
+  fertig: kettee5f89084_T0C0r32  ->  FAIL bei 2^33
+  fertig: kettee5f89084_T0C0r04  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kettee5f89084_T0C0r00  ->  FAIL bei 2^34
+  fertig: kettee5f89084_T0C0r16  ->  sauber bis 2^34
+  fertig: kettee5f89084_T0C0r24  ->  sauber bis 2^34
+  fertig: kettee5f89084_T0C0r12  ->  sauber bis 2^34
+  fertig: kettee5f89084_T0C0r20  ->  sauber bis 2^34
+  fertig: kettee5f89084_T0C0r08  ->  sauber bis 2^34
+  fertig: kettee5f89084_T0C0r36  ->  FAIL bei 2^33
+  fertig: kettee5f89084_T0C0r60  ->  FAIL bei 2^32
+  fertig: kettee5f89084_T1C0r04  ->  FAIL bei 2^29
+  fertig: kettee5f89084_T1C0r12  ->  FAIL bei 2^29
+  fertig: kettee5f89084_T0C0r44  ->  FAIL bei 2^33
+  fertig: kettee5f89084_T0C0r40  ->  FAIL bei 2^33
+  fertig: kettee5f89084_T0C0r52  ->  FAIL bei 2^33
+  fertig: kettee5f89084_T0C0r48  ->  FAIL bei 2^34
+  fertig: kettee5f89084_T0C0r56  ->  FAIL bei 2^34
+  fertig: kettee5f89084_T1C0r00  ->  sauber bis 2^34
+  fertig: kettee5f89084_T1C0r36  ->  FAIL bei 2^31
+  fertig: kettee5f89084_T1C0r08  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kettee5f89084_T1C0r16  ->  sauber bis 2^34
+  fertig: kettee5f89084_T1C0r20  ->  sauber bis 2^34
+  fertig: kettee5f89084_T1C0r24  ->  sauber bis 2^34
+  fertig: kettee5f89084_T1C0r28  ->  sauber bis 2^34  (3x suspicious)
+  fertig: kettee5f89084_T1C0r32  ->  sauber bis 2^34
+  fertig: kettee5f89084_T1C0r40  ->  sauber bis 2^34
+  fertig: kettee5f89084_T1C0r44  ->  sauber bis 2^34
+  fertig: kettee5f89084_T1C0r48  ->  sauber bis 2^34
+  fertig: kettee5f89084_T1C0r52  ->  sauber bis 2^34
+  fertig: kettee5f89084_T0C1r00  ->  sauber bis 2^34
+  fertig: kettee5f89084_T1C0r56  ->  sauber bis 2^34
+  fertig: kettee5f89084_T1C0r60  ->  sauber bis 2^34
+  fertig: kettee5f89084_T0C1r04  ->  sauber bis 2^34
+  fertig: kettee5f89084_T0C1r08  ->  sauber bis 2^34
+  fertig: kettee5f89084_T0C1r12  ->  sauber bis 2^34
+  fertig: kettee5f89084_T0C1r16  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kettee5f89084_T0C1r20  ->  sauber bis 2^34
+  fertig: kettee5f89084_T0C1r24  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kettee5f89084_T0C1r28  ->  sauber bis 2^34
+  fertig: kettee5f89084_T0C1r32  ->  sauber bis 2^34
+  fertig: kettee5f89084_T0C1r36  ->  sauber bis 2^34
+  fertig: kettee5f89084_T0C1r40  ->  sauber bis 2^34
+  fertig: kettee5f89084_T0C1r44  ->  sauber bis 2^34
+  fertig: kettee5f89084_T0C1r48  ->  sauber bis 2^34
+  fertig: kettee5f89084_T0C1r52  ->  sauber bis 2^34
+  fertig: kettee5f89084_T0C1r56  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kettee5f89084_T0C1r60  ->  sauber bis 2^34
+  fertig: kettee5f89084_T1C1r00  ->  sauber bis 2^34
+  fertig: kettee5f89084_T1C1r04  ->  sauber bis 2^34
+  fertig: kettee5f89084_T1C1r08  ->  sauber bis 2^34
+  fertig: kettee5f89084_T1C1r12  ->  sauber bis 2^34
+  fertig: kettee5f89084_T1C1r16  ->  sauber bis 2^34
+  fertig: kettee5f89084_T1C1r20  ->  sauber bis 2^34
+  fertig: kettee5f89084_T1C1r24  ->  sauber bis 2^34
+  fertig: kettee5f89084_T1C1r28  ->  sauber bis 2^34
+  fertig: kettee5f89084_T1C1r32  ->  sauber bis 2^34
+  fertig: kettee5f89084_T1C1r36  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kettee5f89084_T1C1r40  ->  sauber bis 2^34
+  fertig: kettee5f89084_T1C1r44  ->  sauber bis 2^34
+  fertig: kettee5f89084_T1C1r48  ->  sauber bis 2^34
+  fertig: kettee5f89084_T1C1r52  ->  sauber bis 2^34
+  fertig: kettee5f89084_T1C1r56  ->  sauber bis 2^34
+  fertig: kettee5f89084_T1C1r60  ->  sauber bis 2^34
+-> DURCHGEFALLEN: 51/64 sauber, 13 FAIL, 0 ABBRUCH (2355 s)
+     kettee5f89084_T0C0r00: FAIL bei 2^34
+     kettee5f89084_T0C0r28: FAIL bei 2^31
+     kettee5f89084_T0C0r32: FAIL bei 2^33
+     kettee5f89084_T0C0r36: FAIL bei 2^33
+     kettee5f89084_T0C0r40: FAIL bei 2^33
+     kettee5f89084_T0C0r44: FAIL bei 2^33
+     kettee5f89084_T0C0r48: FAIL bei 2^34
+     kettee5f89084_T0C0r52: FAIL bei 2^33
+     kettee5f89084_T0C0r56: FAIL bei 2^34
+     kettee5f89084_T0C0r60: FAIL bei 2^32
+     kettee5f89084_T1C0r04: FAIL bei 2^29
+     kettee5f89084_T1C0r12: FAIL bei 2^29
+     kettee5f89084_T1C0r36: FAIL bei 2^31
+
+== k9_bswap_bf5847_3c79ac  kette=8:bf58476d1ce4e5b9,11:0,8:3c79ac492ba7b653  (K9 Hash-Klasse, mf(0xbf58476d1ce4e5b9) bswap mf(0x3c79ac492ba7b653), Erschoepfung 19.08.) ==
+  fertig: kette531b0185_T0C0r00  ->  FAIL bei 2^34
+  fertig: kette531b0185_T0C0r08  ->  sauber bis 2^34
+  fertig: kette531b0185_T0C0r12  ->  sauber bis 2^34
+  fertig: kette531b0185_T0C0r16  ->  sauber bis 2^34
+  fertig: kette531b0185_T0C0r28  ->  sauber bis 2^34  (4x suspicious)
+  fertig: kette531b0185_T0C0r04  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette531b0185_T0C0r20  ->  sauber bis 2^34
+  fertig: kette531b0185_T0C0r24  ->  sauber bis 2^34
+  fertig: kette531b0185_T0C0r32  ->  FAIL bei 2^33
+  fertig: kette531b0185_T0C0r36  ->  FAIL bei 2^33
+  fertig: kette531b0185_T0C0r44  ->  FAIL bei 2^33
+  fertig: kette531b0185_T0C0r52  ->  FAIL bei 2^33
+  fertig: kette531b0185_T0C0r60  ->  FAIL bei 2^34
+  fertig: kette531b0185_T0C0r40  ->  sauber bis 2^34  (3x suspicious)
+  fertig: kette531b0185_T0C0r48  ->  FAIL bei 2^34
+  fertig: kette531b0185_T0C0r56  ->  FAIL bei 2^34
+  fertig: kette531b0185_T1C0r00  ->  sauber bis 2^34
+  fertig: kette531b0185_T1C0r04  ->  sauber bis 2^34  (2x suspicious)
+  fertig: kette531b0185_T1C0r08  ->  sauber bis 2^34
+  fertig: kette531b0185_T1C0r12  ->  sauber bis 2^34
+  fertig: kette531b0185_T1C0r32  ->  FAIL bei 2^32
+  fertig: kette531b0185_T1C0r16  ->  sauber bis 2^34
+  fertig: kette531b0185_T1C0r20  ->  sauber bis 2^34
+  fertig: kette531b0185_T1C0r28  ->  sauber bis 2^34  (8x suspicious)
+  fertig: kette531b0185_T1C0r24  ->  sauber bis 2^34  (6x suspicious)
+  fertig: kette531b0185_T1C0r40  ->  sauber bis 2^34
+  fertig: kette531b0185_T1C0r36  ->  sauber bis 2^34
+  fertig: kette531b0185_T1C0r44  ->  sauber bis 2^34
+  fertig: kette531b0185_T1C0r48  ->  sauber bis 2^34
+  fertig: kette531b0185_T0C1r00  ->  sauber bis 2^34
+  fertig: kette531b0185_T1C0r52  ->  sauber bis 2^34
+  fertig: kette531b0185_T1C0r56  ->  sauber bis 2^34
+  fertig: kette531b0185_T1C0r60  ->  sauber bis 2^34
+  fertig: kette531b0185_T0C1r04  ->  sauber bis 2^34
+  fertig: kette531b0185_T0C1r12  ->  sauber bis 2^34
+  fertig: kette531b0185_T0C1r08  ->  sauber bis 2^34
+  fertig: kette531b0185_T0C1r16  ->  sauber bis 2^34
+  fertig: kette531b0185_T0C1r20  ->  sauber bis 2^34
+  fertig: kette531b0185_T0C1r28  ->  sauber bis 2^34
+  fertig: kette531b0185_T0C1r24  ->  sauber bis 2^34
+  fertig: kette531b0185_T0C1r32  ->  sauber bis 2^34
+  fertig: kette531b0185_T0C1r36  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette531b0185_T0C1r40  ->  sauber bis 2^34
+  fertig: kette531b0185_T0C1r44  ->  sauber bis 2^34
+  fertig: kette531b0185_T0C1r48  ->  sauber bis 2^34
+  fertig: kette531b0185_T0C1r52  ->  sauber bis 2^34
+  fertig: kette531b0185_T0C1r56  ->  sauber bis 2^34
+  fertig: kette531b0185_T0C1r60  ->  sauber bis 2^34
+  fertig: kette531b0185_T1C1r00  ->  sauber bis 2^34
+  fertig: kette531b0185_T1C1r04  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette531b0185_T1C1r08  ->  sauber bis 2^34
+  fertig: kette531b0185_T1C1r12  ->  sauber bis 2^34
+  fertig: kette531b0185_T1C1r16  ->  sauber bis 2^34
+  fertig: kette531b0185_T1C1r20  ->  sauber bis 2^34
+  fertig: kette531b0185_T1C1r24  ->  sauber bis 2^34
+  fertig: kette531b0185_T1C1r28  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette531b0185_T1C1r32  ->  sauber bis 2^34
+  fertig: kette531b0185_T1C1r36  ->  sauber bis 2^34
+  fertig: kette531b0185_T1C1r40  ->  sauber bis 2^34
+  fertig: kette531b0185_T1C1r44  ->  sauber bis 2^34
+  fertig: kette531b0185_T1C1r48  ->  sauber bis 2^34
+  fertig: kette531b0185_T1C1r52  ->  sauber bis 2^34
+  fertig: kette531b0185_T1C1r56  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette531b0185_T1C1r60  ->  sauber bis 2^34
+-> DURCHGEFALLEN: 55/64 sauber, 9 FAIL, 0 ABBRUCH (2545 s)
+     kette531b0185_T0C0r00: FAIL bei 2^34
+     kette531b0185_T0C0r32: FAIL bei 2^33
+     kette531b0185_T0C0r36: FAIL bei 2^33
+     kette531b0185_T0C0r44: FAIL bei 2^33
+     kette531b0185_T0C0r48: FAIL bei 2^34
+     kette531b0185_T0C0r52: FAIL bei 2^33
+     kette531b0185_T0C0r56: FAIL bei 2^34
+     kette531b0185_T0C0r60: FAIL bei 2^34
+     kette531b0185_T1C0r32: FAIL bei 2^32
+
+== k9_bswap_bf5847_1c69b3  kette=8:bf58476d1ce4e5b9,11:0,8:1c69b3f74ac4ae35  (K9 Hash-Klasse, mf(0xbf58476d1ce4e5b9) bswap mf(0x1c69b3f74ac4ae35), Erschoepfung 19.08.) ==
+  fertig: kette751dbbec_T0C0r08  ->  sauber bis 2^34
+  fertig: kette751dbbec_T0C0r24  ->  sauber bis 2^34
+  fertig: kette751dbbec_T0C0r00  ->  FAIL bei 2^34
+  fertig: kette751dbbec_T0C0r04  ->  sauber bis 2^34
+  fertig: kette751dbbec_T0C0r12  ->  sauber bis 2^34
+  fertig: kette751dbbec_T0C0r16  ->  sauber bis 2^34
+  fertig: kette751dbbec_T0C0r20  ->  sauber bis 2^34
+  fertig: kette751dbbec_T0C0r28  ->  sauber bis 2^34  (6x suspicious)
+  fertig: kette751dbbec_T0C0r32  ->  FAIL bei 2^33
+  fertig: kette751dbbec_T0C0r36  ->  FAIL bei 2^33
+  fertig: kette751dbbec_T1C0r04  ->  FAIL bei 2^31
+  fertig: kette751dbbec_T0C0r56  ->  FAIL bei 2^34
+  fertig: kette751dbbec_T0C0r44  ->  FAIL bei 2^34
+  fertig: kette751dbbec_T0C0r48  ->  FAIL bei 2^34
+  fertig: kette751dbbec_T0C0r52  ->  FAIL bei 2^34
+  fertig: kette751dbbec_T0C0r60  ->  FAIL bei 2^34
+  fertig: kette751dbbec_T0C0r40  ->  FAIL bei 2^34
+  fertig: kette751dbbec_T1C0r00  ->  sauber bis 2^34
+  fertig: kette751dbbec_T1C0r12  ->  FAIL bei 2^33
+  fertig: kette751dbbec_T1C0r08  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette751dbbec_T1C0r20  ->  sauber bis 2^34  (2x suspicious)
+  fertig: kette751dbbec_T1C0r24  ->  sauber bis 2^34
+  fertig: kette751dbbec_T1C0r28  ->  sauber bis 2^34
+  fertig: kette751dbbec_T1C0r16  ->  sauber bis 2^34
+  fertig: kette751dbbec_T1C0r32  ->  sauber bis 2^34
+  fertig: kette751dbbec_T1C0r36  ->  sauber bis 2^34
+  fertig: kette751dbbec_T1C0r40  ->  sauber bis 2^34
+  fertig: kette751dbbec_T1C0r44  ->  sauber bis 2^34
+  fertig: kette751dbbec_T0C1r00  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette751dbbec_T1C0r48  ->  sauber bis 2^34
+  fertig: kette751dbbec_T1C0r52  ->  sauber bis 2^34
+  fertig: kette751dbbec_T1C0r56  ->  sauber bis 2^34
+  fertig: kette751dbbec_T1C0r60  ->  sauber bis 2^34
+  fertig: kette751dbbec_T0C1r04  ->  sauber bis 2^34
+  fertig: kette751dbbec_T0C1r08  ->  sauber bis 2^34
+  fertig: kette751dbbec_T0C1r12  ->  sauber bis 2^34
+  fertig: kette751dbbec_T0C1r16  ->  sauber bis 2^34
+  fertig: kette751dbbec_T0C1r20  ->  sauber bis 2^34
+  fertig: kette751dbbec_T0C1r24  ->  sauber bis 2^34
+  fertig: kette751dbbec_T0C1r32  ->  sauber bis 2^34
+  fertig: kette751dbbec_T0C1r28  ->  sauber bis 2^34
+  fertig: kette751dbbec_T0C1r36  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette751dbbec_T0C1r40  ->  sauber bis 2^34
+  fertig: kette751dbbec_T0C1r44  ->  sauber bis 2^34
+  fertig: kette751dbbec_T0C1r48  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette751dbbec_T0C1r52  ->  sauber bis 2^34
+  fertig: kette751dbbec_T0C1r60  ->  sauber bis 2^34
+  fertig: kette751dbbec_T0C1r56  ->  sauber bis 2^34
+  fertig: kette751dbbec_T1C1r00  ->  sauber bis 2^34
+  fertig: kette751dbbec_T1C1r04  ->  sauber bis 2^34
+  fertig: kette751dbbec_T1C1r08  ->  sauber bis 2^34
+  fertig: kette751dbbec_T1C1r12  ->  sauber bis 2^34
+  fertig: kette751dbbec_T1C1r16  ->  sauber bis 2^34
+  fertig: kette751dbbec_T1C1r20  ->  sauber bis 2^34
+  fertig: kette751dbbec_T1C1r24  ->  sauber bis 2^34
+  fertig: kette751dbbec_T1C1r28  ->  sauber bis 2^34
+  fertig: kette751dbbec_T1C1r32  ->  sauber bis 2^34
+  fertig: kette751dbbec_T1C1r36  ->  sauber bis 2^34
+  fertig: kette751dbbec_T1C1r40  ->  sauber bis 2^34
+  fertig: kette751dbbec_T1C1r44  ->  sauber bis 2^34
+  fertig: kette751dbbec_T1C1r48  ->  sauber bis 2^34
+  fertig: kette751dbbec_T1C1r56  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette751dbbec_T1C1r52  ->  sauber bis 2^34
+  fertig: kette751dbbec_T1C1r60  ->  sauber bis 2^34
+-> DURCHGEFALLEN: 53/64 sauber, 11 FAIL, 0 ABBRUCH (2580 s)
+     kette751dbbec_T0C0r00: FAIL bei 2^34
+     kette751dbbec_T0C0r32: FAIL bei 2^33
+     kette751dbbec_T0C0r36: FAIL bei 2^33
+     kette751dbbec_T0C0r40: FAIL bei 2^34
+     kette751dbbec_T0C0r44: FAIL bei 2^34
+     kette751dbbec_T0C0r48: FAIL bei 2^34
+     kette751dbbec_T0C0r52: FAIL bei 2^34
+     kette751dbbec_T0C0r56: FAIL bei 2^34
+     kette751dbbec_T0C0r60: FAIL bei 2^34
+     kette751dbbec_T1C0r04: FAIL bei 2^31
+     kette751dbbec_T1C0r12: FAIL bei 2^33
+
+== k9_bswap_94d049_94d049  kette=8:94d049bb133111eb,11:0,8:94d049bb133111eb  (K9 Hash-Klasse, mf(0x94d049bb133111eb) bswap mf(0x94d049bb133111eb), Erschoepfung 19.08.) ==
+  fertig: kettee2a8d4a3_T0C0r28  ->  FAIL bei 2^31
+  fertig: kettee2a8d4a3_T0C0r32  ->  FAIL bei 2^33
+  fertig: kettee2a8d4a3_T0C0r12  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T0C0r04  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kettee2a8d4a3_T0C0r08  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T0C0r16  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T0C0r20  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T0C0r00  ->  FAIL bei 2^34
+  fertig: kettee2a8d4a3_T0C0r24  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T0C0r36  ->  FAIL bei 2^33
+  fertig: kettee2a8d4a3_T0C0r44  ->  FAIL bei 2^32
+  fertig: kettee2a8d4a3_T0C0r40  ->  FAIL bei 2^33
+  fertig: kettee2a8d4a3_T0C0r52  ->  FAIL bei 2^33
+  fertig: kettee2a8d4a3_T0C0r48  ->  FAIL bei 2^33
+  fertig: kettee2a8d4a3_T0C0r56  ->  FAIL bei 2^33
+  fertig: kettee2a8d4a3_T0C0r60  ->  FAIL bei 2^33
+  fertig: kettee2a8d4a3_T1C0r00  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T1C0r04  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kettee2a8d4a3_T1C0r08  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T1C0r16  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T1C0r20  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T1C0r24  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T1C0r28  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T1C0r12  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T1C0r32  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T1C0r36  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kettee2a8d4a3_T1C0r40  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T1C0r44  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T1C0r60  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T1C0r52  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kettee2a8d4a3_T1C0r48  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T1C0r56  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T0C1r00  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T0C1r04  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T0C1r08  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T0C1r12  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T0C1r16  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T0C1r20  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T0C1r24  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T0C1r28  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T0C1r32  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T0C1r40  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kettee2a8d4a3_T0C1r36  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T0C1r44  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T0C1r52  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kettee2a8d4a3_T0C1r56  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T0C1r48  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T0C1r60  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T1C1r00  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T1C1r04  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T1C1r08  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T1C1r12  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T1C1r16  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T1C1r28  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T1C1r20  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T1C1r24  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T1C1r32  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T1C1r36  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T1C1r40  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kettee2a8d4a3_T1C1r44  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T1C1r48  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T1C1r52  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kettee2a8d4a3_T1C1r60  ->  sauber bis 2^34
+  fertig: kettee2a8d4a3_T1C1r56  ->  sauber bis 2^34
+-> DURCHGEFALLEN: 54/64 sauber, 10 FAIL, 0 ABBRUCH (2362 s)
+     kettee2a8d4a3_T0C0r00: FAIL bei 2^34
+     kettee2a8d4a3_T0C0r28: FAIL bei 2^31
+     kettee2a8d4a3_T0C0r32: FAIL bei 2^33
+     kettee2a8d4a3_T0C0r36: FAIL bei 2^33
+     kettee2a8d4a3_T0C0r40: FAIL bei 2^33
+     kettee2a8d4a3_T0C0r44: FAIL bei 2^32
+     kettee2a8d4a3_T0C0r48: FAIL bei 2^33
+     kettee2a8d4a3_T0C0r52: FAIL bei 2^33
+     kettee2a8d4a3_T0C0r56: FAIL bei 2^33
+     kettee2a8d4a3_T0C0r60: FAIL bei 2^33
+
+== k9_bswap_94d049_3c79ac  kette=8:94d049bb133111eb,11:0,8:3c79ac492ba7b653  (K9 Hash-Klasse, mf(0x94d049bb133111eb) bswap mf(0x3c79ac492ba7b653), Erschoepfung 19.08.) ==
+  fertig: ketteb0acdf57_T0C0r28  ->  FAIL bei 2^31
+  fertig: ketteb0acdf57_T0C0r32  ->  FAIL bei 2^32
+  fertig: ketteb0acdf57_T0C0r00  ->  FAIL bei 2^34
+  fertig: ketteb0acdf57_T0C0r04  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T0C0r16  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T0C0r24  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T0C0r08  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T0C0r12  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T0C0r20  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T0C0r36  ->  FAIL bei 2^33
+  fertig: ketteb0acdf57_T0C0r52  ->  FAIL bei 2^32
+  fertig: ketteb0acdf57_T0C0r44  ->  FAIL bei 2^33
+  fertig: ketteb0acdf57_T0C0r48  ->  FAIL bei 2^33
+  fertig: ketteb0acdf57_T0C0r56  ->  FAIL bei 2^33
+  fertig: ketteb0acdf57_T0C0r60  ->  FAIL bei 2^33
+  fertig: ketteb0acdf57_T0C0r40  ->  FAIL bei 2^34
+  fertig: ketteb0acdf57_T1C0r04  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T1C0r00  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T1C0r08  ->  sauber bis 2^34  (1x suspicious)
+  fertig: ketteb0acdf57_T1C0r12  ->  sauber bis 2^34  (1x suspicious)
+  fertig: ketteb0acdf57_T1C0r24  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T1C0r16  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T1C0r20  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T1C0r28  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T1C0r32  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T1C0r36  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T1C0r40  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T1C0r44  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T1C0r48  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T1C0r52  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T1C0r56  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T0C1r00  ->  sauber bis 2^34  (1x suspicious)
+  fertig: ketteb0acdf57_T1C0r60  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T0C1r04  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T0C1r08  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T0C1r12  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T0C1r24  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T0C1r16  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T0C1r20  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T0C1r28  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T0C1r32  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T0C1r36  ->  sauber bis 2^34  (1x suspicious)
+  fertig: ketteb0acdf57_T0C1r40  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T0C1r44  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T0C1r48  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T0C1r52  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T0C1r56  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T0C1r60  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T1C1r00  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T1C1r04  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T1C1r08  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T1C1r12  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T1C1r16  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T1C1r20  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T1C1r24  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T1C1r28  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T1C1r32  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T1C1r36  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T1C1r40  ->  sauber bis 2^34  (1x suspicious)
+  fertig: ketteb0acdf57_T1C1r44  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T1C1r48  ->  sauber bis 2^34  (2x suspicious)
+  fertig: ketteb0acdf57_T1C1r52  ->  sauber bis 2^34
+  fertig: ketteb0acdf57_T1C1r56  ->  sauber bis 2^34  (1x suspicious)
+  fertig: ketteb0acdf57_T1C1r60  ->  sauber bis 2^34
+-> DURCHGEFALLEN: 54/64 sauber, 10 FAIL, 0 ABBRUCH (2492 s)
+     ketteb0acdf57_T0C0r00: FAIL bei 2^34
+     ketteb0acdf57_T0C0r28: FAIL bei 2^31
+     ketteb0acdf57_T0C0r32: FAIL bei 2^32
+     ketteb0acdf57_T0C0r36: FAIL bei 2^33
+     ketteb0acdf57_T0C0r40: FAIL bei 2^34
+     ketteb0acdf57_T0C0r44: FAIL bei 2^33
+     ketteb0acdf57_T0C0r48: FAIL bei 2^33
+     ketteb0acdf57_T0C0r52: FAIL bei 2^32
+     ketteb0acdf57_T0C0r56: FAIL bei 2^33
+     ketteb0acdf57_T0C0r60: FAIL bei 2^33
+
+== k9_bswap_94d049_1c69b3  kette=8:94d049bb133111eb,11:0,8:1c69b3f74ac4ae35  (K9 Hash-Klasse, mf(0x94d049bb133111eb) bswap mf(0x1c69b3f74ac4ae35), Erschoepfung 19.08.) ==
+  fertig: kettec1912e5d_T0C0r28  ->  FAIL bei 2^31
+  fertig: kettec1912e5d_T0C0r32  ->  FAIL bei 2^32
+  fertig: kettec1912e5d_T0C0r00  ->  FAIL bei 2^33
+  fertig: kettec1912e5d_T0C0r40  ->  FAIL bei 2^32
+  fertig: kettec1912e5d_T0C0r12  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kettec1912e5d_T0C0r08  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T0C0r20  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T0C0r04  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T0C0r24  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T0C0r16  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T0C0r36  ->  FAIL bei 2^33
+  fertig: kettec1912e5d_T0C0r56  ->  FAIL bei 2^32
+  fertig: kettec1912e5d_T0C0r44  ->  FAIL bei 2^33
+  fertig: kettec1912e5d_T0C0r48  ->  FAIL bei 2^34
+  fertig: kettec1912e5d_T0C0r52  ->  FAIL bei 2^34
+  fertig: kettec1912e5d_T0C0r60  ->  FAIL bei 2^34
+  fertig: kettec1912e5d_T1C0r00  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kettec1912e5d_T1C0r04  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T1C0r08  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T1C0r12  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T1C0r16  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kettec1912e5d_T1C0r20  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kettec1912e5d_T1C0r24  ->  sauber bis 2^34  (3x suspicious)
+  fertig: kettec1912e5d_T1C0r28  ->  sauber bis 2^34  (2x suspicious)
+  fertig: kettec1912e5d_T1C0r36  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kettec1912e5d_T1C0r32  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kettec1912e5d_T1C0r40  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T1C0r44  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T1C0r48  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T1C0r52  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T0C1r00  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T0C1r04  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T1C0r56  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T1C0r60  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T0C1r08  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kettec1912e5d_T0C1r12  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T0C1r16  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T0C1r20  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T0C1r24  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T0C1r28  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T0C1r36  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T0C1r32  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T0C1r40  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T0C1r44  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T0C1r48  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T0C1r52  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T0C1r60  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kettec1912e5d_T0C1r56  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T1C1r00  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T1C1r04  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T1C1r08  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T1C1r12  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T1C1r16  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T1C1r20  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T1C1r24  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T1C1r28  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T1C1r32  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T1C1r36  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kettec1912e5d_T1C1r40  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T1C1r44  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T1C1r48  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T1C1r52  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T1C1r56  ->  sauber bis 2^34
+  fertig: kettec1912e5d_T1C1r60  ->  sauber bis 2^34
+-> DURCHGEFALLEN: 54/64 sauber, 10 FAIL, 0 ABBRUCH (2647 s)
+     kettec1912e5d_T0C0r00: FAIL bei 2^33
+     kettec1912e5d_T0C0r28: FAIL bei 2^31
+     kettec1912e5d_T0C0r32: FAIL bei 2^32
+     kettec1912e5d_T0C0r36: FAIL bei 2^33
+     kettec1912e5d_T0C0r40: FAIL bei 2^32
+     kettec1912e5d_T0C0r44: FAIL bei 2^33
+     kettec1912e5d_T0C0r48: FAIL bei 2^34
+     kettec1912e5d_T0C0r52: FAIL bei 2^34
+     kettec1912e5d_T0C0r56: FAIL bei 2^32
+     kettec1912e5d_T0C0r60: FAIL bei 2^34
+
+== k9_bswap_94d049_c4ceb9  kette=8:94d049bb133111eb,11:0,8:c4ceb9fe1a85ec53  (K9 Hash-Klasse, mf(0x94d049bb133111eb) bswap mf(0xc4ceb9fe1a85ec53), Erschoepfung 19.08.) ==
+  fertig: kette11112746_T0C0r28  ->  FAIL bei 2^31
+  fertig: kette11112746_T0C0r32  ->  FAIL bei 2^33
+  fertig: kette11112746_T0C0r08  ->  sauber bis 2^34
+  fertig: kette11112746_T0C0r00  ->  FAIL bei 2^34
+  fertig: kette11112746_T0C0r04  ->  sauber bis 2^34
+  fertig: kette11112746_T0C0r16  ->  sauber bis 2^34
+  fertig: kette11112746_T0C0r24  ->  sauber bis 2^34
+  fertig: kette11112746_T0C0r12  ->  sauber bis 2^34
+  fertig: kette11112746_T0C0r20  ->  sauber bis 2^34
+  fertig: kette11112746_T0C0r36  ->  FAIL bei 2^33
+  fertig: kette11112746_T0C0r40  ->  FAIL bei 2^34
+  fertig: kette11112746_T0C0r48  ->  FAIL bei 2^34
+  fertig: kette11112746_T0C0r52  ->  FAIL bei 2^34
+  fertig: kette11112746_T0C0r44  ->  FAIL bei 2^34
+  fertig: kette11112746_T0C0r56  ->  FAIL bei 2^34
+  fertig: kette11112746_T0C0r60  ->  FAIL bei 2^34
+  fertig: kette11112746_T1C0r00  ->  sauber bis 2^34
+  fertig: kette11112746_T1C0r04  ->  sauber bis 2^34  (4x suspicious)
+  fertig: kette11112746_T1C0r08  ->  sauber bis 2^34  (3x suspicious)
+  fertig: kette11112746_T1C0r12  ->  sauber bis 2^34
+  fertig: kette11112746_T1C0r16  ->  sauber bis 2^34
+  fertig: kette11112746_T1C0r20  ->  sauber bis 2^34
+  fertig: kette11112746_T1C0r28  ->  sauber bis 2^34
+  fertig: kette11112746_T1C0r24  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette11112746_T1C0r32  ->  sauber bis 2^34  (2x suspicious)
+  fertig: kette11112746_T1C0r36  ->  sauber bis 2^34
+  fertig: kette11112746_T1C0r40  ->  sauber bis 2^34
+  fertig: kette11112746_T0C1r00  ->  sauber bis 2^34
+  fertig: kette11112746_T1C0r44  ->  sauber bis 2^34
+  fertig: kette11112746_T1C0r48  ->  sauber bis 2^34
+  fertig: kette11112746_T1C0r52  ->  sauber bis 2^34
+  fertig: kette11112746_T1C0r56  ->  sauber bis 2^34
+  fertig: kette11112746_T1C0r60  ->  sauber bis 2^34
+  fertig: kette11112746_T0C1r04  ->  sauber bis 2^34
+  fertig: kette11112746_T0C1r08  ->  sauber bis 2^34
+  fertig: kette11112746_T0C1r12  ->  sauber bis 2^34
+  fertig: kette11112746_T0C1r20  ->  sauber bis 2^34
+  fertig: kette11112746_T0C1r16  ->  sauber bis 2^34
+  fertig: kette11112746_T0C1r24  ->  sauber bis 2^34
+  fertig: kette11112746_T0C1r28  ->  sauber bis 2^34
+  fertig: kette11112746_T0C1r32  ->  sauber bis 2^34
+  fertig: kette11112746_T0C1r36  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette11112746_T0C1r40  ->  sauber bis 2^34
+  fertig: kette11112746_T0C1r48  ->  sauber bis 2^34
+  fertig: kette11112746_T0C1r44  ->  sauber bis 2^34
+  fertig: kette11112746_T0C1r52  ->  sauber bis 2^34
+  fertig: kette11112746_T0C1r56  ->  sauber bis 2^34
+  fertig: kette11112746_T0C1r60  ->  sauber bis 2^34
+  fertig: kette11112746_T1C1r00  ->  sauber bis 2^34
+  fertig: kette11112746_T1C1r04  ->  sauber bis 2^34
+  fertig: kette11112746_T1C1r08  ->  sauber bis 2^34
+  fertig: kette11112746_T1C1r12  ->  sauber bis 2^34
+  fertig: kette11112746_T1C1r16  ->  sauber bis 2^34
+  fertig: kette11112746_T1C1r20  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette11112746_T1C1r28  ->  sauber bis 2^34
+  fertig: kette11112746_T1C1r24  ->  sauber bis 2^34
+  fertig: kette11112746_T1C1r32  ->  sauber bis 2^34
+  fertig: kette11112746_T1C1r36  ->  sauber bis 2^34
+  fertig: kette11112746_T1C1r40  ->  sauber bis 2^34
+  fertig: kette11112746_T1C1r44  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette11112746_T1C1r52  ->  sauber bis 2^34
+  fertig: kette11112746_T1C1r48  ->  sauber bis 2^34
+  fertig: kette11112746_T1C1r60  ->  sauber bis 2^34
+  fertig: kette11112746_T1C1r56  ->  sauber bis 2^34
+-> DURCHGEFALLEN: 54/64 sauber, 10 FAIL, 0 ABBRUCH (2545 s)
+     kette11112746_T0C0r00: FAIL bei 2^34
+     kette11112746_T0C0r28: FAIL bei 2^31
+     kette11112746_T0C0r32: FAIL bei 2^33
+     kette11112746_T0C0r36: FAIL bei 2^33
+     kette11112746_T0C0r40: FAIL bei 2^34
+     kette11112746_T0C0r44: FAIL bei 2^34
+     kette11112746_T0C0r48: FAIL bei 2^34
+     kette11112746_T0C0r52: FAIL bei 2^34
+     kette11112746_T0C0r56: FAIL bei 2^34
+     kette11112746_T0C0r60: FAIL bei 2^34
+
+== k9_bswap_3c79ac_781f94  kette=8:3c79ac492ba7b653,11:0,8:781f94b96e8edb3b  (K9 Hash-Klasse, mf(0x3c79ac492ba7b653) bswap mf(0x781f94b96e8edb3b), Erschoepfung 19.08.) ==
+  fertig: kette0f7085af_T0C0r28  ->  FAIL bei 2^31
+  fertig: kette0f7085af_T0C0r32  ->  FAIL bei 2^32
+  fertig: kette0f7085af_T0C0r00  ->  FAIL bei 2^33
+  fertig: kette0f7085af_T0C0r36  ->  FAIL bei 2^32
+  fertig: kette0f7085af_T0C0r40  ->  FAIL bei 2^32
+  fertig: kette0f7085af_T0C0r12  ->  sauber bis 2^34
+  fertig: kette0f7085af_T0C0r04  ->  sauber bis 2^34
+  fertig: kette0f7085af_T0C0r20  ->  sauber bis 2^34
+  fertig: kette0f7085af_T0C0r08  ->  sauber bis 2^34
+  fertig: kette0f7085af_T0C0r16  ->  sauber bis 2^34
+  fertig: kette0f7085af_T0C0r24  ->  sauber bis 2^34  (2x suspicious)
+  fertig: kette0f7085af_T0C0r44  ->  FAIL bei 2^32
+  fertig: kette0f7085af_T0C0r48  ->  FAIL bei 2^32
+  fertig: kette0f7085af_T0C0r52  ->  FAIL bei 2^32
+  fertig: kette0f7085af_T0C0r56  ->  FAIL bei 2^32
+  fertig: kette0f7085af_T0C0r60  ->  FAIL bei 2^32
+  fertig: kette0f7085af_T1C0r20  ->  FAIL bei 2^31
+  fertig: kette0f7085af_T1C0r00  ->  sauber bis 2^34  (2x suspicious)
+  fertig: kette0f7085af_T1C0r04  ->  sauber bis 2^34  (4x suspicious)
+  fertig: kette0f7085af_T1C0r08  ->  sauber bis 2^34
+  fertig: kette0f7085af_T1C0r12  ->  sauber bis 2^34
+  fertig: kette0f7085af_T1C0r16  ->  sauber bis 2^34
+  fertig: kette0f7085af_T1C0r24  ->  sauber bis 2^34
+  fertig: kette0f7085af_T1C0r28  ->  sauber bis 2^34
+  fertig: kette0f7085af_T1C0r32  ->  sauber bis 2^34  (2x suspicious)
+  fertig: kette0f7085af_T1C0r36  ->  sauber bis 2^34
+  fertig: kette0f7085af_T1C0r44  ->  sauber bis 2^34
+  fertig: kette0f7085af_T1C0r40  ->  sauber bis 2^34
+  fertig: kette0f7085af_T1C0r48  ->  sauber bis 2^34
+  fertig: kette0f7085af_T1C0r52  ->  sauber bis 2^34
+  fertig: kette0f7085af_T1C0r56  ->  sauber bis 2^34
+  fertig: kette0f7085af_T1C0r60  ->  sauber bis 2^34
+  fertig: kette0f7085af_T0C1r00  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette0f7085af_T0C1r08  ->  sauber bis 2^34
+  fertig: kette0f7085af_T0C1r12  ->  sauber bis 2^34
+  fertig: kette0f7085af_T0C1r04  ->  sauber bis 2^34
+  fertig: kette0f7085af_T0C1r16  ->  sauber bis 2^34
+  fertig: kette0f7085af_T0C1r20  ->  sauber bis 2^34
+  fertig: kette0f7085af_T0C1r24  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette0f7085af_T0C1r28  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette0f7085af_T0C1r32  ->  sauber bis 2^34
+  fertig: kette0f7085af_T0C1r36  ->  sauber bis 2^34
+  fertig: kette0f7085af_T0C1r40  ->  sauber bis 2^34
+  fertig: kette0f7085af_T0C1r44  ->  sauber bis 2^34
+  fertig: kette0f7085af_T0C1r48  ->  sauber bis 2^34
+  fertig: kette0f7085af_T0C1r52  ->  sauber bis 2^34
+  fertig: kette0f7085af_T0C1r56  ->  sauber bis 2^34
+  fertig: kette0f7085af_T0C1r60  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette0f7085af_T1C1r00  ->  sauber bis 2^34
+  fertig: kette0f7085af_T1C1r04  ->  sauber bis 2^34
+  fertig: kette0f7085af_T1C1r08  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette0f7085af_T1C1r12  ->  sauber bis 2^34
+  fertig: kette0f7085af_T1C1r16  ->  sauber bis 2^34
+  fertig: kette0f7085af_T1C1r20  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette0f7085af_T1C1r24  ->  sauber bis 2^34
+  fertig: kette0f7085af_T1C1r28  ->  sauber bis 2^34
+  fertig: kette0f7085af_T1C1r32  ->  sauber bis 2^34
+  fertig: kette0f7085af_T1C1r36  ->  sauber bis 2^34
+  fertig: kette0f7085af_T1C1r40  ->  sauber bis 2^34
+  fertig: kette0f7085af_T1C1r44  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette0f7085af_T1C1r48  ->  sauber bis 2^34
+  fertig: kette0f7085af_T1C1r52  ->  sauber bis 2^34
+  fertig: kette0f7085af_T1C1r56  ->  sauber bis 2^34
+  fertig: kette0f7085af_T1C1r60  ->  sauber bis 2^34
+-> DURCHGEFALLEN: 53/64 sauber, 11 FAIL, 0 ABBRUCH (2383 s)
+     kette0f7085af_T0C0r00: FAIL bei 2^33
+     kette0f7085af_T0C0r28: FAIL bei 2^31
+     kette0f7085af_T0C0r32: FAIL bei 2^32
+     kette0f7085af_T0C0r36: FAIL bei 2^32
+     kette0f7085af_T0C0r40: FAIL bei 2^32
+     kette0f7085af_T0C0r44: FAIL bei 2^32
+     kette0f7085af_T0C0r48: FAIL bei 2^32
+     kette0f7085af_T0C0r52: FAIL bei 2^32
+     kette0f7085af_T0C0r56: FAIL bei 2^32
+     kette0f7085af_T0C0r60: FAIL bei 2^32
+     kette0f7085af_T1C0r20: FAIL bei 2^31
+
+== k9_bswap_9e6c63_94d049  kette=8:9e6c63d0676a9a99,11:0,8:94d049bb133111eb  (K9 Hash-Klasse, mf(0x9e6c63d0676a9a99) bswap mf(0x94d049bb133111eb), Erschoepfung 19.08.) ==
+  fertig: ketteb87190d6_T0C0r28  ->  FAIL bei 2^31
+  fertig: ketteb87190d6_T0C0r32  ->  FAIL bei 2^32
+  fertig: ketteb87190d6_T0C0r04  ->  sauber bis 2^34  (1x suspicious)
+  fertig: ketteb87190d6_T0C0r16  ->  sauber bis 2^34
+  fertig: ketteb87190d6_T0C0r00  ->  FAIL bei 2^34
+  fertig: ketteb87190d6_T0C0r08  ->  sauber bis 2^34
+  fertig: ketteb87190d6_T0C0r20  ->  sauber bis 2^34  (1x suspicious)
+  fertig: ketteb87190d6_T0C0r12  ->  sauber bis 2^34
+  fertig: ketteb87190d6_T0C0r24  ->  sauber bis 2^34
+  fertig: ketteb87190d6_T0C0r36  ->  FAIL bei 2^33
+  fertig: ketteb87190d6_T0C0r60  ->  FAIL bei 2^32
+  fertig: ketteb87190d6_T0C0r40  ->  FAIL bei 2^33
+  fertig: ketteb87190d6_T0C0r44  ->  FAIL bei 2^33
+  fertig: ketteb87190d6_T0C0r52  ->  FAIL bei 2^33
+  fertig: ketteb87190d6_T0C0r56  ->  FAIL bei 2^33
+  fertig: ketteb87190d6_T0C0r48  ->  FAIL bei 2^34
+  fertig: ketteb87190d6_T1C0r00  ->  sauber bis 2^34
+  fertig: ketteb87190d6_T1C0r04  ->  sauber bis 2^34  (1x suspicious)
+  fertig: ketteb87190d6_T1C0r28  ->  FAIL bei 2^31
+  fertig: ketteb87190d6_T1C0r08  ->  sauber bis 2^34
+  fertig: ketteb87190d6_T1C0r12  ->  FAIL bei 2^34
+  fertig: ketteb87190d6_T1C0r16  ->  sauber bis 2^34
+  fertig: ketteb87190d6_T1C0r20  ->  sauber bis 2^34  (1x suspicious)
+  fertig: ketteb87190d6_T1C0r24  ->  sauber bis 2^34
+  fertig: ketteb87190d6_T1C0r32  ->  sauber bis 2^34
+  fertig: ketteb87190d6_T1C0r36  ->  sauber bis 2^34  (2x suspicious)
+  fertig: ketteb87190d6_T1C0r40  ->  sauber bis 2^34  (2x suspicious)
+  fertig: ketteb87190d6_T1C0r44  ->  sauber bis 2^34  (1x suspicious)
+  fertig: ketteb87190d6_T1C0r48  ->  sauber bis 2^34
+  fertig: ketteb87190d6_T1C0r52  ->  sauber bis 2^34
+  fertig: ketteb87190d6_T1C0r56  ->  sauber bis 2^34  (1x suspicious)
+  fertig: ketteb87190d6_T1C0r60  ->  sauber bis 2^34  (1x suspicious)
+  fertig: ketteb87190d6_T0C1r00  ->  sauber bis 2^34
+  fertig: ketteb87190d6_T0C1r04  ->  sauber bis 2^34
+  fertig: ketteb87190d6_T0C1r08  ->  sauber bis 2^34  (1x suspicious)
+  fertig: ketteb87190d6_T0C1r12  ->  sauber bis 2^34  (2x suspicious)
+  fertig: ketteb87190d6_T0C1r28  ->  sauber bis 2^34
+  fertig: ketteb87190d6_T0C1r16  ->  sauber bis 2^34
+  fertig: ketteb87190d6_T0C1r20  ->  sauber bis 2^34  (1x suspicious)
+  fertig: ketteb87190d6_T0C1r24  ->  sauber bis 2^34
+  fertig: ketteb87190d6_T0C1r32  ->  sauber bis 2^34
+  fertig: ketteb87190d6_T0C1r36  ->  sauber bis 2^34
+  fertig: ketteb87190d6_T0C1r40  ->  sauber bis 2^34  (1x suspicious)
+  fertig: ketteb87190d6_T0C1r44  ->  sauber bis 2^34
+  fertig: ketteb87190d6_T0C1r48  ->  sauber bis 2^34
+  fertig: ketteb87190d6_T0C1r52  ->  sauber bis 2^34
+  fertig: ketteb87190d6_T0C1r60  ->  sauber bis 2^34
+  fertig: ketteb87190d6_T0C1r56  ->  sauber bis 2^34
+  fertig: ketteb87190d6_T1C1r04  ->  sauber bis 2^34
+  fertig: ketteb87190d6_T1C1r00  ->  sauber bis 2^34
+  fertig: ketteb87190d6_T1C1r08  ->  sauber bis 2^34
+  fertig: ketteb87190d6_T1C1r12  ->  sauber bis 2^34
+  fertig: ketteb87190d6_T1C1r16  ->  sauber bis 2^34
+  fertig: ketteb87190d6_T1C1r20  ->  sauber bis 2^34
+  fertig: ketteb87190d6_T1C1r24  ->  sauber bis 2^34
+  fertig: ketteb87190d6_T1C1r28  ->  sauber bis 2^34
+  fertig: ketteb87190d6_T1C1r32  ->  sauber bis 2^34
+  fertig: ketteb87190d6_T1C1r36  ->  sauber bis 2^34
+  fertig: ketteb87190d6_T1C1r40  ->  sauber bis 2^34
+  fertig: ketteb87190d6_T1C1r44  ->  sauber bis 2^34
+  fertig: ketteb87190d6_T1C1r48  ->  sauber bis 2^34
+  fertig: ketteb87190d6_T1C1r52  ->  sauber bis 2^34  (1x suspicious)
+  fertig: ketteb87190d6_T1C1r56  ->  sauber bis 2^34
+  fertig: ketteb87190d6_T1C1r60  ->  sauber bis 2^34
+-> DURCHGEFALLEN: 52/64 sauber, 12 FAIL, 0 ABBRUCH (2354 s)
+     ketteb87190d6_T0C0r00: FAIL bei 2^34
+     ketteb87190d6_T0C0r28: FAIL bei 2^31
+     ketteb87190d6_T0C0r32: FAIL bei 2^32
+     ketteb87190d6_T0C0r36: FAIL bei 2^33
+     ketteb87190d6_T0C0r40: FAIL bei 2^33
+     ketteb87190d6_T0C0r44: FAIL bei 2^33
+     ketteb87190d6_T0C0r48: FAIL bei 2^34
+     ketteb87190d6_T0C0r52: FAIL bei 2^33
+     ketteb87190d6_T0C0r56: FAIL bei 2^33
+     ketteb87190d6_T0C0r60: FAIL bei 2^32
+     ketteb87190d6_T1C0r12: FAIL bei 2^34
+     ketteb87190d6_T1C0r28: FAIL bei 2^31
+
+== k9_bswap_9e6d62_94d049  kette=8:9e6d62d06f6a9a9b,11:0,8:94d049bb133111eb  (K9 Hash-Klasse, mf(0x9e6d62d06f6a9a9b) bswap mf(0x94d049bb133111eb), Erschoepfung 19.08.) ==
+  fertig: kettee3c801d6_T0C0r28  ->  FAIL bei 2^31
+  fertig: kettee3c801d6_T0C0r32  ->  FAIL bei 2^33
+  fertig: kettee3c801d6_T0C0r36  ->  FAIL bei 2^29
+  fertig: kettee3c801d6_T0C0r04  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T0C0r16  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T0C0r24  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T0C0r08  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T0C0r12  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T0C0r20  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T0C0r00  ->  FAIL bei 2^34
+  fertig: kettee3c801d6_T0C0r60  ->  FAIL bei 2^32
+  fertig: kettee3c801d6_T0C0r40  ->  FAIL bei 2^33
+  fertig: kettee3c801d6_T0C0r44  ->  FAIL bei 2^33
+  fertig: kettee3c801d6_T0C0r52  ->  FAIL bei 2^33
+  fertig: kettee3c801d6_T0C0r56  ->  FAIL bei 2^33
+  fertig: kettee3c801d6_T0C0r48  ->  FAIL bei 2^34
+  fertig: kettee3c801d6_T1C0r00  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T1C0r04  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T1C0r08  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T1C0r12  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T1C0r16  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kettee3c801d6_T1C0r24  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T1C0r20  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T1C0r28  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kettee3c801d6_T1C0r32  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T1C0r36  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T1C0r40  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T1C0r44  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T1C0r48  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kettee3c801d6_T1C0r52  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T1C0r56  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T1C0r60  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T0C1r00  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T0C1r04  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kettee3c801d6_T0C1r08  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T0C1r12  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T0C1r16  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T0C1r20  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T0C1r24  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kettee3c801d6_T0C1r28  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T0C1r32  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T0C1r36  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T0C1r40  ->  sauber bis 2^34  (2x suspicious)
+  fertig: kettee3c801d6_T0C1r44  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kettee3c801d6_T0C1r52  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T0C1r48  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T0C1r56  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T0C1r60  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T1C1r00  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T1C1r04  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T1C1r08  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T1C1r12  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T1C1r20  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T1C1r24  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T1C1r16  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T1C1r28  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T1C1r32  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T1C1r36  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T1C1r40  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kettee3c801d6_T1C1r44  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kettee3c801d6_T1C1r48  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T1C1r56  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T1C1r52  ->  sauber bis 2^34
+  fertig: kettee3c801d6_T1C1r60  ->  sauber bis 2^34
+-> DURCHGEFALLEN: 54/64 sauber, 10 FAIL, 0 ABBRUCH (2436 s)
+     kettee3c801d6_T0C0r00: FAIL bei 2^34
+     kettee3c801d6_T0C0r28: FAIL bei 2^31
+     kettee3c801d6_T0C0r32: FAIL bei 2^33
+     kettee3c801d6_T0C0r36: FAIL bei 2^29
+     kettee3c801d6_T0C0r40: FAIL bei 2^33
+     kettee3c801d6_T0C0r44: FAIL bei 2^33
+     kettee3c801d6_T0C0r48: FAIL bei 2^34
+     kettee3c801d6_T0C0r52: FAIL bei 2^33
+     kettee3c801d6_T0C0r56: FAIL bei 2^33
+     kettee3c801d6_T0C0r60: FAIL bei 2^32
+
+== k9_bswap_c4ceb9_94d049  kette=8:c4ceb9fe1a85ec53,11:0,8:94d049bb133111eb  (K9 Hash-Klasse, mf(0xc4ceb9fe1a85ec53) bswap mf(0x94d049bb133111eb), Erschoepfung 19.08.) ==
+  fertig: kette2e8140e1_T0C0r28  ->  FAIL bei 2^31
+  fertig: kette2e8140e1_T0C0r32  ->  FAIL bei 2^32
+  fertig: kette2e8140e1_T0C0r00  ->  FAIL bei 2^34
+  fertig: kette2e8140e1_T0C0r08  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T0C0r12  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T0C0r16  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T0C0r24  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T0C0r04  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T0C0r20  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T0C0r36  ->  FAIL bei 2^33
+  fertig: kette2e8140e1_T0C0r56  ->  FAIL bei 2^32
+  fertig: kette2e8140e1_T0C0r60  ->  FAIL bei 2^32
+  fertig: kette2e8140e1_T0C0r40  ->  FAIL bei 2^33
+  fertig: kette2e8140e1_T1C0r00  ->  FAIL bei 2^33
+  fertig: kette2e8140e1_T0C0r48  ->  FAIL bei 2^34
+  fertig: kette2e8140e1_T0C0r44  ->  FAIL bei 2^34
+  fertig: kette2e8140e1_T0C0r52  ->  FAIL bei 2^34
+  fertig: kette2e8140e1_T1C0r04  ->  FAIL bei 2^34
+  fertig: kette2e8140e1_T1C0r08  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T1C0r12  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T1C0r16  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T1C0r20  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T1C0r24  ->  sauber bis 2^34  (3x suspicious)
+  fertig: kette2e8140e1_T1C0r28  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T1C0r32  ->  sauber bis 2^34  (2x suspicious)
+  fertig: kette2e8140e1_T1C0r36  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette2e8140e1_T1C0r40  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T1C0r44  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T1C0r52  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T1C0r48  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T1C0r56  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T0C1r00  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T0C1r04  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T1C0r60  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T0C1r08  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T0C1r12  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T0C1r16  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T0C1r20  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T0C1r24  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T0C1r28  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T0C1r32  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T0C1r36  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T0C1r40  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette2e8140e1_T0C1r44  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T0C1r48  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette2e8140e1_T0C1r52  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T0C1r56  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T0C1r60  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T1C1r00  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T1C1r04  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T1C1r08  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T1C1r12  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T1C1r16  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T1C1r20  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T1C1r24  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T1C1r28  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T1C1r32  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T1C1r36  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T1C1r44  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T1C1r40  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T1C1r48  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T1C1r52  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T1C1r56  ->  sauber bis 2^34
+  fertig: kette2e8140e1_T1C1r60  ->  sauber bis 2^34
+-> DURCHGEFALLEN: 52/64 sauber, 12 FAIL, 0 ABBRUCH (2477 s)
+     kette2e8140e1_T0C0r00: FAIL bei 2^34
+     kette2e8140e1_T0C0r28: FAIL bei 2^31
+     kette2e8140e1_T0C0r32: FAIL bei 2^32
+     kette2e8140e1_T0C0r36: FAIL bei 2^33
+     kette2e8140e1_T0C0r40: FAIL bei 2^33
+     kette2e8140e1_T0C0r44: FAIL bei 2^34
+     kette2e8140e1_T0C0r48: FAIL bei 2^34
+     kette2e8140e1_T0C0r52: FAIL bei 2^34
+     kette2e8140e1_T0C0r56: FAIL bei 2^32
+     kette2e8140e1_T0C0r60: FAIL bei 2^32
+     kette2e8140e1_T1C0r00: FAIL bei 2^33
+     kette2e8140e1_T1C0r04: FAIL bei 2^34
+
+== k9_bswap_c4ceb9_3c79ac  kette=8:c4ceb9fe1a85ec53,11:0,8:3c79ac492ba7b653  (K9 Hash-Klasse, mf(0xc4ceb9fe1a85ec53) bswap mf(0x3c79ac492ba7b653), Erschoepfung 19.08.) ==
+  fertig: kette096f54fb_T0C0r20  ->  sauber bis 2^34
+  fertig: kette096f54fb_T0C0r00  ->  FAIL bei 2^34
+  fertig: kette096f54fb_T0C0r04  ->  sauber bis 2^34
+  fertig: kette096f54fb_T0C0r08  ->  sauber bis 2^34
+  fertig: kette096f54fb_T0C0r12  ->  sauber bis 2^34
+  fertig: kette096f54fb_T0C0r24  ->  sauber bis 2^34
+  fertig: kette096f54fb_T0C0r28  ->  sauber bis 2^34  (3x suspicious)
+  fertig: kette096f54fb_T0C0r16  ->  sauber bis 2^34
+  fertig: kette096f54fb_T0C0r32  ->  FAIL bei 2^32
+  fertig: kette096f54fb_T0C0r52  ->  FAIL bei 2^32
+  fertig: kette096f54fb_T0C0r44  ->  FAIL bei 2^33
+  fertig: kette096f54fb_T0C0r60  ->  FAIL bei 2^34
+  fertig: kette096f54fb_T0C0r36  ->  FAIL bei 2^34
+  fertig: kette096f54fb_T0C0r40  ->  sauber bis 2^34  (6x suspicious)
+  fertig: kette096f54fb_T0C0r56  ->  FAIL bei 2^34
+  fertig: kette096f54fb_T0C0r48  ->  FAIL bei 2^34
+  fertig: kette096f54fb_T1C0r00  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette096f54fb_T1C0r04  ->  sauber bis 2^34  (2x suspicious)
+  fertig: kette096f54fb_T1C0r28  ->  FAIL bei 2^32
+  fertig: kette096f54fb_T1C0r08  ->  sauber bis 2^34
+  fertig: kette096f54fb_T1C0r12  ->  sauber bis 2^34  (3x suspicious)
+  fertig: kette096f54fb_T1C0r16  ->  sauber bis 2^34  (3x suspicious)
+  fertig: kette096f54fb_T1C0r24  ->  sauber bis 2^34
+  fertig: kette096f54fb_T1C0r20  ->  sauber bis 2^34
+  fertig: kette096f54fb_T1C0r32  ->  sauber bis 2^34
+  fertig: kette096f54fb_T1C0r36  ->  sauber bis 2^34
+  fertig: kette096f54fb_T1C0r40  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette096f54fb_T1C0r44  ->  sauber bis 2^34
+  fertig: kette096f54fb_T1C0r48  ->  sauber bis 2^34
+  fertig: kette096f54fb_T1C0r60  ->  sauber bis 2^34
+  fertig: kette096f54fb_T1C0r52  ->  sauber bis 2^34
+  fertig: kette096f54fb_T1C0r56  ->  sauber bis 2^34
+  fertig: kette096f54fb_T0C1r00  ->  sauber bis 2^34
+  fertig: kette096f54fb_T0C1r04  ->  sauber bis 2^34
+  fertig: kette096f54fb_T0C1r08  ->  sauber bis 2^34
+  fertig: kette096f54fb_T0C1r12  ->  sauber bis 2^34
+  fertig: kette096f54fb_T0C1r16  ->  sauber bis 2^34
+  fertig: kette096f54fb_T0C1r20  ->  sauber bis 2^34
+  fertig: kette096f54fb_T0C1r24  ->  sauber bis 2^34
+  fertig: kette096f54fb_T0C1r28  ->  sauber bis 2^34
+  fertig: kette096f54fb_T0C1r32  ->  sauber bis 2^34
+  fertig: kette096f54fb_T0C1r36  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette096f54fb_T0C1r40  ->  sauber bis 2^34
+  fertig: kette096f54fb_T0C1r44  ->  sauber bis 2^34
+  fertig: kette096f54fb_T0C1r48  ->  sauber bis 2^34
+  fertig: kette096f54fb_T0C1r52  ->  sauber bis 2^34
+  fertig: kette096f54fb_T0C1r56  ->  sauber bis 2^34
+  fertig: kette096f54fb_T0C1r60  ->  sauber bis 2^34
+  fertig: kette096f54fb_T1C1r00  ->  sauber bis 2^34
+  fertig: kette096f54fb_T1C1r04  ->  sauber bis 2^34
+  fertig: kette096f54fb_T1C1r08  ->  sauber bis 2^34
+  fertig: kette096f54fb_T1C1r12  ->  sauber bis 2^34
+  fertig: kette096f54fb_T1C1r16  ->  sauber bis 2^34
+  fertig: kette096f54fb_T1C1r20  ->  sauber bis 2^34
+  fertig: kette096f54fb_T1C1r24  ->  sauber bis 2^34
+  fertig: kette096f54fb_T1C1r28  ->  sauber bis 2^34
+  fertig: kette096f54fb_T1C1r32  ->  sauber bis 2^34
+  fertig: kette096f54fb_T1C1r36  ->  sauber bis 2^34
+  fertig: kette096f54fb_T1C1r40  ->  sauber bis 2^34
+  fertig: kette096f54fb_T1C1r44  ->  sauber bis 2^34
+  fertig: kette096f54fb_T1C1r48  ->  sauber bis 2^34
+  fertig: kette096f54fb_T1C1r56  ->  sauber bis 2^34
+  fertig: kette096f54fb_T1C1r52  ->  sauber bis 2^34
+  fertig: kette096f54fb_T1C1r60  ->  sauber bis 2^34
+-> DURCHGEFALLEN: 55/64 sauber, 9 FAIL, 0 ABBRUCH (2535 s)
+     kette096f54fb_T0C0r00: FAIL bei 2^34
+     kette096f54fb_T0C0r32: FAIL bei 2^32
+     kette096f54fb_T0C0r36: FAIL bei 2^34
+     kette096f54fb_T0C0r44: FAIL bei 2^33
+     kette096f54fb_T0C0r48: FAIL bei 2^34
+     kette096f54fb_T0C0r52: FAIL bei 2^32
+     kette096f54fb_T0C0r56: FAIL bei 2^34
+     kette096f54fb_T0C0r60: FAIL bei 2^34
+     kette096f54fb_T1C0r28: FAIL bei 2^32
+
+== k9_bswap_c4ceb9_1c69b3  kette=8:c4ceb9fe1a85ec53,11:0,8:1c69b3f74ac4ae35  (K9 Hash-Klasse, mf(0xc4ceb9fe1a85ec53) bswap mf(0x1c69b3f74ac4ae35), Erschoepfung 19.08.) ==
+  fertig: kettee3fb5b9c_T0C0r20  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T0C0r00  ->  FAIL bei 2^34
+  fertig: kettee3fb5b9c_T0C0r04  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T0C0r08  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T0C0r28  ->  sauber bis 2^34  (4x suspicious)
+  fertig: kettee3fb5b9c_T0C0r24  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kettee3fb5b9c_T0C0r12  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T0C0r16  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T0C0r32  ->  FAIL bei 2^32
+  fertig: kettee3fb5b9c_T0C0r36  ->  FAIL bei 2^33
+  fertig: kettee3fb5b9c_T0C0r40  ->  FAIL bei 2^33
+  fertig: kettee3fb5b9c_T0C0r44  ->  FAIL bei 2^34
+  fertig: kettee3fb5b9c_T0C0r48  ->  FAIL bei 2^34
+  fertig: kettee3fb5b9c_T0C0r52  ->  FAIL bei 2^34
+  fertig: kettee3fb5b9c_T0C0r60  ->  FAIL bei 2^34
+  fertig: kettee3fb5b9c_T0C0r56  ->  FAIL bei 2^34
+  fertig: kettee3fb5b9c_T1C0r00  ->  sauber bis 2^34  (3x suspicious)
+  fertig: kettee3fb5b9c_T1C0r04  ->  sauber bis 2^34  (3x suspicious)
+  fertig: kettee3fb5b9c_T1C0r08  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T1C0r16  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T1C0r12  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T1C0r20  ->  sauber bis 2^34  (4x suspicious)
+  fertig: kettee3fb5b9c_T1C0r24  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T1C0r28  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T1C0r32  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T1C0r36  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T1C0r40  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T1C0r44  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T1C0r48  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T1C0r52  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T1C0r56  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T1C0r60  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T0C1r00  ->  sauber bis 2^34  (2x suspicious)
+  fertig: kettee3fb5b9c_T0C1r04  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T0C1r08  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T0C1r12  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T0C1r16  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T0C1r20  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T0C1r28  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T0C1r24  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T0C1r32  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T0C1r36  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T0C1r40  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T0C1r44  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T0C1r52  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kettee3fb5b9c_T0C1r56  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T0C1r60  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T0C1r48  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T1C1r00  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T1C1r04  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T1C1r08  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T1C1r12  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T1C1r20  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T1C1r28  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kettee3fb5b9c_T1C1r16  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T1C1r24  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T1C1r32  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T1C1r36  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T1C1r40  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T1C1r44  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T1C1r48  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T1C1r56  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kettee3fb5b9c_T1C1r60  ->  sauber bis 2^34
+  fertig: kettee3fb5b9c_T1C1r52  ->  sauber bis 2^34
+-> DURCHGEFALLEN: 55/64 sauber, 9 FAIL, 0 ABBRUCH (2555 s)
+     kettee3fb5b9c_T0C0r00: FAIL bei 2^34
+     kettee3fb5b9c_T0C0r32: FAIL bei 2^32
+     kettee3fb5b9c_T0C0r36: FAIL bei 2^33
+     kettee3fb5b9c_T0C0r40: FAIL bei 2^33
+     kettee3fb5b9c_T0C0r44: FAIL bei 2^34
+     kettee3fb5b9c_T0C0r48: FAIL bei 2^34
+     kettee3fb5b9c_T0C0r52: FAIL bei 2^34
+     kettee3fb5b9c_T0C0r56: FAIL bei 2^34
+     kettee3fb5b9c_T0C0r60: FAIL bei 2^34
+
+== k9_bswap_c4ceb9_9e6d62  kette=8:c4ceb9fe1a85ec53,11:0,8:9e6d62d06f6a9a9b  (K9 Hash-Klasse, mf(0xc4ceb9fe1a85ec53) bswap mf(0x9e6d62d06f6a9a9b), Erschoepfung 19.08.) ==
+  fertig: kette83d5f172_T0C0r08  ->  sauber bis 2^34
+  fertig: kette83d5f172_T0C0r04  ->  sauber bis 2^34
+  fertig: kette83d5f172_T0C0r12  ->  sauber bis 2^34
+  fertig: kette83d5f172_T0C0r16  ->  sauber bis 2^34
+  fertig: kette83d5f172_T0C0r20  ->  sauber bis 2^34
+  fertig: kette83d5f172_T0C0r24  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette83d5f172_T0C0r28  ->  sauber bis 2^34  (4x suspicious)
+  fertig: kette83d5f172_T0C0r00  ->  FAIL bei 2^34
+  fertig: kette83d5f172_T0C0r36  ->  FAIL bei 2^31
+  fertig: kette83d5f172_T0C0r32  ->  FAIL bei 2^32
+  fertig: kette83d5f172_T0C0r60  ->  FAIL bei 2^33
+  fertig: kette83d5f172_T0C0r40  ->  FAIL bei 2^34
+  fertig: kette83d5f172_T0C0r56  ->  FAIL bei 2^34
+  fertig: kette83d5f172_T0C0r44  ->  FAIL bei 2^34
+  fertig: kette83d5f172_T0C0r52  ->  FAIL bei 2^34
+  fertig: kette83d5f172_T0C0r48  ->  FAIL bei 2^34
+  fertig: kette83d5f172_T1C0r20  ->  FAIL bei 2^19
+  fertig: kette83d5f172_T1C0r00  ->  FAIL bei 2^34
+  fertig: kette83d5f172_T1C0r04  ->  FAIL bei 2^34
+  fertig: kette83d5f172_T1C0r08  ->  sauber bis 2^34
+  fertig: kette83d5f172_T1C0r12  ->  sauber bis 2^34
+  fertig: kette83d5f172_T1C0r16  ->  FAIL bei 2^34
+  fertig: kette83d5f172_T1C0r24  ->  sauber bis 2^34  (3x suspicious)
+  fertig: kette83d5f172_T1C0r28  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette83d5f172_T1C0r32  ->  sauber bis 2^34  (3x suspicious)
+  fertig: kette83d5f172_T1C0r36  ->  sauber bis 2^34
+  fertig: kette83d5f172_T1C0r40  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette83d5f172_T1C0r44  ->  sauber bis 2^34
+  fertig: kette83d5f172_T1C0r48  ->  sauber bis 2^34
+  fertig: kette83d5f172_T1C0r52  ->  sauber bis 2^34
+  fertig: kette83d5f172_T0C1r00  ->  sauber bis 2^34
+  fertig: kette83d5f172_T1C0r56  ->  sauber bis 2^34
+  fertig: kette83d5f172_T1C0r60  ->  sauber bis 2^34
+  fertig: kette83d5f172_T0C1r04  ->  sauber bis 2^34
+  fertig: kette83d5f172_T0C1r08  ->  sauber bis 2^34
+  fertig: kette83d5f172_T0C1r12  ->  sauber bis 2^34
+  fertig: kette83d5f172_T0C1r16  ->  sauber bis 2^34
+  fertig: kette83d5f172_T0C1r20  ->  sauber bis 2^34
+  fertig: kette83d5f172_T0C1r32  ->  sauber bis 2^34
+  fertig: kette83d5f172_T0C1r24  ->  sauber bis 2^34
+  fertig: kette83d5f172_T0C1r28  ->  sauber bis 2^34
+  fertig: kette83d5f172_T0C1r36  ->  sauber bis 2^34
+  fertig: kette83d5f172_T0C1r40  ->  sauber bis 2^34
+  fertig: kette83d5f172_T0C1r44  ->  sauber bis 2^34
+  fertig: kette83d5f172_T0C1r48  ->  sauber bis 2^34
+  fertig: kette83d5f172_T0C1r52  ->  sauber bis 2^34
+  fertig: kette83d5f172_T0C1r56  ->  sauber bis 2^34
+  fertig: kette83d5f172_T0C1r60  ->  sauber bis 2^34
+  fertig: kette83d5f172_T1C1r00  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette83d5f172_T1C1r04  ->  sauber bis 2^34
+  fertig: kette83d5f172_T1C1r08  ->  sauber bis 2^34
+  fertig: kette83d5f172_T1C1r12  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette83d5f172_T1C1r16  ->  sauber bis 2^34
+  fertig: kette83d5f172_T1C1r24  ->  sauber bis 2^34
+  fertig: kette83d5f172_T1C1r20  ->  sauber bis 2^34
+  fertig: kette83d5f172_T1C1r28  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette83d5f172_T1C1r32  ->  sauber bis 2^34
+  fertig: kette83d5f172_T1C1r36  ->  sauber bis 2^34
+  fertig: kette83d5f172_T1C1r40  ->  sauber bis 2^34
+  fertig: kette83d5f172_T1C1r44  ->  sauber bis 2^34
+  fertig: kette83d5f172_T1C1r48  ->  sauber bis 2^34
+  fertig: kette83d5f172_T1C1r52  ->  sauber bis 2^34
+  fertig: kette83d5f172_T1C1r60  ->  sauber bis 2^34
+  fertig: kette83d5f172_T1C1r56  ->  sauber bis 2^34  (1x suspicious)
+-> DURCHGEFALLEN: 51/64 sauber, 13 FAIL, 0 ABBRUCH (2526 s)
+     kette83d5f172_T0C0r00: FAIL bei 2^34
+     kette83d5f172_T0C0r32: FAIL bei 2^32
+     kette83d5f172_T0C0r36: FAIL bei 2^31
+     kette83d5f172_T0C0r40: FAIL bei 2^34
+     kette83d5f172_T0C0r44: FAIL bei 2^34
+     kette83d5f172_T0C0r48: FAIL bei 2^34
+     kette83d5f172_T0C0r52: FAIL bei 2^34
+     kette83d5f172_T0C0r56: FAIL bei 2^34
+     kette83d5f172_T0C0r60: FAIL bei 2^33
+     kette83d5f172_T1C0r00: FAIL bei 2^34
+     kette83d5f172_T1C0r04: FAIL bei 2^34
+     kette83d5f172_T1C0r16: FAIL bei 2^34
+     kette83d5f172_T1C0r20: FAIL bei 2^19
+
+== k9_bswap_c4ceb9_781f94  kette=8:c4ceb9fe1a85ec53,11:0,8:781f94b96e8edb3b  (K9 Hash-Klasse, mf(0xc4ceb9fe1a85ec53) bswap mf(0x781f94b96e8edb3b), Erschoepfung 19.08.) ==
+  fertig: ketted855971c_T0C0r04  ->  sauber bis 2^34
+  fertig: ketted855971c_T0C0r00  ->  FAIL bei 2^34
+  fertig: ketted855971c_T0C0r20  ->  sauber bis 2^34
+  fertig: ketted855971c_T0C0r08  ->  sauber bis 2^34
+  fertig: ketted855971c_T0C0r12  ->  sauber bis 2^34  (1x suspicious)
+  fertig: ketted855971c_T0C0r16  ->  sauber bis 2^34
+  fertig: ketted855971c_T0C0r24  ->  sauber bis 2^34
+  fertig: ketted855971c_T0C0r28  ->  sauber bis 2^34  (2x suspicious)
+  fertig: ketted855971c_T0C0r32  ->  FAIL bei 2^32
+  fertig: ketted855971c_T0C0r36  ->  FAIL bei 2^33
+  fertig: ketted855971c_T0C0r60  ->  FAIL bei 2^34
+  fertig: ketted855971c_T0C0r40  ->  FAIL bei 2^34
+  fertig: ketted855971c_T0C0r44  ->  FAIL bei 2^34
+  fertig: ketted855971c_T0C0r48  ->  FAIL bei 2^34
+  fertig: ketted855971c_T0C0r52  ->  FAIL bei 2^34
+  fertig: ketted855971c_T0C0r56  ->  FAIL bei 2^34
+  fertig: ketted855971c_T1C0r00  ->  sauber bis 2^34  (3x suspicious)
+  fertig: ketted855971c_T1C0r04  ->  sauber bis 2^34
+  fertig: ketted855971c_T1C0r08  ->  sauber bis 2^34
+  fertig: ketted855971c_T1C0r12  ->  sauber bis 2^34  (4x suspicious)
+  fertig: ketted855971c_T1C0r16  ->  sauber bis 2^34  (1x suspicious)
+  fertig: ketted855971c_T1C0r20  ->  sauber bis 2^34
+  fertig: ketted855971c_T1C0r24  ->  sauber bis 2^34  (2x suspicious)
+  fertig: ketted855971c_T1C0r28  ->  sauber bis 2^34
+  fertig: ketted855971c_T1C0r32  ->  sauber bis 2^34
+  fertig: ketted855971c_T1C0r36  ->  sauber bis 2^34
+  fertig: ketted855971c_T1C0r40  ->  sauber bis 2^34
+  fertig: ketted855971c_T1C0r44  ->  sauber bis 2^34  (1x suspicious)
+  fertig: ketted855971c_T1C0r60  ->  sauber bis 2^34
+  fertig: ketted855971c_T1C0r48  ->  sauber bis 2^34
+  fertig: ketted855971c_T1C0r52  ->  sauber bis 2^34
+  fertig: ketted855971c_T1C0r56  ->  sauber bis 2^34
+  fertig: ketted855971c_T0C1r00  ->  sauber bis 2^34
+  fertig: ketted855971c_T0C1r04  ->  sauber bis 2^34
+  fertig: ketted855971c_T0C1r08  ->  sauber bis 2^34  (1x suspicious)
+  fertig: ketted855971c_T0C1r12  ->  sauber bis 2^34
+  fertig: ketted855971c_T0C1r16  ->  sauber bis 2^34
+  fertig: ketted855971c_T0C1r20  ->  sauber bis 2^34
+  fertig: ketted855971c_T0C1r24  ->  sauber bis 2^34
+  fertig: ketted855971c_T0C1r28  ->  sauber bis 2^34
+  fertig: ketted855971c_T0C1r32  ->  sauber bis 2^34
+  fertig: ketted855971c_T0C1r36  ->  sauber bis 2^34
+  fertig: ketted855971c_T0C1r40  ->  sauber bis 2^34  (2x suspicious)
+  fertig: ketted855971c_T0C1r44  ->  sauber bis 2^34
+  fertig: ketted855971c_T0C1r48  ->  sauber bis 2^34
+  fertig: ketted855971c_T0C1r52  ->  sauber bis 2^34
+  fertig: ketted855971c_T0C1r56  ->  sauber bis 2^34
+  fertig: ketted855971c_T0C1r60  ->  sauber bis 2^34
+  fertig: ketted855971c_T1C1r00  ->  sauber bis 2^34
+  fertig: ketted855971c_T1C1r04  ->  sauber bis 2^34
+  fertig: ketted855971c_T1C1r08  ->  sauber bis 2^34
+  fertig: ketted855971c_T1C1r12  ->  sauber bis 2^34
+  fertig: ketted855971c_T1C1r16  ->  sauber bis 2^34
+  fertig: ketted855971c_T1C1r24  ->  sauber bis 2^34
+  fertig: ketted855971c_T1C1r20  ->  sauber bis 2^34
+  fertig: ketted855971c_T1C1r28  ->  sauber bis 2^34
+  fertig: ketted855971c_T1C1r32  ->  sauber bis 2^34  (1x suspicious)
+  fertig: ketted855971c_T1C1r36  ->  sauber bis 2^34
+  fertig: ketted855971c_T1C1r40  ->  sauber bis 2^34
+  fertig: ketted855971c_T1C1r44  ->  sauber bis 2^34
+  fertig: ketted855971c_T1C1r48  ->  sauber bis 2^34
+  fertig: ketted855971c_T1C1r52  ->  sauber bis 2^34  (1x suspicious)
+  fertig: ketted855971c_T1C1r60  ->  sauber bis 2^34
+  fertig: ketted855971c_T1C1r56  ->  sauber bis 2^34
+-> DURCHGEFALLEN: 55/64 sauber, 9 FAIL, 0 ABBRUCH (2527 s)
+     ketted855971c_T0C0r00: FAIL bei 2^34
+     ketted855971c_T0C0r32: FAIL bei 2^32
+     ketted855971c_T0C0r36: FAIL bei 2^33
+     ketted855971c_T0C0r40: FAIL bei 2^34
+     ketted855971c_T0C0r44: FAIL bei 2^34
+     ketted855971c_T0C0r48: FAIL bei 2^34
+     ketted855971c_T0C0r52: FAIL bei 2^34
+     ketted855971c_T0C0r56: FAIL bei 2^34
+     ketted855971c_T0C0r60: FAIL bei 2^34
+
+== k9_bswap_d6e8fe_3c79ac  kette=8:d6e8feb86659fd93,11:0,8:3c79ac492ba7b653  (K9 Hash-Klasse, mf(0xd6e8feb86659fd93) bswap mf(0x3c79ac492ba7b653), Erschoepfung 19.08.) ==
+  fertig: kette1a6b4082_T0C0r00  ->  FAIL bei 2^34
+  fertig: kette1a6b4082_T0C0r08  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T0C0r04  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T0C0r16  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T0C0r20  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T0C0r28  ->  sauber bis 2^34  (4x suspicious)
+  fertig: kette1a6b4082_T0C0r24  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T0C0r12  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T0C0r36  ->  FAIL bei 2^33
+  fertig: kette1a6b4082_T0C0r44  ->  FAIL bei 2^33
+  fertig: kette1a6b4082_T0C0r52  ->  FAIL bei 2^33
+  fertig: kette1a6b4082_T0C0r56  ->  FAIL bei 2^33
+  fertig: kette1a6b4082_T1C0r04  ->  FAIL bei 2^32
+  fertig: kette1a6b4082_T0C0r32  ->  FAIL bei 2^34
+  fertig: kette1a6b4082_T0C0r40  ->  FAIL bei 2^34
+  fertig: kette1a6b4082_T0C0r48  ->  FAIL bei 2^34
+  fertig: kette1a6b4082_T0C0r60  ->  FAIL bei 2^34
+  fertig: kette1a6b4082_T1C0r24  ->  FAIL bei 2^33
+  fertig: kette1a6b4082_T1C0r00  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T1C0r08  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T1C0r12  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T1C0r16  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T1C0r20  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T1C0r28  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T1C0r32  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T1C0r36  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T1C0r40  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T1C0r44  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T1C0r48  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T1C0r52  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T1C0r56  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T1C0r60  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette1a6b4082_T0C1r00  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T0C1r04  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T0C1r08  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T0C1r12  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T0C1r16  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette1a6b4082_T0C1r20  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T0C1r24  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T0C1r28  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T0C1r32  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T0C1r36  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T0C1r40  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T0C1r44  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T0C1r48  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T0C1r52  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette1a6b4082_T0C1r56  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T0C1r60  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T1C1r00  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T1C1r08  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T1C1r04  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T1C1r12  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T1C1r16  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T1C1r20  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T1C1r24  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T1C1r28  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette1a6b4082_T1C1r32  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T1C1r36  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T1C1r40  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T1C1r44  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T1C1r48  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T1C1r52  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T1C1r56  ->  sauber bis 2^34
+  fertig: kette1a6b4082_T1C1r60  ->  sauber bis 2^34
+-> DURCHGEFALLEN: 53/64 sauber, 11 FAIL, 0 ABBRUCH (2571 s)
+     kette1a6b4082_T0C0r00: FAIL bei 2^34
+     kette1a6b4082_T0C0r32: FAIL bei 2^34
+     kette1a6b4082_T0C0r36: FAIL bei 2^33
+     kette1a6b4082_T0C0r40: FAIL bei 2^34
+     kette1a6b4082_T0C0r44: FAIL bei 2^33
+     kette1a6b4082_T0C0r48: FAIL bei 2^34
+     kette1a6b4082_T0C0r52: FAIL bei 2^33
+     kette1a6b4082_T0C0r56: FAIL bei 2^33
+     kette1a6b4082_T0C0r60: FAIL bei 2^34
+     kette1a6b4082_T1C0r04: FAIL bei 2^32
+     kette1a6b4082_T1C0r24: FAIL bei 2^33
+
+== k9_bswap_d6e8fe_1c69b3  kette=8:d6e8feb86659fd93,11:0,8:1c69b3f74ac4ae35  (K9 Hash-Klasse, mf(0xd6e8feb86659fd93) bswap mf(0x1c69b3f74ac4ae35), Erschoepfung 19.08.) ==
+  fertig: kette6213c883_T0C0r04  ->  sauber bis 2^34
+  fertig: kette6213c883_T0C0r12  ->  sauber bis 2^34
+  fertig: kette6213c883_T0C0r08  ->  sauber bis 2^34
+  fertig: kette6213c883_T0C0r16  ->  sauber bis 2^34
+  fertig: kette6213c883_T0C0r20  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette6213c883_T0C0r28  ->  sauber bis 2^34  (4x suspicious)
+  fertig: kette6213c883_T0C0r00  ->  FAIL bei 2^34
+  fertig: kette6213c883_T0C0r24  ->  sauber bis 2^34  (3x suspicious)
+  fertig: kette6213c883_T0C0r32  ->  FAIL bei 2^32
+  fertig: kette6213c883_T0C0r36  ->  FAIL bei 2^33
+  fertig: kette6213c883_T0C0r40  ->  FAIL bei 2^33
+  fertig: kette6213c883_T0C0r44  ->  FAIL bei 2^34
+  fertig: kette6213c883_T0C0r60  ->  FAIL bei 2^34
+  fertig: kette6213c883_T0C0r56  ->  FAIL bei 2^34
+  fertig: kette6213c883_T0C0r48  ->  sauber bis 2^34  (4x suspicious)
+  fertig: kette6213c883_T0C0r52  ->  FAIL bei 2^34
+  fertig: kette6213c883_T1C0r28  ->  FAIL bei 2^31
+  fertig: kette6213c883_T1C0r00  ->  sauber bis 2^34
+  fertig: kette6213c883_T1C0r08  ->  sauber bis 2^34
+  fertig: kette6213c883_T1C0r04  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette6213c883_T1C0r12  ->  FAIL bei 2^33
+  fertig: kette6213c883_T1C0r16  ->  sauber bis 2^34
+  fertig: kette6213c883_T1C0r20  ->  sauber bis 2^34  (3x suspicious)
+  fertig: kette6213c883_T1C0r24  ->  sauber bis 2^34  (2x suspicious)
+  fertig: kette6213c883_T1C0r32  ->  sauber bis 2^34
+  fertig: kette6213c883_T1C0r36  ->  sauber bis 2^34
+  fertig: kette6213c883_T1C0r40  ->  sauber bis 2^34
+  fertig: kette6213c883_T1C0r48  ->  sauber bis 2^34
+  fertig: kette6213c883_T1C0r44  ->  sauber bis 2^34
+  fertig: kette6213c883_T1C0r52  ->  sauber bis 2^34
+  fertig: kette6213c883_T1C0r56  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette6213c883_T1C0r60  ->  sauber bis 2^34
+  fertig: kette6213c883_T0C1r00  ->  sauber bis 2^34
+  fertig: kette6213c883_T0C1r04  ->  sauber bis 2^34
+  fertig: kette6213c883_T0C1r08  ->  sauber bis 2^34
+  fertig: kette6213c883_T0C1r12  ->  sauber bis 2^34
+  fertig: kette6213c883_T0C1r16  ->  sauber bis 2^34
+  fertig: kette6213c883_T0C1r20  ->  sauber bis 2^34
+  fertig: kette6213c883_T0C1r24  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette6213c883_T0C1r28  ->  sauber bis 2^34
+  fertig: kette6213c883_T0C1r32  ->  sauber bis 2^34
+  fertig: kette6213c883_T0C1r36  ->  sauber bis 2^34
+  fertig: kette6213c883_T0C1r40  ->  sauber bis 2^34  (3x suspicious)
+  fertig: kette6213c883_T0C1r48  ->  sauber bis 2^34
+  fertig: kette6213c883_T0C1r44  ->  sauber bis 2^34
+  fertig: kette6213c883_T0C1r52  ->  sauber bis 2^34
+  fertig: kette6213c883_T0C1r56  ->  sauber bis 2^34  (2x suspicious)
+  fertig: kette6213c883_T0C1r60  ->  sauber bis 2^34
+  fertig: kette6213c883_T1C1r00  ->  sauber bis 2^34
+  fertig: kette6213c883_T1C1r04  ->  sauber bis 2^34
+  fertig: kette6213c883_T1C1r08  ->  sauber bis 2^34
+  fertig: kette6213c883_T1C1r12  ->  sauber bis 2^34
+  fertig: kette6213c883_T1C1r16  ->  sauber bis 2^34
+  fertig: kette6213c883_T1C1r20  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette6213c883_T1C1r24  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette6213c883_T1C1r28  ->  sauber bis 2^34
+  fertig: kette6213c883_T1C1r32  ->  sauber bis 2^34
+  fertig: kette6213c883_T1C1r36  ->  sauber bis 2^34
+  fertig: kette6213c883_T1C1r40  ->  sauber bis 2^34
+  fertig: kette6213c883_T1C1r44  ->  sauber bis 2^34
+  fertig: kette6213c883_T1C1r48  ->  sauber bis 2^34  (2x suspicious)
+  fertig: kette6213c883_T1C1r52  ->  sauber bis 2^34
+  fertig: kette6213c883_T1C1r56  ->  sauber bis 2^34
+  fertig: kette6213c883_T1C1r60  ->  sauber bis 2^34
+-> DURCHGEFALLEN: 54/64 sauber, 10 FAIL, 0 ABBRUCH (2494 s)
+     kette6213c883_T0C0r00: FAIL bei 2^34
+     kette6213c883_T0C0r32: FAIL bei 2^32
+     kette6213c883_T0C0r36: FAIL bei 2^33
+     kette6213c883_T0C0r40: FAIL bei 2^33
+     kette6213c883_T0C0r44: FAIL bei 2^34
+     kette6213c883_T0C0r52: FAIL bei 2^34
+     kette6213c883_T0C0r56: FAIL bei 2^34
+     kette6213c883_T0C0r60: FAIL bei 2^34
+     kette6213c883_T1C0r12: FAIL bei 2^33
+     kette6213c883_T1C0r28: FAIL bei 2^31
+
+== k9_bswap_9fb21c_94d049  kette=8:9fb21c651e98df25,11:0,8:94d049bb133111eb  (K9 Hash-Klasse, mf(0x9fb21c651e98df25) bswap mf(0x94d049bb133111eb), Erschoepfung 19.08.) ==
+  fertig: kette74d9c6f0_T0C0r28  ->  FAIL bei 2^29
+  fertig: kette74d9c6f0_T0C0r00  ->  FAIL bei 2^33
+  fertig: kette74d9c6f0_T0C0r36  ->  FAIL bei 2^28
+  fertig: kette74d9c6f0_T0C0r32  ->  FAIL bei 2^33
+  fertig: kette74d9c6f0_T0C0r08  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T0C0r04  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T0C0r12  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T0C0r16  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T0C0r20  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T0C0r24  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T0C0r60  ->  FAIL bei 2^27
+  fertig: kette74d9c6f0_T1C0r04  ->  FAIL bei 2^28
+  fertig: kette74d9c6f0_T1C0r12  ->  FAIL bei 2^25
+  fertig: kette74d9c6f0_T0C0r40  ->  FAIL bei 2^33
+  fertig: kette74d9c6f0_T0C0r44  ->  FAIL bei 2^33
+  fertig: kette74d9c6f0_T1C0r20  ->  FAIL bei 2^28
+  fertig: kette74d9c6f0_T1C0r28  ->  FAIL bei 2^28
+  fertig: kette74d9c6f0_T0C0r52  ->  FAIL bei 2^33
+  fertig: kette74d9c6f0_T0C0r56  ->  FAIL bei 2^33
+  fertig: kette74d9c6f0_T1C0r24  ->  FAIL bei 2^33
+  fertig: kette74d9c6f0_T0C0r48  ->  FAIL bei 2^34
+  fertig: kette74d9c6f0_T1C0r00  ->  sauber bis 2^34  (2x suspicious)
+  fertig: kette74d9c6f0_T1C0r08  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T1C0r16  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T1C0r32  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T1C0r40  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T1C0r36  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T1C0r44  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T1C0r48  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T1C0r52  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T1C0r56  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T1C0r60  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T0C1r00  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T0C1r04  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T0C1r08  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T0C1r12  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T0C1r16  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T0C1r20  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T0C1r24  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T0C1r28  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T0C1r32  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T0C1r36  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T0C1r40  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T0C1r44  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T0C1r52  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T0C1r48  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T0C1r56  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T0C1r60  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T1C1r00  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T1C1r08  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T1C1r04  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T1C1r12  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette74d9c6f0_T1C1r16  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T1C1r20  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T1C1r24  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette74d9c6f0_T1C1r28  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T1C1r32  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T1C1r40  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette74d9c6f0_T1C1r36  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T1C1r44  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T1C1r48  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T1C1r52  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T1C1r56  ->  sauber bis 2^34
+  fertig: kette74d9c6f0_T1C1r60  ->  sauber bis 2^34
+-> DURCHGEFALLEN: 49/64 sauber, 15 FAIL, 0 ABBRUCH (2215 s)
+     kette74d9c6f0_T0C0r00: FAIL bei 2^33
+     kette74d9c6f0_T0C0r28: FAIL bei 2^29
+     kette74d9c6f0_T0C0r32: FAIL bei 2^33
+     kette74d9c6f0_T0C0r36: FAIL bei 2^28
+     kette74d9c6f0_T0C0r40: FAIL bei 2^33
+     kette74d9c6f0_T0C0r44: FAIL bei 2^33
+     kette74d9c6f0_T0C0r48: FAIL bei 2^34
+     kette74d9c6f0_T0C0r52: FAIL bei 2^33
+     kette74d9c6f0_T0C0r56: FAIL bei 2^33
+     kette74d9c6f0_T0C0r60: FAIL bei 2^27
+     kette74d9c6f0_T1C0r04: FAIL bei 2^28
+     kette74d9c6f0_T1C0r12: FAIL bei 2^25
+     kette74d9c6f0_T1C0r20: FAIL bei 2^28
+     kette74d9c6f0_T1C0r24: FAIL bei 2^33
+     kette74d9c6f0_T1C0r28: FAIL bei 2^28
+
+== k9_bswap_9fb21c_3c79ac  kette=8:9fb21c651e98df25,11:0,8:3c79ac492ba7b653  (K9 Hash-Klasse, mf(0x9fb21c651e98df25) bswap mf(0x3c79ac492ba7b653), Erschoepfung 19.08.) ==
+  fertig: kettec6b93397_T0C0r04  ->  sauber bis 2^34
+  fertig: kettec6b93397_T0C0r12  ->  sauber bis 2^34
+  fertig: kettec6b93397_T0C0r20  ->  sauber bis 2^34
+  fertig: kettec6b93397_T0C0r00  ->  FAIL bei 2^34
+  fertig: kettec6b93397_T0C0r16  ->  sauber bis 2^34
+  fertig: kettec6b93397_T0C0r24  ->  sauber bis 2^34
+  fertig: kettec6b93397_T0C0r08  ->  sauber bis 2^34
+  fertig: kettec6b93397_T0C0r28  ->  sauber bis 2^34  (3x suspicious)
+  fertig: kettec6b93397_T0C0r60  ->  FAIL bei 2^31
+  fertig: kettec6b93397_T0C0r32  ->  FAIL bei 2^32
+  fertig: kettec6b93397_T0C0r52  ->  FAIL bei 2^32
+  fertig: kettec6b93397_T0C0r36  ->  FAIL bei 2^33
+  fertig: kettec6b93397_T0C0r48  ->  FAIL bei 2^33
+  fertig: kettec6b93397_T0C0r44  ->  FAIL bei 2^33
+  fertig: kettec6b93397_T1C0r12  ->  FAIL bei 2^32
+  fertig: kettec6b93397_T1C0r20  ->  FAIL bei 2^32
+  fertig: kettec6b93397_T1C0r28  ->  FAIL bei 2^28
+  fertig: kettec6b93397_T0C0r40  ->  sauber bis 2^34  (3x suspicious)
+  fertig: kettec6b93397_T0C0r56  ->  FAIL bei 2^34
+  fertig: kettec6b93397_T1C0r00  ->  sauber bis 2^34
+  fertig: kettec6b93397_T1C0r04  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kettec6b93397_T1C0r08  ->  sauber bis 2^34
+  fertig: kettec6b93397_T1C0r24  ->  FAIL bei 2^33
+  fertig: kettec6b93397_T1C0r16  ->  sauber bis 2^34
+  fertig: kettec6b93397_T1C0r32  ->  sauber bis 2^34
+  fertig: kettec6b93397_T1C0r36  ->  sauber bis 2^34
+  fertig: kettec6b93397_T1C0r40  ->  sauber bis 2^34
+  fertig: kettec6b93397_T1C0r44  ->  sauber bis 2^34
+  fertig: kettec6b93397_T1C0r48  ->  sauber bis 2^34
+  fertig: kettec6b93397_T1C0r52  ->  sauber bis 2^34
+  fertig: kettec6b93397_T1C0r56  ->  sauber bis 2^34
+  fertig: kettec6b93397_T1C0r60  ->  sauber bis 2^34
+  fertig: kettec6b93397_T0C1r00  ->  sauber bis 2^34
+  fertig: kettec6b93397_T0C1r04  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kettec6b93397_T0C1r08  ->  sauber bis 2^34
+  fertig: kettec6b93397_T0C1r12  ->  sauber bis 2^34
+  fertig: kettec6b93397_T0C1r16  ->  sauber bis 2^34
+  fertig: kettec6b93397_T0C1r20  ->  sauber bis 2^34
+  fertig: kettec6b93397_T0C1r24  ->  sauber bis 2^34
+  fertig: kettec6b93397_T0C1r28  ->  sauber bis 2^34
+  fertig: kettec6b93397_T0C1r32  ->  sauber bis 2^34
+  fertig: kettec6b93397_T0C1r36  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kettec6b93397_T0C1r40  ->  sauber bis 2^34
+  fertig: kettec6b93397_T0C1r44  ->  sauber bis 2^34
+  fertig: kettec6b93397_T0C1r48  ->  sauber bis 2^34
+  fertig: kettec6b93397_T0C1r52  ->  sauber bis 2^34
+  fertig: kettec6b93397_T0C1r56  ->  sauber bis 2^34
+  fertig: kettec6b93397_T0C1r60  ->  sauber bis 2^34
+  fertig: kettec6b93397_T1C1r00  ->  sauber bis 2^34
+  fertig: kettec6b93397_T1C1r04  ->  sauber bis 2^34
+  fertig: kettec6b93397_T1C1r08  ->  sauber bis 2^34
+  fertig: kettec6b93397_T1C1r12  ->  sauber bis 2^34
+  fertig: kettec6b93397_T1C1r16  ->  sauber bis 2^34
+  fertig: kettec6b93397_T1C1r20  ->  sauber bis 2^34
+  fertig: kettec6b93397_T1C1r24  ->  sauber bis 2^34  (2x suspicious)
+  fertig: kettec6b93397_T1C1r28  ->  sauber bis 2^34
+  fertig: kettec6b93397_T1C1r32  ->  sauber bis 2^34
+  fertig: kettec6b93397_T1C1r36  ->  sauber bis 2^34
+  fertig: kettec6b93397_T1C1r40  ->  sauber bis 2^34
+  fertig: kettec6b93397_T1C1r44  ->  sauber bis 2^34
+  fertig: kettec6b93397_T1C1r48  ->  sauber bis 2^34
+  fertig: kettec6b93397_T1C1r52  ->  sauber bis 2^34
+  fertig: kettec6b93397_T1C1r56  ->  sauber bis 2^34
+  fertig: kettec6b93397_T1C1r60  ->  sauber bis 2^34
+-> DURCHGEFALLEN: 52/64 sauber, 12 FAIL, 0 ABBRUCH (2349 s)
+     kettec6b93397_T0C0r00: FAIL bei 2^34
+     kettec6b93397_T0C0r32: FAIL bei 2^32
+     kettec6b93397_T0C0r36: FAIL bei 2^33
+     kettec6b93397_T0C0r44: FAIL bei 2^33
+     kettec6b93397_T0C0r48: FAIL bei 2^33
+     kettec6b93397_T0C0r52: FAIL bei 2^32
+     kettec6b93397_T0C0r56: FAIL bei 2^34
+     kettec6b93397_T0C0r60: FAIL bei 2^31
+     kettec6b93397_T1C0r12: FAIL bei 2^32
+     kettec6b93397_T1C0r20: FAIL bei 2^32
+     kettec6b93397_T1C0r24: FAIL bei 2^33
+     kettec6b93397_T1C0r28: FAIL bei 2^28
+
+== k9_bswap_9fb21c_9e6d62  kette=8:9fb21c651e98df25,11:0,8:9e6d62d06f6a9a9b  (K9 Hash-Klasse, mf(0x9fb21c651e98df25) bswap mf(0x9e6d62d06f6a9a9b), Erschoepfung 19.08.) ==
+  fertig: ketteebd0e684_T0C0r28  ->  FAIL bei 2^31
+  fertig: ketteebd0e684_T0C0r32  ->  FAIL bei 2^32
+  fertig: ketteebd0e684_T0C0r36  ->  FAIL bei 2^31
+  fertig: ketteebd0e684_T0C0r04  ->  sauber bis 2^34
+  fertig: ketteebd0e684_T0C0r00  ->  FAIL bei 2^34
+  fertig: ketteebd0e684_T0C0r16  ->  sauber bis 2^34
+  fertig: ketteebd0e684_T0C0r20  ->  sauber bis 2^34
+  fertig: ketteebd0e684_T0C0r08  ->  sauber bis 2^34
+  fertig: ketteebd0e684_T0C0r24  ->  sauber bis 2^34
+  fertig: ketteebd0e684_T0C0r12  ->  sauber bis 2^34
+  fertig: ketteebd0e684_T0C0r60  ->  FAIL bei 2^32
+  fertig: ketteebd0e684_T1C0r04  ->  FAIL bei 2^32
+  fertig: ketteebd0e684_T1C0r12  ->  FAIL bei 2^29
+  fertig: ketteebd0e684_T0C0r52  ->  FAIL bei 2^33
+  fertig: ketteebd0e684_T0C0r40  ->  FAIL bei 2^34
+  fertig: ketteebd0e684_T1C0r20  ->  FAIL bei 2^32
+  fertig: ketteebd0e684_T1C0r08  ->  FAIL bei 2^33
+  fertig: ketteebd0e684_T1C0r28  ->  FAIL bei 2^30
+  fertig: ketteebd0e684_T0C0r44  ->  FAIL bei 2^34
+  fertig: ketteebd0e684_T0C0r56  ->  FAIL bei 2^34
+  fertig: ketteebd0e684_T0C0r48  ->  FAIL bei 2^34
+  fertig: ketteebd0e684_T1C0r00  ->  sauber bis 2^34
+  fertig: ketteebd0e684_T1C0r16  ->  sauber bis 2^34  (3x suspicious)
+  fertig: ketteebd0e684_T1C0r24  ->  sauber bis 2^34  (3x suspicious)
+  fertig: ketteebd0e684_T1C0r32  ->  sauber bis 2^34
+  fertig: ketteebd0e684_T1C0r36  ->  sauber bis 2^34  (4x suspicious)
+  fertig: ketteebd0e684_T1C0r40  ->  sauber bis 2^34
+  fertig: ketteebd0e684_T1C0r44  ->  sauber bis 2^34
+  fertig: ketteebd0e684_T1C0r52  ->  sauber bis 2^34
+  fertig: ketteebd0e684_T1C0r48  ->  sauber bis 2^34
+  fertig: ketteebd0e684_T1C0r56  ->  sauber bis 2^34
+  fertig: ketteebd0e684_T1C0r60  ->  sauber bis 2^34
+  fertig: ketteebd0e684_T0C1r00  ->  sauber bis 2^34  (1x suspicious)
+  fertig: ketteebd0e684_T0C1r04  ->  sauber bis 2^34
+  fertig: ketteebd0e684_T0C1r08  ->  sauber bis 2^34  (2x suspicious)
+  fertig: ketteebd0e684_T0C1r12  ->  sauber bis 2^34
+  fertig: ketteebd0e684_T0C1r16  ->  sauber bis 2^34  (1x suspicious)
+  fertig: ketteebd0e684_T0C1r20  ->  sauber bis 2^34
+  fertig: ketteebd0e684_T0C1r24  ->  sauber bis 2^34
+  fertig: ketteebd0e684_T0C1r28  ->  sauber bis 2^34
+  fertig: ketteebd0e684_T0C1r32  ->  sauber bis 2^34  (1x suspicious)
+  fertig: ketteebd0e684_T0C1r36  ->  sauber bis 2^34
+  fertig: ketteebd0e684_T0C1r40  ->  sauber bis 2^34
+  fertig: ketteebd0e684_T0C1r44  ->  sauber bis 2^34
+  fertig: ketteebd0e684_T0C1r48  ->  sauber bis 2^34
+  fertig: ketteebd0e684_T0C1r52  ->  sauber bis 2^34
+  fertig: ketteebd0e684_T0C1r56  ->  sauber bis 2^34
+  fertig: ketteebd0e684_T0C1r60  ->  sauber bis 2^34
+  fertig: ketteebd0e684_T1C1r00  ->  sauber bis 2^34
+  fertig: ketteebd0e684_T1C1r04  ->  sauber bis 2^34
+  fertig: ketteebd0e684_T1C1r08  ->  sauber bis 2^34
+  fertig: ketteebd0e684_T1C1r12  ->  sauber bis 2^34
+  fertig: ketteebd0e684_T1C1r16  ->  sauber bis 2^34  (1x suspicious)
+  fertig: ketteebd0e684_T1C1r20  ->  sauber bis 2^34  (1x suspicious)
+  fertig: ketteebd0e684_T1C1r24  ->  sauber bis 2^34
+  fertig: ketteebd0e684_T1C1r28  ->  sauber bis 2^34  (1x suspicious)
+  fertig: ketteebd0e684_T1C1r32  ->  sauber bis 2^34
+  fertig: ketteebd0e684_T1C1r40  ->  sauber bis 2^34
+  fertig: ketteebd0e684_T1C1r36  ->  sauber bis 2^34
+  fertig: ketteebd0e684_T1C1r44  ->  sauber bis 2^34
+  fertig: ketteebd0e684_T1C1r48  ->  sauber bis 2^34
+  fertig: ketteebd0e684_T1C1r52  ->  sauber bis 2^34
+  fertig: ketteebd0e684_T1C1r56  ->  sauber bis 2^34  (1x suspicious)
+  fertig: ketteebd0e684_T1C1r60  ->  sauber bis 2^34
+-> DURCHGEFALLEN: 49/64 sauber, 15 FAIL, 0 ABBRUCH (2334 s)
+     ketteebd0e684_T0C0r00: FAIL bei 2^34
+     ketteebd0e684_T0C0r28: FAIL bei 2^31
+     ketteebd0e684_T0C0r32: FAIL bei 2^32
+     ketteebd0e684_T0C0r36: FAIL bei 2^31
+     ketteebd0e684_T0C0r40: FAIL bei 2^34
+     ketteebd0e684_T0C0r44: FAIL bei 2^34
+     ketteebd0e684_T0C0r48: FAIL bei 2^34
+     ketteebd0e684_T0C0r52: FAIL bei 2^33
+     ketteebd0e684_T0C0r56: FAIL bei 2^34
+     ketteebd0e684_T0C0r60: FAIL bei 2^32
+     ketteebd0e684_T1C0r04: FAIL bei 2^32
+     ketteebd0e684_T1C0r08: FAIL bei 2^33
+     ketteebd0e684_T1C0r12: FAIL bei 2^29
+     ketteebd0e684_T1C0r20: FAIL bei 2^32
+     ketteebd0e684_T1C0r28: FAIL bei 2^30
+
+== k9_bswap_9fb21c_c4ceb9  kette=8:9fb21c651e98df25,11:0,8:c4ceb9fe1a85ec53  (K9 Hash-Klasse, mf(0x9fb21c651e98df25) bswap mf(0xc4ceb9fe1a85ec53), Erschoepfung 19.08.) ==
+  fertig: kette075388f1_T0C0r28  ->  FAIL bei 2^29
+  fertig: kette075388f1_T0C0r32  ->  FAIL bei 2^32
+  fertig: kette075388f1_T0C0r08  ->  sauber bis 2^34
+  fertig: kette075388f1_T0C0r00  ->  FAIL bei 2^34
+  fertig: kette075388f1_T0C0r04  ->  sauber bis 2^34
+  fertig: kette075388f1_T0C0r12  ->  sauber bis 2^34  (2x suspicious)
+  fertig: kette075388f1_T0C0r16  ->  sauber bis 2^34
+  fertig: kette075388f1_T0C0r20  ->  sauber bis 2^34
+  fertig: kette075388f1_T0C0r24  ->  sauber bis 2^34
+  fertig: kette075388f1_T0C0r52  ->  FAIL bei 2^28
+  fertig: kette075388f1_T0C0r60  ->  FAIL bei 2^30
+  fertig: kette075388f1_T1C0r04  ->  FAIL bei 2^28
+  fertig: kette075388f1_T1C0r12  ->  FAIL bei 2^31
+  fertig: kette075388f1_T0C0r36  ->  FAIL bei 2^34
+  fertig: kette075388f1_T1C0r20  ->  FAIL bei 2^29
+  fertig: kette075388f1_T0C0r44  ->  FAIL bei 2^33
+  fertig: kette075388f1_T0C0r48  ->  FAIL bei 2^33
+  fertig: kette075388f1_T1C0r28  ->  FAIL bei 2^30
+  fertig: kette075388f1_T1C0r36  ->  FAIL bei 2^28
+  fertig: kette075388f1_T0C0r40  ->  FAIL bei 2^34
+  fertig: kette075388f1_T0C0r56  ->  FAIL bei 2^34
+  fertig: kette075388f1_T1C0r00  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette075388f1_T1C0r08  ->  sauber bis 2^34
+  fertig: kette075388f1_T1C0r16  ->  FAIL bei 2^34
+  fertig: kette075388f1_T1C0r24  ->  sauber bis 2^34
+  fertig: kette075388f1_T1C0r32  ->  sauber bis 2^34
+  fertig: kette075388f1_T1C0r40  ->  sauber bis 2^34
+  fertig: kette075388f1_T1C0r44  ->  sauber bis 2^34
+  fertig: kette075388f1_T1C0r48  ->  sauber bis 2^34
+  fertig: kette075388f1_T1C0r52  ->  sauber bis 2^34
+  fertig: kette075388f1_T1C0r56  ->  sauber bis 2^34
+  fertig: kette075388f1_T1C0r60  ->  sauber bis 2^34
+  fertig: kette075388f1_T0C1r00  ->  sauber bis 2^34
+  fertig: kette075388f1_T0C1r04  ->  sauber bis 2^34
+  fertig: kette075388f1_T0C1r08  ->  sauber bis 2^34
+  fertig: kette075388f1_T0C1r12  ->  sauber bis 2^34
+  fertig: kette075388f1_T0C1r16  ->  sauber bis 2^34
+  fertig: kette075388f1_T0C1r20  ->  sauber bis 2^34
+  fertig: kette075388f1_T0C1r24  ->  sauber bis 2^34
+  fertig: kette075388f1_T0C1r28  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette075388f1_T0C1r32  ->  sauber bis 2^34
+  fertig: kette075388f1_T0C1r36  ->  sauber bis 2^34
+  fertig: kette075388f1_T0C1r40  ->  sauber bis 2^34
+  fertig: kette075388f1_T0C1r44  ->  sauber bis 2^34
+  fertig: kette075388f1_T0C1r48  ->  sauber bis 2^34
+  fertig: kette075388f1_T0C1r52  ->  sauber bis 2^34
+  fertig: kette075388f1_T0C1r56  ->  sauber bis 2^34
+  fertig: kette075388f1_T0C1r60  ->  sauber bis 2^34
+  fertig: kette075388f1_T1C1r00  ->  sauber bis 2^34
+  fertig: kette075388f1_T1C1r04  ->  sauber bis 2^34
+  fertig: kette075388f1_T1C1r08  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette075388f1_T1C1r12  ->  sauber bis 2^34
+  fertig: kette075388f1_T1C1r20  ->  sauber bis 2^34
+  fertig: kette075388f1_T1C1r16  ->  sauber bis 2^34
+  fertig: kette075388f1_T1C1r24  ->  sauber bis 2^34  (2x suspicious)
+  fertig: kette075388f1_T1C1r28  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette075388f1_T1C1r32  ->  sauber bis 2^34
+  fertig: kette075388f1_T1C1r36  ->  sauber bis 2^34
+  fertig: kette075388f1_T1C1r40  ->  sauber bis 2^34
+  fertig: kette075388f1_T1C1r44  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette075388f1_T1C1r48  ->  sauber bis 2^34
+  fertig: kette075388f1_T1C1r52  ->  sauber bis 2^34
+  fertig: kette075388f1_T1C1r56  ->  sauber bis 2^34
+  fertig: kette075388f1_T1C1r60  ->  sauber bis 2^34
+-> DURCHGEFALLEN: 48/64 sauber, 16 FAIL, 0 ABBRUCH (2239 s)
+     kette075388f1_T0C0r00: FAIL bei 2^34
+     kette075388f1_T0C0r28: FAIL bei 2^29
+     kette075388f1_T0C0r32: FAIL bei 2^32
+     kette075388f1_T0C0r36: FAIL bei 2^34
+     kette075388f1_T0C0r40: FAIL bei 2^34
+     kette075388f1_T0C0r44: FAIL bei 2^33
+     kette075388f1_T0C0r48: FAIL bei 2^33
+     kette075388f1_T0C0r52: FAIL bei 2^28
+     kette075388f1_T0C0r56: FAIL bei 2^34
+     kette075388f1_T0C0r60: FAIL bei 2^30
+     kette075388f1_T1C0r04: FAIL bei 2^28
+     kette075388f1_T1C0r12: FAIL bei 2^31
+     kette075388f1_T1C0r16: FAIL bei 2^34
+     kette075388f1_T1C0r20: FAIL bei 2^29
+     kette075388f1_T1C0r28: FAIL bei 2^30
+     kette075388f1_T1C0r36: FAIL bei 2^28
+
+== k9_bswap_9fb21c_781f94  kette=8:9fb21c651e98df25,11:0,8:781f94b96e8edb3b  (K9 Hash-Klasse, mf(0x9fb21c651e98df25) bswap mf(0x781f94b96e8edb3b), Erschoepfung 19.08.) ==
+  fertig: ketteb8f128ac_T0C0r28  ->  FAIL bei 2^30
+  fertig: ketteb8f128ac_T0C0r32  ->  FAIL bei 2^33
+  fertig: ketteb8f128ac_T0C0r24  ->  sauber bis 2^34
+  fertig: ketteb8f128ac_T0C0r00  ->  FAIL bei 2^34
+  fertig: ketteb8f128ac_T0C0r12  ->  sauber bis 2^34
+  fertig: ketteb8f128ac_T0C0r20  ->  sauber bis 2^34
+  fertig: ketteb8f128ac_T0C0r08  ->  sauber bis 2^34
+  fertig: ketteb8f128ac_T0C0r16  ->  sauber bis 2^34
+  fertig: ketteb8f128ac_T0C0r04  ->  sauber bis 2^34  (1x suspicious)
+  fertig: ketteb8f128ac_T0C0r36  ->  FAIL bei 2^33
+  fertig: ketteb8f128ac_T1C0r04  ->  FAIL bei 2^32
+  fertig: ketteb8f128ac_T0C0r44  ->  FAIL bei 2^33
+  fertig: ketteb8f128ac_T0C0r40  ->  FAIL bei 2^34
+  fertig: ketteb8f128ac_T0C0r48  ->  FAIL bei 2^34
+  fertig: ketteb8f128ac_T0C0r52  ->  FAIL bei 2^34
+  fertig: ketteb8f128ac_T0C0r56  ->  FAIL bei 2^34
+  fertig: ketteb8f128ac_T0C0r60  ->  FAIL bei 2^34
+  fertig: ketteb8f128ac_T1C0r00  ->  FAIL bei 2^34
+  fertig: ketteb8f128ac_T1C0r08  ->  sauber bis 2^34  (3x suspicious)
+  fertig: ketteb8f128ac_T1C0r12  ->  sauber bis 2^34  (3x suspicious)
+  fertig: ketteb8f128ac_T1C0r16  ->  sauber bis 2^34  (1x suspicious)
+  fertig: ketteb8f128ac_T1C0r28  ->  FAIL bei 2^34
+  fertig: ketteb8f128ac_T1C0r20  ->  sauber bis 2^34  (8x suspicious)
+  fertig: ketteb8f128ac_T1C0r24  ->  sauber bis 2^34
+  fertig: ketteb8f128ac_T1C0r32  ->  sauber bis 2^34
+  fertig: ketteb8f128ac_T1C0r36  ->  sauber bis 2^34  (1x suspicious)
+  fertig: ketteb8f128ac_T1C0r40  ->  sauber bis 2^34
+  fertig: ketteb8f128ac_T1C0r44  ->  sauber bis 2^34  (1x suspicious)
+  fertig: ketteb8f128ac_T1C0r48  ->  sauber bis 2^34
+  fertig: ketteb8f128ac_T0C1r00  ->  sauber bis 2^34  (1x suspicious)
+  fertig: ketteb8f128ac_T0C1r04  ->  sauber bis 2^34
+  fertig: ketteb8f128ac_T1C0r52  ->  sauber bis 2^34
+  fertig: ketteb8f128ac_T1C0r56  ->  sauber bis 2^34
+  fertig: ketteb8f128ac_T1C0r60  ->  sauber bis 2^34
+  fertig: ketteb8f128ac_T0C1r08  ->  sauber bis 2^34
+  fertig: ketteb8f128ac_T0C1r12  ->  sauber bis 2^34
+  fertig: ketteb8f128ac_T0C1r20  ->  sauber bis 2^34
+  fertig: ketteb8f128ac_T0C1r16  ->  sauber bis 2^34
+  fertig: ketteb8f128ac_T0C1r24  ->  sauber bis 2^34
+  fertig: ketteb8f128ac_T0C1r32  ->  sauber bis 2^34
+  fertig: ketteb8f128ac_T0C1r28  ->  sauber bis 2^34
+  fertig: ketteb8f128ac_T0C1r36  ->  sauber bis 2^34
+  fertig: ketteb8f128ac_T0C1r40  ->  sauber bis 2^34
+  fertig: ketteb8f128ac_T0C1r44  ->  sauber bis 2^34  (1x suspicious)
+  fertig: ketteb8f128ac_T0C1r48  ->  sauber bis 2^34
+  fertig: ketteb8f128ac_T0C1r52  ->  sauber bis 2^34  (1x suspicious)
+  fertig: ketteb8f128ac_T0C1r56  ->  sauber bis 2^34
+  fertig: ketteb8f128ac_T0C1r60  ->  sauber bis 2^34
+  fertig: ketteb8f128ac_T1C1r00  ->  sauber bis 2^34
+  fertig: ketteb8f128ac_T1C1r04  ->  sauber bis 2^34
+  fertig: ketteb8f128ac_T1C1r08  ->  sauber bis 2^34
+  fertig: ketteb8f128ac_T1C1r12  ->  sauber bis 2^34
+  fertig: ketteb8f128ac_T1C1r16  ->  sauber bis 2^34
+  fertig: ketteb8f128ac_T1C1r20  ->  sauber bis 2^34
+  fertig: ketteb8f128ac_T1C1r24  ->  sauber bis 2^34
+  fertig: ketteb8f128ac_T1C1r28  ->  sauber bis 2^34
+  fertig: ketteb8f128ac_T1C1r36  ->  sauber bis 2^34
+  fertig: ketteb8f128ac_T1C1r32  ->  sauber bis 2^34
+  fertig: ketteb8f128ac_T1C1r40  ->  sauber bis 2^34  (1x suspicious)
+  fertig: ketteb8f128ac_T1C1r44  ->  sauber bis 2^34  (1x suspicious)
+  fertig: ketteb8f128ac_T1C1r52  ->  sauber bis 2^34
+  fertig: ketteb8f128ac_T1C1r48  ->  sauber bis 2^34
+  fertig: ketteb8f128ac_T1C1r56  ->  sauber bis 2^34
+  fertig: ketteb8f128ac_T1C1r60  ->  sauber bis 2^34
+-> DURCHGEFALLEN: 51/64 sauber, 13 FAIL, 0 ABBRUCH (2381 s)
+     ketteb8f128ac_T0C0r00: FAIL bei 2^34
+     ketteb8f128ac_T0C0r28: FAIL bei 2^30
+     ketteb8f128ac_T0C0r32: FAIL bei 2^33
+     ketteb8f128ac_T0C0r36: FAIL bei 2^33
+     ketteb8f128ac_T0C0r40: FAIL bei 2^34
+     ketteb8f128ac_T0C0r44: FAIL bei 2^33
+     ketteb8f128ac_T0C0r48: FAIL bei 2^34
+     ketteb8f128ac_T0C0r52: FAIL bei 2^34
+     ketteb8f128ac_T0C0r56: FAIL bei 2^34
+     ketteb8f128ac_T0C0r60: FAIL bei 2^34
+     ketteb8f128ac_T1C0r00: FAIL bei 2^34
+     ketteb8f128ac_T1C0r04: FAIL bei 2^32
+     ketteb8f128ac_T1C0r28: FAIL bei 2^34
+
+== k9_bswap_a24bae_94d049  kette=8:a24baed4963ee407,11:0,8:94d049bb133111eb  (K9 Hash-Klasse, mf(0xa24baed4963ee407) bswap mf(0x94d049bb133111eb), Erschoepfung 19.08.) ==
+  fertig: kette7c08b25a_T0C0r28  ->  FAIL bei 2^30
+  fertig: kette7c08b25a_T0C0r32  ->  FAIL bei 2^32
+  fertig: kette7c08b25a_T0C0r00  ->  FAIL bei 2^33
+  fertig: kette7c08b25a_T0C0r36  ->  FAIL bei 2^33
+  fertig: kette7c08b25a_T0C0r08  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T0C0r04  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T0C0r12  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T0C0r24  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T0C0r16  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T0C0r20  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T0C0r40  ->  FAIL bei 2^33
+  fertig: kette7c08b25a_T0C0r52  ->  FAIL bei 2^31
+  fertig: kette7c08b25a_T0C0r60  ->  FAIL bei 2^31
+  fertig: kette7c08b25a_T0C0r48  ->  FAIL bei 2^32
+  fertig: kette7c08b25a_T0C0r56  ->  FAIL bei 2^32
+  fertig: kette7c08b25a_T0C0r44  ->  FAIL bei 2^33
+  fertig: kette7c08b25a_T1C0r00  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette7c08b25a_T1C0r04  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T1C0r08  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T1C0r12  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette7c08b25a_T1C0r16  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T1C0r20  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T1C0r24  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T1C0r28  ->  sauber bis 2^34  (2x suspicious)
+  fertig: kette7c08b25a_T1C0r32  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T1C0r36  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T1C0r40  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette7c08b25a_T1C0r48  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T1C0r44  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T1C0r52  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette7c08b25a_T1C0r56  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T1C0r60  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T0C1r00  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T0C1r04  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T0C1r08  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T0C1r12  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T0C1r16  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette7c08b25a_T0C1r20  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T0C1r24  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T0C1r28  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T0C1r32  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T0C1r36  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T0C1r40  ->  sauber bis 2^34  (2x suspicious)
+  fertig: kette7c08b25a_T0C1r44  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T0C1r48  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette7c08b25a_T0C1r52  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T0C1r56  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T0C1r60  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T1C1r00  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T1C1r04  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T1C1r08  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T1C1r12  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T1C1r16  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T1C1r20  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T1C1r24  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette7c08b25a_T1C1r28  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T1C1r36  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T1C1r32  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette7c08b25a_T1C1r40  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T1C1r44  ->  sauber bis 2^34  (1x suspicious)
+  fertig: kette7c08b25a_T1C1r48  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T1C1r52  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T1C1r56  ->  sauber bis 2^34
+  fertig: kette7c08b25a_T1C1r60  ->  sauber bis 2^34
+-> DURCHGEFALLEN: 54/64 sauber, 10 FAIL, 0 ABBRUCH (2167 s)
+     kette7c08b25a_T0C0r00: FAIL bei 2^33
+     kette7c08b25a_T0C0r28: FAIL bei 2^30
+     kette7c08b25a_T0C0r32: FAIL bei 2^32
+     kette7c08b25a_T0C0r36: FAIL bei 2^33
+     kette7c08b25a_T0C0r40: FAIL bei 2^33
+     kette7c08b25a_T0C0r44: FAIL bei 2^33
+     kette7c08b25a_T0C0r48: FAIL bei 2^32
+     kette7c08b25a_T0C0r52: FAIL bei 2^31
+     kette7c08b25a_T0C0r56: FAIL bei 2^32
+     kette7c08b25a_T0C0r60: FAIL bei 2^31
+
+FERTIG nach 935 min -> [Pfad vor der Veroeffentlichung geschwaerzt; zeigte auf die Ergebnisdatei der nicht-oeffentlichen Suchanlage]

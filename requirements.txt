@@ -1,0 +1,15 @@
+# The rig needs no library at all: `rrc/ladder.py` runs on the standard
+# library, plus a C++ compiler and PractRand. If all you want is to
+# measure a mixer, you can ignore this file.
+#
+# What needs a library is redrawing the two images in assets/. They are
+# pinned to what the committed PNGs were drawn with, because a different
+# version redraws them to different bytes -- that is a version
+# difference, not a finding.
+matplotlib==3.10.8
+numpy==2.4.0
+
+# assets/preview.py also picks up a Windows system font. On another
+# platform it renders with a fallback and will not match byte for byte.
+# The script says so itself.
+pillow==12.1.0

@@ -1,0 +1,117 @@
+[
+ {
+  "name": "k9_bswap_bf5847_94d049",
+  "note": "K9 hash class, mf(0xbf58476d1ce4e5b9) bswap mf(0x94d049bb133111eb), exhaustion 19.08.",
+  "chain": "chain=8:bf58476d1ce4e5b9,11:0,8:94d049bb133111eb"
+ },
+ {
+  "name": "k9_bswap_bf5847_3c79ac",
+  "note": "K9 hash class, mf(0xbf58476d1ce4e5b9) bswap mf(0x3c79ac492ba7b653), exhaustion 19.08.",
+  "chain": "chain=8:bf58476d1ce4e5b9,11:0,8:3c79ac492ba7b653"
+ },
+ {
+  "name": "k9_bswap_bf5847_1c69b3",
+  "note": "K9 hash class, mf(0xbf58476d1ce4e5b9) bswap mf(0x1c69b3f74ac4ae35), exhaustion 19.08.",
+  "chain": "chain=8:bf58476d1ce4e5b9,11:0,8:1c69b3f74ac4ae35"
+ },
+ {
+  "name": "k9_bswap_94d049_94d049",
+  "note": "K9 hash class, mf(0x94d049bb133111eb) bswap mf(0x94d049bb133111eb), exhaustion 19.08.",
+  "chain": "chain=8:94d049bb133111eb,11:0,8:94d049bb133111eb"
+ },
+ {
+  "name": "k9_bswap_94d049_3c79ac",
+  "note": "K9 hash class, mf(0x94d049bb133111eb) bswap mf(0x3c79ac492ba7b653), exhaustion 19.08.",
+  "chain": "chain=8:94d049bb133111eb,11:0,8:3c79ac492ba7b653"
+ },
+ {
+  "name": "k9_bswap_94d049_1c69b3",
+  "note": "K9 hash class, mf(0x94d049bb133111eb) bswap mf(0x1c69b3f74ac4ae35), exhaustion 19.08.",
+  "chain": "chain=8:94d049bb133111eb,11:0,8:1c69b3f74ac4ae35"
+ },
+ {
+  "name": "k9_bswap_94d049_c4ceb9",
+  "note": "K9 hash class, mf(0x94d049bb133111eb) bswap mf(0xc4ceb9fe1a85ec53), exhaustion 19.08.",
+  "chain": "chain=8:94d049bb133111eb,11:0,8:c4ceb9fe1a85ec53"
+ },
+ {
+  "name": "k9_bswap_3c79ac_781f94",
+  "note": "K9 hash class, mf(0x3c79ac492ba7b653) bswap mf(0x781f94b96e8edb3b), exhaustion 19.08.",
+  "chain": "chain=8:3c79ac492ba7b653,11:0,8:781f94b96e8edb3b"
+ },
+ {
+  "name": "k9_bswap_9e6c63_94d049",
+  "note": "K9 hash class, mf(0x9e6c63d0676a9a99) bswap mf(0x94d049bb133111eb), exhaustion 19.08.",
+  "chain": "chain=8:9e6c63d0676a9a99,11:0,8:94d049bb133111eb"
+ },
+ {
+  "name": "k9_bswap_9e6d62_94d049",
+  "note": "K9 hash class, mf(0x9e6d62d06f6a9a9b) bswap mf(0x94d049bb133111eb), exhaustion 19.08.",
+  "chain": "chain=8:9e6d62d06f6a9a9b,11:0,8:94d049bb133111eb"
+ },
+ {
+  "name": "k9_bswap_c4ceb9_94d049",
+  "note": "K9 hash class, mf(0xc4ceb9fe1a85ec53) bswap mf(0x94d049bb133111eb), exhaustion 19.08.",
+  "chain": "chain=8:c4ceb9fe1a85ec53,11:0,8:94d049bb133111eb"
+ },
+ {
+  "name": "k9_bswap_c4ceb9_3c79ac",
+  "note": "K9 hash class, mf(0xc4ceb9fe1a85ec53) bswap mf(0x3c79ac492ba7b653), exhaustion 19.08.",
+  "chain": "chain=8:c4ceb9fe1a85ec53,11:0,8:3c79ac492ba7b653"
+ },
+ {
+  "name": "k9_bswap_c4ceb9_1c69b3",
+  "note": "K9 hash class, mf(0xc4ceb9fe1a85ec53) bswap mf(0x1c69b3f74ac4ae35), exhaustion 19.08.",
+  "chain": "chain=8:c4ceb9fe1a85ec53,11:0,8:1c69b3f74ac4ae35"
+ },
+ {
+  "name": "k9_bswap_c4ceb9_9e6d62",
+  "note": "K9 hash class, mf(0xc4ceb9fe1a85ec53) bswap mf(0x9e6d62d06f6a9a9b), exhaustion 19.08.",
+  "chain": "chain=8:c4ceb9fe1a85ec53,11:0,8:9e6d62d06f6a9a9b"
+ },
+ {
+  "name": "k9_bswap_c4ceb9_781f94",
+  "note": "K9 hash class, mf(0xc4ceb9fe1a85ec53) bswap mf(0x781f94b96e8edb3b), exhaustion 19.08.",
+  "chain": "chain=8:c4ceb9fe1a85ec53,11:0,8:781f94b96e8edb3b"
+ },
+ {
+  "name": "k9_bswap_d6e8fe_3c79ac",
+  "note": "K9 hash class, mf(0xd6e8feb86659fd93) bswap mf(0x3c79ac492ba7b653), exhaustion 19.08.",
+  "chain": "chain=8:d6e8feb86659fd93,11:0,8:3c79ac492ba7b653"
+ },
+ {
+  "name": "k9_bswap_d6e8fe_1c69b3",
+  "note": "K9 hash class, mf(0xd6e8feb86659fd93) bswap mf(0x1c69b3f74ac4ae35), exhaustion 19.08.",
+  "chain": "chain=8:d6e8feb86659fd93,11:0,8:1c69b3f74ac4ae35"
+ },
+ {
+  "name": "k9_bswap_9fb21c_94d049",
+  "note": "K9 hash class, mf(0x9fb21c651e98df25) bswap mf(0x94d049bb133111eb), exhaustion 19.08.",
+  "chain": "chain=8:9fb21c651e98df25,11:0,8:94d049bb133111eb"
+ },
+ {
+  "name": "k9_bswap_9fb21c_3c79ac",
+  "note": "K9 hash class, mf(0x9fb21c651e98df25) bswap mf(0x3c79ac492ba7b653), exhaustion 19.08.",
+  "chain": "chain=8:9fb21c651e98df25,11:0,8:3c79ac492ba7b653"
+ },
+ {
+  "name": "k9_bswap_9fb21c_9e6d62",
+  "note": "K9 hash class, mf(0x9fb21c651e98df25) bswap mf(0x9e6d62d06f6a9a9b), exhaustion 19.08.",
+  "chain": "chain=8:9fb21c651e98df25,11:0,8:9e6d62d06f6a9a9b"
+ },
+ {
+  "name": "k9_bswap_9fb21c_c4ceb9",
+  "note": "K9 hash class, mf(0x9fb21c651e98df25) bswap mf(0xc4ceb9fe1a85ec53), exhaustion 19.08.",
+  "chain": "chain=8:9fb21c651e98df25,11:0,8:c4ceb9fe1a85ec53"
+ },
+ {
+  "name": "k9_bswap_9fb21c_781f94",
+  "note": "K9 hash class, mf(0x9fb21c651e98df25) bswap mf(0x781f94b96e8edb3b), exhaustion 19.08.",
+  "chain": "chain=8:9fb21c651e98df25,11:0,8:781f94b96e8edb3b"
+ },
+ {
+  "name": "k9_bswap_a24bae_94d049",
+  "note": "K9 hash class, mf(0xa24baed4963ee407) bswap mf(0x94d049bb133111eb), exhaustion 19.08.",
+  "chain": "chain=8:a24baed4963ee407,11:0,8:94d049bb133111eb"
+ }
+]

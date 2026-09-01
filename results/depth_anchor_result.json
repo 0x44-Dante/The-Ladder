@@ -1,0 +1,36 @@
+{
+ "tlmax": "1TB",
+ "fazit": "ANKER HAELT bis 2^38+ -- die Anlage urteilt dort korrekt, der mfx9-Riss ist echt",
+ "laeufe": {
+  "nasam_T0C0r40": {
+   "mixer": "nasam",
+   "strom": "T0C0r40",
+   "erwartet": "haelt",
+   "urteil": "sauber bis 2^40  (1x suspicious)",
+   "wie_erwartet": true
+  },
+  "nasam_T1C0r02": {
+   "mixer": "nasam",
+   "strom": "T1C0r02",
+   "erwartet": "haelt",
+   "urteil": "sauber bis 2^40",
+   "wie_erwartet": true
+  },
+  "mfa9_T0C0r40": {
+   "mixer": "mfa9",
+   "strom": "T0C0r40",
+   "erwartet": "offen",
+   "urteil": "FAIL bei 2^39",
+   "wie_erwartet": true
+  },
+  "mix13_T0C0r40": {
+   "mixer": "mix13",
+   "strom": "T0C0r40",
+   "erwartet": "faellt",
+   "urteil": "FAIL bei 2^19",
+   "wie_erwartet": true
+  }
+ },
+ "stunden": 4.1,
+ "stand": "2026-08-21 02:56:59"
+}

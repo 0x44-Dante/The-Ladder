@@ -1,0 +1,12 @@
+{"label": "mfx9_T0C0r16", "urteil": "sauber bis 2^40  (1x suspicious)", "sek": 19109}
+{"label": "mfx9_T0C0r00", "urteil": "sauber bis 2^40", "sek": 19119}
+{"label": "mfx9_T0C0r32", "urteil": "sauber bis 2^40", "sek": 19189}
+{"label": "mfx9_T0C0r08", "urteil": "sauber bis 2^40", "sek": 19329}
+{"label": "mfx9_T0C0r24", "urteil": "sauber bis 2^40", "sek": 19369}
+{"label": "mfx9_T1C0r32", "urteil": "sauber bis 2^40", "sek": 19401}
+{"label": "mfx9_T1C0r16", "urteil": "sauber bis 2^40", "sek": 19409}
+{"label": "mfx9_T1C0r00", "urteil": "sauber bis 2^40", "sek": 19429}
+{"label": "mfx9_T1C0r08", "urteil": "sauber bis 2^40", "sek": 19557}
+{"label": "mfx9_T1C0r24", "urteil": "sauber bis 2^40", "sek": 19689}
+{"label": "mfx9_T0C0r40", "urteil": "FAIL bei 2^38", "sek": 23866}
+{"label": "mfx9_T1C0r02", "urteil": "FAIL bei 2^38", "sek": 24362}

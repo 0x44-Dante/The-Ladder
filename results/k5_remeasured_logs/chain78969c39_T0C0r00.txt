@@ -1,0 +1,33 @@
+RNG_test using PractRand version 0.94
+RNG = RNG_stdin64, seed = unknown
+test set = core, folding = extra
+
+rng=RNG_stdin64, seed=unknown
+length= 1 kilobyte (2^10 bytes), time= 0.2 seconds
+  no anomalies in 6 test result(s)
+
+rng=RNG_stdin64, seed=unknown
+length= 2 kilobytes (2^11 bytes), time= 0.2 seconds
+  no anomalies in 8 test result(s)
+
+rng=RNG_stdin64, seed=unknown
+length= 4 kilobytes (2^12 bytes), time= 0.3 seconds
+  no anomalies in 24 test result(s)
+
+rng=RNG_stdin64, seed=unknown
+length= 8 kilobytes (2^13 bytes), time= 0.6 seconds
+  no anomalies in 47 test result(s)
+
+rng=RNG_stdin64, seed=unknown
+length= 16 kilobytes (2^14 bytes), time= 1.1 seconds
+  Test Name                         Raw       Processed     Evaluation
+  FPF-14+6/16:(0,14-8)              R= +16.4  p =  7.7e-12   VERY SUSPICIOUS 
+  FPF-14+6/16:(1,14-9)              R= +11.1  p =  2.9e-7   mildly suspicious
+  FPF-14+6/16:(4,14-11)             R= +13.9  p =  7.0e-7   unusual          
+  FPF-14+6/16:all                   R= +23.9  p =  2.7e-15    FAIL !         
+  [Low4/16]Gap-16:A                 R=  -3.1  p =1-5.4e-5   mildly suspicious
+  [Low4/16]Gap-16:B                 R=  -2.6  p =1-6.3e-4   unusual          
+  [Low4/64]DC6-9x1Bytes-1           R= +62.9  p =  2.9e-18    FAIL !         
+  [Low4/64]mod3n(5):(0,9-6)         R= +29.3  p =  1.2e-10   VERY SUSPICIOUS 
+  ...and 66 test result(s) without anomalies
+

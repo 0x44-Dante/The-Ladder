@@ -1,0 +1,110 @@
+{
+ "what": "dependent-chain latency, x = mix(x), 100,000,000 iterations, three runs",
+ "why": "the cost column in this repository is a weight table with no measurement behind it. This is the first measurement.",
+ "machine": "AMD Ryzen 7 5700X, 8 physical cores, Windows 11",
+ "compiler": "g++ (tdm64-1) 10.3.0",
+ "tool": "rrc/bench_cost.cpp",
+ "not_measured": "throughput (independent calls pipeline and would flatter the wide mixers), code size, any other CPU",
+ "rows": [
+  {
+   "mixer": "wyrand step",
+   "weighted_cost": 5,
+   "ns_per_call": [
+    1.715,
+    1.588,
+    1.586
+   ],
+   "ns_median": 1.588,
+   "ns_per_cost_point": 0.3176
+  },
+  {
+   "mixer": "mulfold x2",
+   "weighted_cost": 8,
+   "ns_per_call": [
+    2.58,
+    2.585,
+    2.536
+   ],
+   "ns_median": 2.58,
+   "ns_per_cost_point": 0.3225
+  },
+  {
+   "mixer": "mfa9",
+   "weighted_cost": 9,
+   "ns_per_call": [
+    2.815,
+    2.83,
+    2.707
+   ],
+   "ns_median": 2.815,
+   "ns_per_cost_point": 0.3128
+  },
+  {
+   "mixer": "lu9",
+   "weighted_cost": 9,
+   "ns_per_call": [
+    2.876,
+    2.853,
+    2.792
+   ],
+   "ns_median": 2.853,
+   "ns_per_cost_point": 0.317
+  },
+  {
+   "mixer": "mix13",
+   "weighted_cost": 12,
+   "ns_per_call": [
+    3.005,
+    2.955,
+    3.124
+   ],
+   "ns_median": 3.005,
+   "ns_per_cost_point": 0.2504
+  },
+  {
+   "mixer": "fmix64",
+   "weighted_cost": 12,
+   "ns_per_call": [
+    3.103,
+    2.98,
+    3.012
+   ],
+   "ns_median": 3.012,
+   "ns_per_cost_point": 0.251
+  },
+  {
+   "mixer": "moremur",
+   "weighted_cost": 12,
+   "ns_per_call": [
+    3.036,
+    3.085,
+    3.073
+   ],
+   "ns_median": 3.073,
+   "ns_per_cost_point": 0.2561
+  },
+  {
+   "mixer": "meer10",
+   "weighted_cost": 10,
+   "ns_per_call": [
+    3.368,
+    3.203,
+    3.28
+   ],
+   "ns_median": 3.28,
+   "ns_per_cost_point": 0.328
+  },
+  {
+   "mixer": "nasam",
+   "weighted_cost": 15,
+   "ns_per_call": [
+    3.809,
+    3.843,
+    3.872
+   ],
+   "ns_median": 3.843,
+   "ns_per_cost_point": 0.2562
+  }
+ ],
+ "as_of": "2026-08-31"
+}

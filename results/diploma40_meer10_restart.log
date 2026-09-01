@@ -1,0 +1,11 @@
+
+============================================================
+  DIPLOM meer10  Versuch 1   22.08.2026 20:08:34,84
+============================================================
+  fertig: kette8c9da979_T0C0r00  ->  FAIL bei 2^19
+  fertig: meer10_T1C0r16  ->  sauber bis 2^28
+  fertig: meer10_T1C0r00  ->  sauber bis 2^28
+  fertig: meer10_T0C0r32  ->  sauber bis 2^28
+  fertig: meer10_T0C0r00  ->  sauber bis 2^28
+Anker ok: mix13 faellt, meer10 haelt die Henker.
+DIPLOM RRC-64-40  meer10: 256 Stroeme x 1TB, 20 schon verbucht, 236 offen, parallel 10.

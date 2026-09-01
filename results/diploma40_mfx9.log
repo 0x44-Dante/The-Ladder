@@ -1,0 +1,29 @@
+
+============================================================
+  DIPLOM mfx9  Versuch 1   20.08.2026 14:46:58,34
+============================================================
+  fertig: kette8c9da979_T0C0r00  ->  FAIL bei 2^19
+  fertig: mfx9_T1C0r16  ->  sauber bis 2^28
+  fertig: mfx9_T1C0r00  ->  sauber bis 2^28
+  fertig: mfx9_T0C0r00  ->  sauber bis 2^28
+  fertig: mfx9_T0C0r32  ->  sauber bis 2^28
+Anker ok: mix13 faellt, mfx9 haelt die Henker.
+DIPLOM RRC-64-40  mfx9: 256 Stroeme x 1TB, 0 schon verbucht, 256 offen, parallel 10.
+  [  1/256] mfx9_T0C0r16: sauber bis 2^40  (1x suspicious)  (5.3 h)
+  [  2/256] mfx9_T0C0r00: sauber bis 2^40  (5.3 h)
+  [  3/256] mfx9_T0C0r32: sauber bis 2^40  (5.3 h)
+  [  4/256] mfx9_T0C0r08: sauber bis 2^40  (5.4 h)
+  [  5/256] mfx9_T0C0r24: sauber bis 2^40  (5.4 h)
+  [  6/256] mfx9_T1C0r32: sauber bis 2^40  (5.4 h)
+  [  7/256] mfx9_T1C0r16: sauber bis 2^40  (5.4 h)
+  [  8/256] mfx9_T1C0r00: sauber bis 2^40  (5.4 h)
+  [  9/256] mfx9_T1C0r08: sauber bis 2^40  (5.4 h)
+  [ 10/256] mfx9_T1C0r24: sauber bis 2^40  (5.5 h)
+  [ 11/256] mfx9_T0C0r40: FAIL bei 2^38  (6.6 h)
+
+*** DIPLOM GESCHEITERT: mfx9_T0C0r40 -> FAIL bei 2^38 ***
+
+  [ 12/256] mfx9_T1C0r02: FAIL bei 2^38  (6.8 h)
+
+*** DIPLOM GESCHEITERT: mfx9_T1C0r02 -> FAIL bei 2^38 ***
+

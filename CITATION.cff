@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+title: The Ladder
+message: >-
+  If you use this rig, or quote a number measured with it, please cite
+  it. If you re-measure something and get a different answer, that is
+  more useful than a citation -- please say so.
+type: software
+abstract: >-
+  A test rig for 64-bit mixers that does not saturate. It feeds
+  mixer(ror64(T(counter) xor C, r)) to PractRand under Evensen's RRC
+  disguise scheme and reports the data volume at which the output can
+  first be told apart from randomness. That volume is the metric: weak
+  mixers give themselves away after kilobytes, strong ones hold for
+  terabytes. The repository holds the instrument, eight write-ups, the
+  raw measurements the write-ups rest on including the ones that went
+  against the author, and a single-header reference implementation of
+  the two mixers that came out of it.
+authors:
+  - given-names: "0x44"
+    family-names: Dante
+    alias: 0x44 DANTE
+    affiliation: 0x44 Zero Systems
+    orcid: https://orcid.org/0009-0002-5359-778X
+version: "1.0"
+date-released: 2026-09-01
+license: MIT
+repository-code: https://github.com/0x44-Dante/The-Ladder
+keywords:
+  - hash function
+  - finalizer
+  - mixer
+  - pseudorandom number generator
+  - randomness testing
+  - PractRand
+  - reproducible measurement
+references:
+  - type: software
+    title: PractRand
+    authors:
+      - name: Chris Doty-Humphrey
+    notes: >-
+      Version 0.94, the judge in every run. Built with -std=gnu++14 and
+      the documented return patch; see rrc/PRACTRAND_FINDING.md.
+  - type: generic
+    title: >-
+      Rotate, reverse and complement disguises for counter streams (the
+      RRC scheme)
+    authors:
+      - name: Pelle Evensen
+    url: https://mostlymangling.blogspot.com/
+    notes: >-
+      The test scheme this ladder is built on, and the source of both
+      calibration weights: mix13's published failure range and NASAM's
+      pass at RRC-64-42.

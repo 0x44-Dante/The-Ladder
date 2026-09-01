@@ -1,0 +1,182 @@
+{
+ "chacha(8)": {
+  "streams": 10,
+  "tlmax": "2GB",
+  "suspicious_total": 2,
+  "fail_total": 0,
+  "per_stream": 0.2,
+  "runs": [
+   {
+    "seed": 68,
+    "suspicious": 0,
+    "fail": 0
+   },
+   {
+    "seed": 69,
+    "suspicious": 0,
+    "fail": 0
+   },
+   {
+    "seed": 70,
+    "suspicious": 0,
+    "fail": 0
+   },
+   {
+    "seed": 71,
+    "suspicious": 0,
+    "fail": 0
+   },
+   {
+    "seed": 72,
+    "suspicious": 0,
+    "fail": 0
+   },
+   {
+    "seed": 73,
+    "suspicious": 0,
+    "fail": 0
+   },
+   {
+    "seed": 74,
+    "suspicious": 0,
+    "fail": 0
+   },
+   {
+    "seed": 75,
+    "suspicious": 0,
+    "fail": 0
+   },
+   {
+    "seed": 76,
+    "suspicious": 2,
+    "fail": 0
+   },
+   {
+    "seed": 77,
+    "suspicious": 0,
+    "fail": 0
+   }
+  ]
+ },
+ "sfc64": {
+  "streams": 10,
+  "tlmax": "2GB",
+  "suspicious_total": 0,
+  "fail_total": 0,
+  "per_stream": 0.0,
+  "runs": [
+   {
+    "seed": 68,
+    "suspicious": 0,
+    "fail": 0
+   },
+   {
+    "seed": 69,
+    "suspicious": 0,
+    "fail": 0
+   },
+   {
+    "seed": 70,
+    "suspicious": 0,
+    "fail": 0
+   },
+   {
+    "seed": 71,
+    "suspicious": 0,
+    "fail": 0
+   },
+   {
+    "seed": 72,
+    "suspicious": 0,
+    "fail": 0
+   },
+   {
+    "seed": 73,
+    "suspicious": 0,
+    "fail": 0
+   },
+   {
+    "seed": 74,
+    "suspicious": 0,
+    "fail": 0
+   },
+   {
+    "seed": 75,
+    "suspicious": 0,
+    "fail": 0
+   },
+   {
+    "seed": 76,
+    "suspicious": 0,
+    "fail": 0
+   },
+   {
+    "seed": 77,
+    "suspicious": 0,
+    "fail": 0
+   }
+  ]
+ },
+ "xsm64": {
+  "streams": 10,
+  "tlmax": "2GB",
+  "suspicious_total": 1,
+  "fail_total": 0,
+  "per_stream": 0.1,
+  "runs": [
+   {
+    "seed": 68,
+    "suspicious": 0,
+    "fail": 0
+   },
+   {
+    "seed": 69,
+    "suspicious": 0,
+    "fail": 0
+   },
+   {
+    "seed": 70,
+    "suspicious": 0,
+    "fail": 0
+   },
+   {
+    "seed": 71,
+    "suspicious": 0,
+    "fail": 0
+   },
+   {
+    "seed": 72,
+    "suspicious": 1,
+    "fail": 0
+   },
+   {
+    "seed": 73,
+    "suspicious": 0,
+    "fail": 0
+   },
+   {
+    "seed": 74,
+    "suspicious": 0,
+    "fail": 0
+   },
+   {
+    "seed": 75,
+    "suspicious": 0,
+    "fail": 0
+   },
+   {
+    "seed": 76,
+    "suspicious": 0,
+    "fail": 0
+   },
+   {
+    "seed": 77,
+    "suspicious": 0,
+    "fail": 0
+   }
+  ]
+ },
+ "note": "Null runs: sources whose randomness is not in dispute, through the same judge, flags and depth as the entry test. They answer one question only -- how many suspicious lines PractRand emits per 2 GB stream when nothing is wrong. The diploma runs at 2^40, and the null at that depth is NOT measured.",
+ "as_of": "2026-08-31 00:58:04",
+ "minutes": 24.8
+}

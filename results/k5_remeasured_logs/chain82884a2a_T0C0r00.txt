@@ -1,0 +1,42 @@
+RNG_test using PractRand version 0.94
+RNG = RNG_stdin64, seed = unknown
+test set = core, folding = extra
+
+rng=RNG_stdin64, seed=unknown
+length= 1 kilobyte (2^10 bytes), time= 0.2 seconds
+  no anomalies in 6 test result(s)
+
+rng=RNG_stdin64, seed=unknown
+length= 2 kilobytes (2^11 bytes), time= 0.3 seconds
+  Test Name                         Raw       Processed     Evaluation
+  DC6-9x1Bytes-1                    R=  +7.4  p =  4.6e-3   unusual          
+  ...and 7 test result(s) without anomalies
+
+rng=RNG_stdin64, seed=unknown
+length= 4 kilobytes (2^12 bytes), time= 0.4 seconds
+  Test Name                         Raw       Processed     Evaluation
+  BCFN(2+0,13-9,T)                  R= +10.2  p =  2.1e-3   unusual          
+  [Low8/32]mod3n(5):(0,9-6)         R= +21.4  p =  5.7e-8   very suspicious  
+  ...and 22 test result(s) without anomalies
+
+rng=RNG_stdin64, seed=unknown
+length= 8 kilobytes (2^13 bytes), time= 0.6 seconds
+  Test Name                         Raw       Processed     Evaluation
+  DC6-9x1Bytes-1                    R=  +7.4  p =  1.4e-3   unusual          
+  Gap-16:A                          R= +28.4  p =  7.9e-21    FAIL !!        
+  Gap-16:B                          R= +36.0  p =  2.6e-23    FAIL !!        
+  FPF-14+6/16:(0,14-9)              R=  -5.1  p =1-1.1e-6   unusual          
+  FPF-14+6/16:cross                 R=  -1.7  p =1-2.4e-4   unusual          
+  [Low1/8]DC6-9x1Bytes-1            R= +57.3  p =  1.0e-16    FAIL !         
+  [Low4/16]DC6-9x1Bytes-1           R= +13.5  p =  4.6e-5   suspicious       
+  [Low4/16]FPF-14+6/16:cross        R=  -1.4  p~=1-5.3e-4   unusual          
+  [Low4/32]DC6-9x1Bytes-1           R= +23.5  p =  2.1e-7   very suspicious  
+  [Low8/32]DC6-9x1Bytes-1           R=  +8.3  p =  2.3e-3   unusual          
+  [Low8/32]FPF-14+6/16:cross        R=  -1.4  p~=1-5.3e-4   unusual          
+  [Low8/32]mod3n(5):(0,9-6)         R= +21.4  p =  5.7e-8   very suspicious  
+  [Low8/64]DC6-9x1Bytes-1           R= +19.0  p =  3.6e-6   very suspicious  
+  [Low8/64]mod3n(5):(0,9-6)         R=+355.8  p =  1.1e-119   FAIL !!!!!     
+  [Low8/64]mod3n(5):(1,9-6)         R=+123.0  p =  6.2e-42    FAIL !!!       
+  [Low8/64]mod3n(5):(2,9-6)         R= +22.1  p =  3.2e-8   very suspicious  
+  ...and 31 test result(s) without anomalies
+

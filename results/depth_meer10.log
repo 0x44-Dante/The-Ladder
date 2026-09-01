@@ -1,0 +1,77 @@
+TIEFE PRUEFUNG meer10  (voll: 64 Stroeme x 16GB, Ziel 2^34, parallel 8)
+  fertig: anker_mix13_T0C0r00  ->  FAIL bei 2^19
+  unterer Anker ok: mix13 -> FAIL bei 2^19
+  fertig: anker_nasam_T0C0r00  ->  sauber bis 2^31
+  oberer Anker ok: nasam -> sauber bis 2^31
+  Namensraum ok: keine Diplomdatei angefasst.
+
+  64 Stroeme laufen ...
+  fertig: tiefe_meer10_T0C0r00  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T0C0r04  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T0C0r08  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T0C0r16  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T0C0r12  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T0C0r20  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T0C0r24  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T0C0r28  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T0C0r32  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T0C0r36  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T0C0r60  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T0C0r44  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T0C0r48  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T0C0r56  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T0C0r40  ->  sauber bis 2^34  (1x suspicious)
+  fertig: tiefe_meer10_T0C0r52  ->  sauber bis 2^34  (1x suspicious)
+  fertig: tiefe_meer10_T1C0r00  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T1C0r04  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T1C0r08  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T1C0r28  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T1C0r12  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T1C0r16  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T1C0r20  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T1C0r24  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T1C0r32  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T1C0r40  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T1C0r36  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T1C0r44  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T1C0r48  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T1C0r52  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T1C0r56  ->  sauber bis 2^34  (1x suspicious)
+  fertig: tiefe_meer10_T1C0r60  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T0C1r00  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T0C1r04  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T0C1r08  ->  sauber bis 2^34  (1x suspicious)
+  fertig: tiefe_meer10_T0C1r12  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T0C1r28  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T0C1r16  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T0C1r20  ->  sauber bis 2^34  (1x suspicious)
+  fertig: tiefe_meer10_T0C1r24  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T0C1r32  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T0C1r36  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T0C1r40  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T0C1r44  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T0C1r48  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T0C1r60  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T0C1r52  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T0C1r56  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T1C1r00  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T1C1r04  ->  sauber bis 2^34  (1x suspicious)
+  fertig: tiefe_meer10_T1C1r08  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T1C1r12  ->  sauber bis 2^34  (1x suspicious)
+  fertig: tiefe_meer10_T1C1r16  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T1C1r20  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T1C1r28  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T1C1r24  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T1C1r32  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T1C1r36  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T1C1r40  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T1C1r44  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T1C1r60  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T1C1r52  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T1C1r48  ->  sauber bis 2^34
+  fertig: tiefe_meer10_T1C1r56  ->  sauber bis 2^34
+
+-> BESTANDEN: 64/64 sauber bis 2^34, 0 FAIL, 0 ABBRUCH, 0 zu kurz (39 min)
+
+-> tiefe_meer10_ergebnis.json
+RC=0

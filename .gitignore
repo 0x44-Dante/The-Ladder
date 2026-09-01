@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.exe
+rrc/results/
+practrand094/
+rrc/depth_*
+rrc/diploma40_*
+rrc/exhaust_k9_*
+rrc/class_k*_evals.jsonl
+rrc/class_k*_result.json
+rrc/klasse_*
+rrc/practrand.txt
+rrc/mixer_user.h
+rrc/*.log
+rrc/wyhash_*
+PractRand_*.zip
+verify_meer10.exe

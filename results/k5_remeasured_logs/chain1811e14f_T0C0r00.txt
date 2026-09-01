@@ -1,0 +1,43 @@
+RNG_test using PractRand version 0.94
+RNG = RNG_stdin64, seed = unknown
+test set = core, folding = extra
+
+rng=RNG_stdin64, seed=unknown
+length= 1 kilobyte (2^10 bytes), time= 0.2 seconds
+  no anomalies in 6 test result(s)
+
+rng=RNG_stdin64, seed=unknown
+length= 2 kilobytes (2^11 bytes), time= 0.3 seconds
+  no anomalies in 8 test result(s)
+
+rng=RNG_stdin64, seed=unknown
+length= 4 kilobytes (2^12 bytes), time= 0.3 seconds
+  no anomalies in 24 test result(s)
+
+rng=RNG_stdin64, seed=unknown
+length= 8 kilobytes (2^13 bytes), time= 0.6 seconds
+  no anomalies in 47 test result(s)
+
+rng=RNG_stdin64, seed=unknown
+length= 16 kilobytes (2^14 bytes), time= 1.1 seconds
+  Test Name                         Raw       Processed     Evaluation
+  [Low4/64]DC6-9x1Bytes-1           R= +16.0  p =  2.5e-5   suspicious       
+  ...and 73 test result(s) without anomalies
+
+rng=RNG_stdin64, seed=unknown
+length= 32 kilobytes (2^15 bytes), time= 1.9 seconds
+  Test Name                         Raw       Processed     Evaluation
+  FPF-14+6/16:all                   R=  -6.9  p =1-8.4e-5   unusual          
+  [Low1/32]DC6-9x1Bytes-1           R= +32.2  p =  8.6e-10   VERY SUSPICIOUS 
+  [Low1/32]FPF-14+6/16:(0,14-11)    R= +23.4  p =  7.5e-11  very suspicious  
+  [Low1/32]FPF-14+6/16:all          R= +24.0  p~=   1e-7    very suspicious  
+  [Low4/32]DC6-9x1Bytes-1           R= +14.0  p =  7.0e-6   suspicious       
+  [Low4/32]Gap-16:A                 R= +10.6  p =  3.2e-9    VERY SUSPICIOUS 
+  [Low4/32]Gap-16:B                 R= +11.6  p =  1.3e-9    VERY SUSPICIOUS 
+  [Low4/64]DC6-9x1Bytes-1           R= +39.8  p =  1.4e-13    FAIL           
+  [Low8/32]Gap-16:A                 R= +10.5  p =  4.1e-7   very suspicious  
+  [Low8/32]Gap-16:B                 R=  +8.0  p =  5.7e-5   mildly suspicious
+  [Low8/64]Gap-16:A                 R= +12.3  p =  9.5e-11   VERY SUSPICIOUS 
+  [Low8/64]Gap-16:B                 R= +10.3  p =  1.6e-8   very suspicious  
+  ...and 87 test result(s) without anomalies
+

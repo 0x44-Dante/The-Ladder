@@ -1,0 +1,44 @@
+RNG_test using PractRand version 0.94
+RNG = RNG_stdin64, seed = unknown
+test set = core, folding = extra
+
+rng=RNG_stdin64, seed=unknown
+length= 1 kilobyte (2^10 bytes), time= 0.2 seconds
+  Test Name                         Raw       Processed     Evaluation
+  DC6-9x1Bytes-1                    R=  +5.7  p = 0.018     unusual          
+  ...and 5 test result(s) without anomalies
+
+rng=RNG_stdin64, seed=unknown
+length= 2 kilobytes (2^11 bytes), time= 0.3 seconds
+  no anomalies in 8 test result(s)
+
+rng=RNG_stdin64, seed=unknown
+length= 4 kilobytes (2^12 bytes), time= 0.4 seconds
+  Test Name                         Raw       Processed     Evaluation
+  [Low8/32]mod3n(5):(0,9-6)         R= +12.9  p =  3.8e-5   mildly suspicious
+  ...and 23 test result(s) without anomalies
+
+rng=RNG_stdin64, seed=unknown
+length= 8 kilobytes (2^13 bytes), time= 0.7 seconds
+  Test Name                         Raw       Processed     Evaluation
+  [Low4/32]DC6-9x1Bytes-1           R=  +9.6  p =  1.5e-3   unusual          
+  [Low8/32]mod3n(5):(0,9-6)         R= +12.9  p =  3.8e-5   unusual          
+  ...and 45 test result(s) without anomalies
+
+rng=RNG_stdin64, seed=unknown
+length= 16 kilobytes (2^14 bytes), time= 1.2 seconds
+  Test Name                         Raw       Processed     Evaluation
+  [Low1/8]DC6-9x1Bytes-1            R= +11.8  p =  1.7e-4   mildly suspicious
+  [Low1/16]DC6-9x1Bytes-1           R= +20.6  p =  1.3e-6   very suspicious  
+  [Low4/16]DC6-9x1Bytes-1           R= +10.7  p =  1.2e-4   mildly suspicious
+  [Low4/16]Gap-16:A                 R= +67.5  p =  4.5e-61    FAIL !!!!      
+  [Low4/16]Gap-16:B                 R= +72.3  p =  6.6e-63    FAIL !!!!      
+  [Low4/32]DC6-9x1Bytes-1           R= +37.7  p =  7.3e-13    FAIL           
+  [Low4/64]DC6-9x1Bytes-1           R=  +9.4  p =  1.7e-3   unusual          
+  [Low8/32]DC6-9x1Bytes-1           R=  +8.7  p =  7.5e-4   unusual          
+  [Low8/32]Gap-16:A                 R=  +8.6  p =  2.1e-7   very suspicious  
+  [Low8/32]Gap-16:B                 R=  +9.4  p =  1.0e-7   very suspicious  
+  [Low8/32]mod3n(5):(0,9-6)         R= +12.9  p =  3.8e-5   unusual          
+  [Low8/64]DC6-9x1Bytes-1           R= +12.2  p =  1.2e-4   mildly suspicious
+  ...and 62 test result(s) without anomalies
+

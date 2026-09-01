@@ -1,0 +1,23 @@
+# Source and prose check out with LF on every machine, so two clones of
+# this repository hold the same bytes.
+* text=auto eol=lf
+
+# Windows scripts keep CRLF. PowerShell in particular is unreliable with
+# LF-only files, and these only ever run on Windows.
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+
+# Evidence is never rewritten, not even by git.
+#
+# The files under results/ are the instrument's own output. They are CRLF
+# because PractRand wrote them on Windows, and the whole point of that
+# directory is that the bytes are the ones the run produced. Line-ending
+# normalisation is exactly the kind of small, well-meant edit that turns
+# a record into a copy of a record -- and this project has already been
+# bitten once by CRLF translation, silently destroying a byte stream
+# mid-measurement (see rrc/README.md on -std=gnu++14).
+#
+# -text rather than eol=crlf on purpose: this way whatever was committed
+# is what comes back out, including any future file that happens to be
+# LF. The rule should protect the record, not enforce a flavour of it.
+results/** -text
