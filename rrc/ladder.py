@@ -12,6 +12,7 @@ import hashlib
 import os
 import re
 import shutil
+import signal
 import subprocess
 import threading
 import sys
@@ -19,7 +20,12 @@ import time
 from pathlib import Path
 
 HERE = Path(__file__).parent
-FEEDER = HERE / "feeder.exe"
+FEEDER = HERE / ("feeder.exe" if os.name == "nt" else "feeder")
+# The two stall anchors run as .bat on Windows and .sh elsewhere.
+# Both must start with exec, so that no shell is left standing as a
+# parent process -- see _kill().
+STALL_LATE = ("stall_feeder_late.bat" if os.name == "nt"
+              else "stall_feeder_late.sh")
 OUT = HERE / "results"
 
 
@@ -366,7 +372,7 @@ def watchdog_sleeper():
     t0 = time.time()
     lbl = run([("stalltest", 0, 0, 0)], tlmax="64MB", parallel=1,
               timeout_s=600, quiet=True,
-              feeder=str(HERE / "stall_feeder_late.bat"), prefix="wd_")[0]
+              feeder=str(HERE / STALL_LATE), prefix="wd_")[0]
     took = time.time() - t0
     v = verdict(lbl)
     return ("ABORTED" in v and not is_clean(v) and took < STALL_S * 3,
@@ -565,6 +571,14 @@ def _kill(proc, tree=False):
         if tree and os.name == "nt":
             subprocess.run(["taskkill", "/F", "/T", "/PID", str(proc.pid)],
                            capture_output=True, timeout=10)
+        elif tree:
+            # Linux: same job, different route. The feeder was started
+            # with start_new_session=True, so it sits in its own process
+            # group and a signal to the group takes all of it. Without
+            # this, a .sh anchor leaves a sleeping python3 behind -- and
+            # the stall anchor then LOOKS like it fired while the machine
+            # slowly fills with orphans. By PID, never by name.
+            os.killpg(os.getpgid(proc.pid), signal.SIGKILL)
     except Exception:
         pass
     try:
@@ -578,7 +592,7 @@ def _drive(pending, rest, labels, feeder, tlmax, parallel,
     # label -> (last log size, when it last grew). See _stalled().
     progress = {}
     # Only the stall-detector anchors run their feeder through a .bat.
-    tree = str(feeder).lower().endswith((".bat", ".cmd"))
+    tree = str(feeder).lower().endswith((".bat", ".cmd", ".sh"))
     while rest or pending:
         while rest and len(pending) < parallel:
             mixer, T, C, r = rest.pop(0)
@@ -599,7 +613,11 @@ def _drive(pending, rest, labels, feeder, tlmax, parallel,
             labels.append(label)
             t_start = time.time()
             out = open(OUT / f"{label}.txt", "wb")
-            f = subprocess.Popen(fargs, stdout=subprocess.PIPE)
+            # Own process group, so that _kill() can take the whole
+            # group. No effect on Windows.
+            f = subprocess.Popen(
+                fargs, stdout=subprocess.PIPE,
+                start_new_session=(os.name != "nt"))
             p = subprocess.Popen([str(RNG_TEST), "stdin64", "-tf", "2",
                                   "-tlmin", "1KB", "-tlmax", tlmax],
                                  stdin=f.stdout, stdout=out,
